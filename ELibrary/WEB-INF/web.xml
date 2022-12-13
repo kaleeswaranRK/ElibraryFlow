@@ -256,8 +256,8 @@ Copyright 2004-2021 Avaya Inc.
     
     
     <servlet id="SAGE-callflow-servlet_ExistUser_349">
-        <servlet-name>ExistUser-selectBookEnd</servlet-name>
-        <servlet-class>flow.subflow.ExistUser.selectBookEnd</servlet-class>
+        <servlet-name>ExistUser-selectedBook</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.selectedBook</servlet-class>
     </servlet>
     
     <servlet id="SAGE-callflow-servlet_ExistUser_372">
@@ -452,8 +452,8 @@ Copyright 2004-2021 Avaya Inc.
     
     
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_349">
-        <servlet-name>ExistUser-selectBookEnd</servlet-name>
-        <url-pattern>/ExistUser-selectBookEnd</url-pattern>
+        <servlet-name>ExistUser-selectedBook</servlet-name>
+        <url-pattern>/ExistUser-selectedBook</url-pattern>
     </servlet-mapping>
     
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_372">
