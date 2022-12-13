@@ -164,10 +164,7 @@ Copyright 2004-2021 Avaya Inc.
     
     
     
-    <servlet id="SAGE-callflow-servlet_main_166">
-        <servlet-name>agentAnnounce</servlet-name>
-        <servlet-class>flow.agentAnnounce</servlet-class>
-    </servlet>
+    
     
     <servlet id="SAGE-callflow-servlet_main_184">
         <servlet-name>ExistUser</servlet-name>
@@ -281,6 +278,10 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>ExistUser-passwordEventAnnounce</servlet-name>
         <servlet-class>flow.subflow.ExistUser.passwordEventAnnounce</servlet-class>
     </servlet>
+    <servlet id="SAGE-callflow-servlet_main_232">
+        <servlet-name>agentTransfer</servlet-name>
+        <servlet-class>flow.agentTransfer</servlet-class>
+    </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
         <url-pattern>/AvayaDefaultDisconnectHandler</url-pattern>
@@ -367,10 +368,7 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>userEntry-Begin</servlet-name>
         <url-pattern>/userEntry-Begin</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_main_166">
-        <servlet-name>agentAnnounce</servlet-name>
-        <url-pattern>/agentAnnounce</url-pattern>
-    </servlet-mapping>
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_main_184">
         <servlet-name>ExistUser</servlet-name>
         <url-pattern>/ExistUser</url-pattern>
@@ -473,6 +471,10 @@ Copyright 2004-2021 Avaya Inc.
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_447">
         <servlet-name>ExistUser-passwordEventAnnounce</servlet-name>
         <url-pattern>/ExistUser-passwordEventAnnounce</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_232">
+        <servlet-name>agentTransfer</servlet-name>
+        <url-pattern>/agentTransfer</url-pattern>
     </servlet-mapping>
     
     
