@@ -48,12 +48,6 @@
                                 </FlowItem>
                             </ChildItems>
                         </FlowItem>
-                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.OnDisconnect" id="20" version="1.2">
-                            <ItemProperties>
-                                <Property name="LinkedNodeID" value="53"/>
-                            </ItemProperties>
-                            <ChildItems/>
-                        </FlowItem>
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Link" id="23" version="1.2">
                             <ItemProperties>
                                 <Property name="ActivateDTMF" value="00"/>
@@ -116,7 +110,7 @@
                                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.GoTo" id="225" version="1.2">
                                     <ItemProperties>
                                         <Property name="LinkedNodeID" value="3"/>
-                                        <Property name="ActivateIteration" value="3"/>
+                                        <Property name="ActivateIteration" value="1"/>
                                     </ItemProperties>
                                     <ChildItems/>
                                 </FlowItem>
@@ -576,12 +570,6 @@
                 <Property name="Connection.SourceObjectID" value="22"/>
                 <Property name="Connection.TargetObjectID" value="53"/>
                 <Bendpoint x="328" y="54"/>
-            </NodeConnection>
-            <NodeConnection id="71" version="1.2">
-                <SourceNode id="1"/>
-                <TargetNode id="53"/>
-                <Property name="Connection.SourceObjectID" value="20"/>
-                <Property name="Connection.TargetObjectID" value="53"/>
             </NodeConnection>
             <NodeConnection id="72" version="1.2">
                 <SourceNode id="1"/>

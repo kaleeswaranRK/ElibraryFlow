@@ -362,15 +362,7 @@
                             <ItemProperties>
                                 <Property name="Name" value="LocalVariables"/>
                             </ItemProperties>
-                            <ChildItems>
-                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SimpleVariable" id="432" version="1.2">
-                                    <ItemProperties>
-                                        <Property name="value" value="0"/>
-                                        <Property name="Name" value="userEvent"/>
-                                    </ItemProperties>
-                                    <ChildItems/>
-                                </FlowItem>
-                            </ChildItems>
+                            <ChildItems/>
                         </FlowItem>
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.IfCondition" id="35" version="1.2">
                             <ItemProperties>
@@ -836,7 +828,7 @@
                 <TargetNode id="19"/>
                 <Property name="Connection.SourceObjectID" value="280"/>
                 <Property name="Connection.TargetObjectID" value="19"/>
-                <Bendpoint x="280" y="101"/>
+                <Bendpoint x="280" y="140"/>
             </NodeConnection>
             <NodeConnection id="344" version="1.2">
                 <SourceNode id="236"/>
@@ -912,12 +904,18 @@
                 <TargetNode id="6"/>
                 <Property name="Connection.SourceObjectID" value="444"/>
                 <Property name="Connection.TargetObjectID" value="6"/>
+                <Bendpoint x="324" y="87"/>
+                <Bendpoint x="171" y="106"/>
+                <Bendpoint x="18" y="125"/>
             </NodeConnection>
             <NodeConnection id="446" version="1.2">
                 <SourceNode id="31"/>
                 <TargetNode id="441"/>
                 <Property name="Connection.SourceObjectID" value="360"/>
                 <Property name="Connection.TargetObjectID" value="441"/>
+                <Bendpoint x="222" y="148"/>
+                <Bendpoint x="190" y="122"/>
+                <Bendpoint x="158" y="95"/>
             </NodeConnection>
             <NodeConnection id="456" version="1.2">
                 <SourceNode id="41"/>
