@@ -9,15 +9,10 @@
                 <Property name="BargeIn" value="true"/>
             </Properties>
             <ChildItems>
-                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                     <Properties>
-                        <Property name="Name" value="Invalid User id"/>
-                    </Properties>
-                    <ChildItems/>
-                </Segment>
-                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
-                    <Properties>
-                        <Property name="Name" value="Enter valid user id"/>
+                        <Property name="Phraseset" value="eLibrary"/>
+                        <Property name="Phrase" value="userIdMismatch"/>
                     </Properties>
                     <ChildItems/>
                 </Segment>

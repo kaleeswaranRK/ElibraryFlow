@@ -16,12 +16,10 @@
                     </Properties>
                     <ChildItems/>
                 </Segment>
-                <Segment class="com.avaya.sce.prompts.internal.segment.TextVariable" type="TextVariable">
+                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                     <Properties>
-                        <Property name="Field" value="welcomejoin"/>
-                        <Property name="Format" value="text"/>
-                        <Property name="Valid" value="true"/>
-                        <Property name="Name" value="eLibrary"/>
+                        <Property name="Phraseset" value="eLibrary"/>
+                        <Property name="Phrase" value="welcomeJoin"/>
                     </Properties>
                     <ChildItems/>
                 </Segment>

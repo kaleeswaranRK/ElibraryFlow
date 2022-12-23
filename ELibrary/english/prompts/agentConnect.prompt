@@ -6,7 +6,7 @@
                 <Property name="Timeout_Presentation" value="constant"/>
                 <Property name="Timeout" value="8"/>
                 <Property name="TimeUnit" value="seconds"/>
-                <Property name="BargeIn" value="true"/>
+                <Property name="BargeIn" value="false"/>
             </Properties>
             <ChildItems>
                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">

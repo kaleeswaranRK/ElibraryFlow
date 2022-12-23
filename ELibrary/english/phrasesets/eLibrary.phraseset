@@ -239,4 +239,159 @@ if you want to exit press 0</phrasetext>
         <comments/>
         <audiofile>authorMenuReturn.wav</audiofile>
     </phrase>
+    <phrase version="1.0">
+        <displayname>badFetch</displayname>
+        <talent/>
+        <phrasetext>bad fetch error problem</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>badfetch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>agentCallEnd</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AgentCallEnd.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>music</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Vodafone.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>welcomeJoin</displayname>
+        <talent/>
+        <phrasetext>We are happy to help you</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>welcomeJoin.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>dataMismatch</displayname>
+        <talent/>
+        <phrasetext>Sorry You are Enter Too many Wrong Inputs</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>DataMisMatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>userIdMismatch</displayname>
+        <talent/>
+        <phrasetext>Invalid User Id &#13;
+Enter Valid User Id</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>UserIdMismatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>passwordMismatch</displayname>
+        <talent/>
+        <phrasetext>Invalid Password&#13;
+Enter Valid Password</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PasswordMismatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>WhereaboutsBook</displayname>
+        <talent/>
+        <phrasetext>You are select Whereabouts book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>WhereaboutsBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RightUnderOurNoseBook</displayname>
+        <talent/>
+        <phrasetext>you are select Right Under Our Nose book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RightUnderOurNoseBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname> UnfinishedBook</displayname>
+        <talent/>
+        <phrasetext>you are select  Unfinished book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Unfinishedbook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MappingLovebook</displayname>
+        <talent/>
+        <phrasetext>you are select Mapping Love book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MappingLovebook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TheLostSoulBook</displayname>
+        <talent/>
+        <phrasetext>you are select The Lost Soul book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TheLostSoulbook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>JhumpaLahiriAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Jhumpa Lahiri books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>JhumpaLahiriAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>R.GiridharanAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select R. Giridharan books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>GiridharanAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PriyankaChopraJonasAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Priyanka Chopra Jonas books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PriyankaChopraJonasAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>AshwinyAIyerTiwariAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Ashwiny AIyer Tiwari books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AshwinyAIyerTiwariAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>OlgaTokarczukAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Olga Tokarczuk books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>OlgaTokarczukAuthor.wav</audiofile>
+    </phrase>
 </phraseset>

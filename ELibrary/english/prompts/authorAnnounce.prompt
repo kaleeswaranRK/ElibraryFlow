@@ -21,10 +21,10 @@
                                 <Property name="case.val" value="1"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="You are select Jhumpa Lahiri books"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="JhumpaLahiriAuthor"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -36,10 +36,10 @@
                                 <Property name="case.val" value="2"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="You are select R. Giridharan books"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="R.GiridharanAuthor"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -51,10 +51,10 @@
                                 <Property name="case.val" value="3"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="You are select Priyanka Chopra Jonas books"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="PriyankaChopraJonasAuthor"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -66,10 +66,10 @@
                                 <Property name="case.val" value="4"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="You are select Ashwiny Iyer Tiwari books"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="AshwinyAIyerTiwariAuthor"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -81,10 +81,10 @@
                                 <Property name="case.val" value="5"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="You are select Olga Tokarczuk books"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="OlgaTokarczukAuthor"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>

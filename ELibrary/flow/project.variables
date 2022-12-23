@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <projectvariables>
-    <variable factoryID="" name="agentTransfer" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.ui.blindTransfer" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
     <variable factoryID="" name="authorMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
@@ -358,6 +350,7 @@
     <variable factoryID="" name="eLibrary:user" owner="" type="" value="123456" version="1.0"/>
     <variable factoryID="" name="eLibrary:userEvent" owner="" type="" value="0" version="1.0"/>
     <variable factoryID="" name="eLibrary:welcomejoin" owner="" type="" value="We are happy to help you" version="1.0"/>
+    <variable factoryID="" name="eLibrary:zero" owner="" type="" value="0" version="1.0"/>
     <variable factoryID="" name="langMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
@@ -1268,6 +1261,14 @@
     <variable factoryID="" name="time:timezone" owner="com.avaya.sce.core" type="com.avaya.sce.core.time" value="" version="1.0">
         <editpolicies>
             <policy name="valuesettable" value="false"/>
+            <policy name="opaque" value="true"/>
+            <policy name="appendable" value="false"/>
+            <policy name="deleteable" value="false"/>
+            <policy name="renameable" value="false"/>
+        </editpolicies>
+    </variable>
+    <variable factoryID="" name="untitledInput1" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.ui.inputParam" value="" version="1.0">
+        <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
             <policy name="deleteable" value="false"/>

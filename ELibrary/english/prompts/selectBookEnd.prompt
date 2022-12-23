@@ -21,9 +21,10 @@
                                 <Property name="case.val" value="1"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Name" value="You are select Whereabouts book"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="WhereaboutsBook"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -35,9 +36,10 @@
                                 <Property name="case.val" value="2"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Name" value="you are select Right Under Our Nose book"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="RightUnderOurNoseBook"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -49,10 +51,10 @@
                                 <Property name="case.val" value="3"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="you are select  Unfinished book"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value=" UnfinishedBook"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -64,10 +66,10 @@
                                 <Property name="case.val" value="4"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="you are select Mapping Love book"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="MappingLovebook"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -79,10 +81,10 @@
                                 <Property name="case.val" value="5"/>
                             </Properties>
                             <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Valid" value="true"/>
-                                        <Property name="Name" value="you are select The Lost Soul book"/>
+                                        <Property name="Phraseset" value="eLibrary"/>
+                                        <Property name="Phrase" value="TheLostSoulBook"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>

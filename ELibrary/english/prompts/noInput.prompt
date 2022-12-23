@@ -18,5 +18,21 @@
                 </Segment>
             </ChildItems>
         </PromptLevel>
+        <PromptLevel count="2" valid="true">
+            <Properties>
+                <Property name="Timeout_Presentation" value="constant"/>
+                <Property name="Timeout" value="8"/>
+                <Property name="TimeUnit" value="seconds"/>
+                <Property name="BargeIn" value="false"/>
+            </Properties>
+            <ChildItems>
+                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                    <Properties>
+                        <Property name="Name" value="You are enter too many attepmts"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
+            </ChildItems>
+        </PromptLevel>
     </Prompt>
 </PromptDoc>
