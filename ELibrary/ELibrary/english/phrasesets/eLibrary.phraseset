@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="eLibrary" version="1.0">
+    <phrase version="1.0">
+        <displayname>welcome</displayname>
+        <talent/>
+        <phrasetext>Welcome to E library management system</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Welcome.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>noInput</displayname>
+        <talent/>
+        <phrasetext>You are not Enter any number</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoInput.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>noMatch</displayname>
+        <talent/>
+        <phrasetext>Your input is not valid</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoMatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>end</displayname>
+        <talent/>
+        <phrasetext>Thank you for calling E library management System</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>endThank.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>tam</displayname>
+        <talent/>
+        <phrasetext>You are select tamil</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>tamil.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>eng</displayname>
+        <talent/>
+        <phrasetext>You are select English</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>english.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>hin</displayname>
+        <talent/>
+        <phrasetext>You are select hindi</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>hindi.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>langMenu</displayname>
+        <talent/>
+        <phrasetext>welcome to language menu&#13;
+press 1 for select tamil&#13;
+press 2 for select English&#13;
+press 3 for select hindi</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>languageMenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>langReturn</displayname>
+        <talent/>
+        <phrasetext>if You want to continue press 1 &#13;
+if you want to go back to language menu press 0</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>languageReturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>userMenu</displayname>
+        <talent/>
+        <phrasetext>Welcome to user menu&#13;
+if   you   are   a new user &#13;
+press 1&#13;
+if   you   are  existing user &#13;
+press 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>userMenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>userReturn</displayname>
+        <talent/>
+        <phrasetext>if You want to continue press 1 &#13;
+if you want to go back to user menu press 0</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>userReturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>newUser</displayname>
+        <talent/>
+        <phrasetext>You are select new user</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>newUser.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>oldUser</displayname>
+        <talent/>
+        <phrasetext>You are select Existing user</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>oldUser.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>agentConnect</displayname>
+        <talent/>
+        <phrasetext>You are connecting to Agent</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>agentConnect.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>userName</displayname>
+        <talent/>
+        <phrasetext>Enter Your User Id</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>userName.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>password</displayname>
+        <talent/>
+        <phrasetext>Enter Your Password</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>userPass.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>selectMenu</displayname>
+        <talent/>
+        <phrasetext>Welcome to selection menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>selectionMenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>bookSelect</displayname>
+        <talent/>
+        <phrasetext>You are select book menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>bookSelect.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>authorSelect</displayname>
+        <talent/>
+        <phrasetext>You are select Author menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>authorSelect.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>bookMenu</displayname>
+        <talent/>
+        <phrasetext>Welcome to book menu&#13;
+&#13;
+press 1 for rent Whereabouts book&#13;
+&#13;
+press 2 for rent Right Under Our Nose book&#13;
+&#13;
+press 3 for rent Unfinished book&#13;
+&#13;
+press 4 for rent Mapping Love book&#13;
+&#13;
+press 5 for rent The Lost Soul book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>bookMenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>authorMenu</displayname>
+        <talent/>
+        <phrasetext>Welcome to Author menu&#13;
+&#13;
+press 1 for rent Jhumpa Lahiri books&#13;
+&#13;
+press 2 for rent R. Giridharan books&#13;
+&#13;
+press 3 for rent Priyanka Chopra Jonas books&#13;
+&#13;
+press 4 for rent Ashwiny AIyer Tiwari books&#13;
+&#13;
+press 5 for rent Olga Tokarczuk books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>authorMenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>bookMenuReturn</displayname>
+        <talent/>
+        <phrasetext>if you want to go to book menu press 1&#13;
+if you want to exit press 0</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>bookmenuReturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>authorMenuReturn</displayname>
+        <talent/>
+        <phrasetext>if you want to continue press 1&#13;
+if you want to go to author menu press 2&#13;
+if you want to exit press 0</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>authorMenuReturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>badFetch</displayname>
+        <talent/>
+        <phrasetext>bad fetch error problem</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>badfetch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>agentCallEnd</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AgentCallEnd.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>music</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Vodafone.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>welcomeJoin</displayname>
+        <talent/>
+        <phrasetext>We are happy to help you</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>welcomeJoin.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>dataMismatch</displayname>
+        <talent/>
+        <phrasetext>Sorry You are Enter Too many Wrong Inputs</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>DataMisMatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>userIdMismatch</displayname>
+        <talent/>
+        <phrasetext>Invalid User Id </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>UserIdMismatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>passwordMismatch</displayname>
+        <talent/>
+        <phrasetext>Invalid Password&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PasswordMismatch.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>WhereaboutsBook</displayname>
+        <talent/>
+        <phrasetext>You are select Whereabouts book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>WhereaboutsBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RightUnderOurNoseBook</displayname>
+        <talent/>
+        <phrasetext>you are select Right Under Our Nose book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RightUnderOurNoseBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname> UnfinishedBook</displayname>
+        <talent/>
+        <phrasetext>you are select  Unfinished book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Unfinishedbook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MappingLovebook</displayname>
+        <talent/>
+        <phrasetext>you are select Mapping Love book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MappingLovebook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TheLostSoulBook</displayname>
+        <talent/>
+        <phrasetext>you are select The Lost Soul book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TheLostSoulbook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>JhumpaLahiriAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Jhumpa Lahiri books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>JhumpaLahiriAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>R.GiridharanAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select R. Giridharan books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>GiridharanAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PriyankaChopraJonasAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Priyanka Chopra Jonas books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PriyankaChopraJonasAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>AshwinyAIyerTiwariAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Ashwiny AIyer Tiwari books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AshwinyAIyerTiwariAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>OlgaTokarczukAuthor</displayname>
+        <talent/>
+        <phrasetext>You are select Olga Tokarczuk books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>OlgaTokarczukAuthor.wav</audiofile>
+    </phrase>
+</phraseset>

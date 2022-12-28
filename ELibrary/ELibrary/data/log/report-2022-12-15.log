@@ -1,0 +1,171 @@
+15/12/2022 14:03:57:658  INFO - Node Entry | session id:sess7358012 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:03:58:162  INFO - Node Entry | session id:sess7358012 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:03:58:201  INFO - Start | session id:sess7358012 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:03:58:202  INFO - In Progress | session id:sess7358012 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:04:04:438  INFO - Node Entry | session id:sess7358012 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:04:10:399  INFO - Node Entry | session id:sess7358012 | ELibrary:Exit | Framework | Exit |  |  | undefined
+15/12/2022 14:04:10:405  INFO - End | session id:sess7358012 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 14:04:10:405  INFO - Application Exit | session id:sess7358012 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:13:11:132  INFO - Node Entry | session id:sess7949327 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:13:11:332  INFO - Node Entry | session id:sess7949327 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:13:11:340  INFO - Start | session id:sess7949327 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:13:11:341  INFO - In Progress | session id:sess7949327 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:13:16:811  INFO - Node Entry | session id:sess7949327 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:13:22:669  INFO - Node Entry | session id:sess7949327 | ELibrary:tamilAnnounce | Framework | tamilAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:13:24:773  INFO - Node Entry | session id:sess7949327 | ELibrary:langReturn | Framework | langReturn |  |  | undefined
+15/12/2022 14:13:30:753  INFO - Node Entry | session id:sess7949327 | ELibrary:langMenu | Framework | langMenu | langReturn___utterance | 0^0.949999988079071^0^0 | undefined
+15/12/2022 14:13:34:543  INFO - Node Entry | session id:sess7949327 | ELibrary:hindiAnnounce | Framework | hindiAnnounce | langMenu___utterance | 3^0.949999988079071^0^0 | undefined
+15/12/2022 14:13:36:611  INFO - Node Entry | session id:sess7949327 | ELibrary:langReturn | Framework | langReturn |  |  | undefined
+15/12/2022 14:13:45:790  INFO - Node Entry | session id:sess7949327 | ELibrary:userMenu | Framework | userMenu | langReturn___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:13:53:349  INFO - Node Entry | session id:sess7949327 | ELibrary:newUserAnnounce | Framework | newUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:13:55:600  INFO - Node Entry | session id:sess7949327 | ELibrary:newUserReturn | Framework | newUserReturn |  |  | undefined
+15/12/2022 14:13:59:405  INFO - Node Entry | session id:sess7949327 | ELibrary:userMenu | Framework | userMenu | newUserReturn___utterance | 0^0.949999988079071^0^0 | undefined
+15/12/2022 14:14:03:167  INFO - Node Entry | session id:sess7949327 | ELibrary:oldUserAnnounce | Framework | oldUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+15/12/2022 14:14:05:701  INFO - Node Entry | session id:sess7949327 | ELibrary:olduserReturn | Framework | olduserReturn |  |  | undefined
+15/12/2022 14:14:09:453  INFO - Node Entry | session id:sess7949327 | ELibrary:ExistUser | Framework | ExistUser | olduserReturn___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:14:09:516  INFO - Node Entry | session id:sess7949327 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+15/12/2022 14:14:09:579  INFO - Node Entry | session id:sess7949327 | ELibrary:ExistUser-userName | Framework | ExistUser-userName |  |  | undefined
+15/12/2022 14:14:13:138  INFO - Node Entry | session id:sess7949327 | ELibrary:Exit | Framework | Exit |  |  | undefined
+15/12/2022 14:14:13:141  INFO - End | session id:sess7949327 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 14:14:13:141  INFO - Application Exit | session id:sess7949327 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:20:20:978  INFO - Node Entry | session id:sess4245724 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:20:21:237  INFO - Node Entry | session id:sess4245724 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:20:21:245  INFO - Start | session id:sess4245724 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:20:21:245  INFO - In Progress | session id:sess4245724 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:20:26:676  INFO - Node Entry | session id:sess4245724 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:20:30:478  INFO - Node Entry | session id:sess4245724 | ELibrary:tamilAnnounce | Framework | tamilAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:20:32:573  INFO - Node Entry | session id:sess4245724 | ELibrary:langReturn | Framework | langReturn |  |  | undefined
+15/12/2022 14:20:36:376  INFO - Node Entry | session id:sess4245724 | ELibrary:userMenu | Framework | userMenu | langReturn___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:20:42:218  INFO - Node Entry | session id:sess4245724 | ELibrary:newUserAnnounce | Framework | newUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:20:44:449  INFO - Node Entry | session id:sess4245724 | ELibrary:newUserReturn | Framework | newUserReturn |  |  | undefined
+15/12/2022 14:20:49:638  INFO - Node Entry | session id:sess4245724 | ELibrary:AgentTranfer | Framework | AgentTranfer | newUserReturn___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:20:49:702  INFO - Node Entry | session id:sess4245724 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+15/12/2022 14:20:49:765  INFO - Node Entry | session id:sess4245724 | ELibrary:agentTransfer-blindTransfer | Framework | agentTransfer-blindTransfer |  |  | undefined
+15/12/2022 14:20:54:483  INFO - Node Entry | session id:sess4245724 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+15/12/2022 14:20:54:562  INFO - Node Entry | session id:sess4245724 | ELibrary:Exit | Framework | Exit |  |  | undefined
+15/12/2022 14:20:54:567  INFO - End | session id:sess4245724 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 14:20:54:569  INFO - Application Exit | session id:sess4245724 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:25:13:652  INFO - Node Entry | session id:sess6383689 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:25:13:735  WARN - In Progress | session id:sess6383689 | ELibrary:Start |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | 
+15/12/2022 14:25:14:054  INFO - Node Entry | session id:sess6383689 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:25:14:057  WARN - In Progress | session id:sess6383689 | ELibrary:Welcome |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:14:061  INFO - Start | session id:sess6383689 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:25:14:061  INFO - In Progress | session id:sess6383689 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:25:19:479  INFO - Node Entry | session id:sess6383689 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:25:19:482  WARN - In Progress | session id:sess6383689 | ELibrary:langMenu |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:23:282  INFO - Node Entry | session id:sess6383689 | ELibrary:tamilAnnounce | Framework | tamilAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:23:284  WARN - In Progress | session id:sess6383689 | ELibrary:tamilAnnounce |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:25:374  INFO - Node Entry | session id:sess6383689 | ELibrary:langReturn | Framework | langReturn |  |  | undefined
+15/12/2022 14:25:25:379  WARN - In Progress | session id:sess6383689 | ELibrary:langReturn |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:30:788  INFO - Node Entry | session id:sess6383689 | ELibrary:userMenu | Framework | userMenu | langReturn___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:30:789  WARN - In Progress | session id:sess6383689 | ELibrary:userMenu |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:32:532  INFO - Node Entry | session id:sess6383689 | ELibrary:oldUserAnnounce | Framework | oldUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:32:536  WARN - In Progress | session id:sess6383689 | ELibrary:oldUserAnnounce |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:35:028  INFO - Node Entry | session id:sess6383689 | ELibrary:olduserReturn | Framework | olduserReturn |  |  | undefined
+15/12/2022 14:25:35:030  WARN - In Progress | session id:sess6383689 | ELibrary:olduserReturn |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:36:750  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser | Framework | ExistUser | olduserReturn___utterance | 1^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:36:813  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+15/12/2022 14:25:36:889  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-userName | Framework | ExistUser-userName |  |  | undefined
+15/12/2022 14:25:36:894  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-userName |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:42:733  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-userCheck | Framework | ExistUser-userCheck | userName___utterance | 125698^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:42:827  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-userEventAnnounce | Framework | ExistUser-userEventAnnounce |  |  | undefined
+15/12/2022 14:25:42:828  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-userEventAnnounce |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:42:905  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-userName | Framework | ExistUser-userName |  |  | undefined
+15/12/2022 14:25:42:906  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-userName |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:50:343  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-userCheck | Framework | ExistUser-userCheck | userName___utterance | 123456^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:50:406  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-password | Framework | ExistUser-password |  |  | undefined
+15/12/2022 14:25:50:407  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-password |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:54:712  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck | password___utterance | 1256^0.949999988079071^0^0 | undefined
+15/12/2022 14:25:54:773  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+15/12/2022 14:25:54:774  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-passwordEventAnnounce |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:25:59:028  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-password | Framework | ExistUser-password |  |  | undefined
+15/12/2022 14:25:59:030  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-password |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:26:03:213  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck | password___utterance | 0987^0.949999988079071^0^0 | undefined
+15/12/2022 14:26:03:275  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+15/12/2022 14:26:03:278  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-passwordEventAnnounce |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:26:07:505  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-password | Framework | ExistUser-password |  |  | undefined
+15/12/2022 14:26:07:507  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-password |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:26:13:173  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck | password___utterance | 0896^0.949999988079071^0^0 | undefined
+15/12/2022 14:26:13:237  INFO - Node Entry | session id:sess6383689 | ELibrary:ExistUser-passwordEvent | Framework | ExistUser-passwordEvent |  |  | undefined
+15/12/2022 14:26:13:238  WARN - In Progress | session id:sess6383689 | ELibrary:ExistUser-passwordEvent |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:26:16:711  INFO - Node Entry | session id:sess6383689 | ELibrary:AvayaDefaultExitHandler | Framework | AvayaDefaultExitHandler |  |  | undefined
+15/12/2022 14:26:16:712  INFO - In Progress | session id:sess6383689 | ELibrary:AvayaDefaultExitHandler | Default Disconnect Handler | Default Exit executed, application exiting |  |  | undefined
+15/12/2022 14:26:16:713  INFO - Application Exit | session id:sess6383689 | ELibrary:AvayaDefaultExitHandler | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:29:59:999  INFO - Node Entry | session id:sess4333432 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:30:00:375  INFO - Node Entry | session id:sess4333432 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:30:00:395  INFO - Start | session id:sess4333432 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:30:00:396  INFO - In Progress | session id:sess4333432 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:30:05:920  INFO - Node Entry | session id:sess4333432 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:30:05:928  WARN - In Progress | session id:sess4333432 | ELibrary:langMenu |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:30:28:209  INFO - Node Entry | session id:sess4333432 | ELibrary:AvayaDefaultExitHandler | Framework | AvayaDefaultExitHandler |  |  | undefined
+15/12/2022 14:30:28:216  INFO - In Progress | session id:sess4333432 | ELibrary:AvayaDefaultExitHandler | Default Disconnect Handler | Default Exit executed, application exiting |  |  | undefined
+15/12/2022 14:30:28:216  INFO - Application Exit | session id:sess4333432 | ELibrary:AvayaDefaultExitHandler | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:31:10:926  INFO - Node Entry | session id:sess4022606 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:31:11:181  INFO - Node Entry | session id:sess4022606 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:31:11:189  INFO - Start | session id:sess4022606 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:31:11:189  INFO - In Progress | session id:sess4022606 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:31:16:631  INFO - Node Entry | session id:sess4022606 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:31:16:636  WARN - In Progress | session id:sess4022606 | ELibrary:langMenu |  | Generated a ReturnError from main application, application will exit when executed. Returning caughtEvent |  |  | undefined
+15/12/2022 14:31:54:775  INFO - Node Entry | session id:sess4022606 | ELibrary:AvayaDefaultExitHandler | Framework | AvayaDefaultExitHandler |  |  | undefined
+15/12/2022 14:31:54:777  INFO - In Progress | session id:sess4022606 | ELibrary:AvayaDefaultExitHandler | Default Disconnect Handler | Default Exit executed, application exiting |  |  | undefined
+15/12/2022 14:31:54:778  INFO - Application Exit | session id:sess4022606 | ELibrary:AvayaDefaultExitHandler | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:40:08:673  INFO - Node Entry | session id:sess3576531 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:40:09:017  INFO - Node Entry | session id:sess3576531 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:40:09:025  INFO - Start | session id:sess3576531 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:40:09:026  INFO - In Progress | session id:sess3576531 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:40:14:436  INFO - Node Entry | session id:sess3576531 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:40:27:258  INFO - Node Entry | session id:sess3576531 | ELibrary:untitledAnnounce1 | Framework | untitledAnnounce1 |  | ^^0^0 | undefined
+15/12/2022 14:40:27:353  INFO - Node Entry | session id:sess3576531 | ELibrary:Exit | Framework | Exit |  |  | undefined
+15/12/2022 14:40:27:358  INFO - End | session id:sess3576531 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 14:40:27:358  INFO - Application Exit | session id:sess3576531 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:40:38:443  INFO - Node Entry | session id:sess3967226 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:40:38:555  INFO - Node Entry | session id:sess3967226 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:40:38:559  INFO - Start | session id:sess3967226 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:40:38:559  INFO - In Progress | session id:sess3967226 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:40:44:031  INFO - Node Entry | session id:sess3967226 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:40:47:851  INFO - Node Entry | session id:sess3967226 | ELibrary:hindiAnnounce | Framework | hindiAnnounce | langMenu___utterance | 3^0.949999988079071^0^0 | undefined
+15/12/2022 14:40:49:877  INFO - Node Entry | session id:sess3967226 | ELibrary:langReturn | Framework | langReturn |  |  | undefined
+15/12/2022 14:40:59:750  INFO - Node Entry | session id:sess3967226 | ELibrary:AvayaDefaultExitHandler | Framework | AvayaDefaultExitHandler |  |  | undefined
+15/12/2022 14:40:59:754  INFO - In Progress | session id:sess3967226 | ELibrary:AvayaDefaultExitHandler | Default Disconnect Handler | Default Exit executed, application exiting |  |  | undefined
+15/12/2022 14:40:59:755  INFO - Application Exit | session id:sess3967226 | ELibrary:AvayaDefaultExitHandler | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:43:48:753  INFO - Node Entry | session id:sess9388939 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:43:49:110  INFO - Node Entry | session id:sess9388939 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:43:49:120  INFO - Start | session id:sess9388939 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:43:49:121  INFO - In Progress | session id:sess9388939 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:43:54:709  INFO - Node Entry | session id:sess9388939 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:43:56:428  INFO - Node Entry | session id:sess9388939 | ELibrary:Exit | Framework | Exit |  | ^^0^0 | undefined
+15/12/2022 14:43:56:431  INFO - End | session id:sess9388939 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 14:43:56:432  INFO - Application Exit | session id:sess9388939 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:44:19:223  INFO - Node Entry | session id:sess4015750 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:44:19:327  INFO - Node Entry | session id:sess4015750 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:44:19:334  INFO - Start | session id:sess4015750 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:44:19:335  INFO - In Progress | session id:sess4015750 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:44:24:811  INFO - Node Entry | session id:sess4015750 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:44:36:751  INFO - Node Entry | session id:sess4015750 | ELibrary:AvayaDefaultExitHandler | Framework | AvayaDefaultExitHandler |  |  | undefined
+15/12/2022 14:44:36:752  INFO - In Progress | session id:sess4015750 | ELibrary:AvayaDefaultExitHandler | Default Disconnect Handler | Default Exit executed, application exiting |  |  | undefined
+15/12/2022 14:44:36:753  INFO - Application Exit | session id:sess4015750 | ELibrary:AvayaDefaultExitHandler | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:45:35:094  INFO - Node Entry | session id:sess3447214 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:45:35:402  INFO - Node Entry | session id:sess3447214 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:45:35:413  INFO - Start | session id:sess3447214 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:45:35:413  INFO - In Progress | session id:sess3447214 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:45:40:846  INFO - Node Entry | session id:sess3447214 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:45:53:491  INFO - Node Entry | session id:sess3447214 | ELibrary:untitledAnnounce1 | Framework | untitledAnnounce1 |  |  | undefined
+15/12/2022 14:45:53:570  INFO - Node Entry | session id:sess3447214 | ELibrary:Exit | Framework | Exit |  |  | undefined
+15/12/2022 14:45:53:573  INFO - End | session id:sess3447214 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 14:45:53:573  INFO - Application Exit | session id:sess3447214 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+15/12/2022 14:46:11:652  INFO - Node Entry | session id:sess1110919 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 14:46:11:774  INFO - Node Entry | session id:sess1110919 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 14:46:11:776  INFO - Start | session id:sess1110919 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 14:46:11:777  INFO - In Progress | session id:sess1110919 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 14:46:17:230  INFO - Node Entry | session id:sess1110919 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+15/12/2022 14:46:37:542  INFO - Node Entry | session id:sess1110919 | ELibrary:AvayaDefaultExitHandler | Framework | AvayaDefaultExitHandler |  |  | undefined
+15/12/2022 14:46:37:543  INFO - In Progress | session id:sess1110919 | ELibrary:AvayaDefaultExitHandler | Default Disconnect Handler | Default Exit executed, application exiting |  |  | undefined
+15/12/2022 14:46:37:543  INFO - Application Exit | session id:sess1110919 | ELibrary:AvayaDefaultExitHandler | Framework | Application Exiting |  |  | undefined
+15/12/2022 18:58:57:321  INFO - Node Entry | session id:sess2166179 | ELibrary:Start | Framework | Start |  |  | 
+15/12/2022 18:58:57:726  INFO - Node Entry | session id:sess2166179 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+15/12/2022 18:58:57:733  INFO - Start | session id:sess2166179 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+15/12/2022 18:58:57:734  INFO - In Progress | session id:sess2166179 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+15/12/2022 18:59:00:352  INFO - Node Entry | session id:sess2166179 | ELibrary:untitledAnnounce1 | Framework | untitledAnnounce1 |  |  | undefined
+15/12/2022 18:59:00:435  INFO - Node Entry | session id:sess2166179 | ELibrary:Exit | Framework | Exit |  |  | undefined
+15/12/2022 18:59:00:441  INFO - End | session id:sess2166179 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+15/12/2022 18:59:00:441  INFO - Application Exit | session id:sess2166179 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined

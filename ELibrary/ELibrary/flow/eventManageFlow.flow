@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AppFlowDoc>
+    <ApplicationFlow nextObjectId="44" package="flow.subflow.eventManageFlow" version="5.0">
+        <FlowGraph>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SubEntry" id="1" version="3.1">
+                <Property name="Name" value="Begin"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubEntry" id="2" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.GoTo" id="3" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="6"/>
+                                <Property name="Name" value="Start"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Data" id="6" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="147"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="43"/>
+                <Property name="Name" value="untitledData1"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Data" id="7" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.LocalVariables" id="8" version="1.2">
+                            <ItemProperties>
+                                <Property name="Name" value="LocalVariables"/>
+                            </ItemProperties>
+                            <ChildItems>
+                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SimpleVariable" id="10" version="1.2">
+                                    <ItemProperties>
+                                        <Property name="value" value="3"/>
+                                        <Property name="Name" value="newvar1"/>
+                                    </ItemProperties>
+                                    <ChildItems/>
+                                </FlowItem>
+                            </ChildItems>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.IfCondition" id="11" version="1.2">
+                            <ItemProperties>
+                                <Property name="Operator" value="="/>
+                                <Property name="LeftOperandID" value="newvar1(L)"/>
+                                <Property name="RightVarOperandFieldID" value="zero"/>
+                                <Property name="RightVarOperandID" value="eLibrary"/>
+                            </ItemProperties>
+                            <ChildItems>
+                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Assignment" id="19" version="1.2">
+                                    <ItemProperties>
+                                        <Property name="destVarId" value="eLibrary"/>
+                                        <Property name="destFieldId" value="zero"/>
+                                        <Property name="type" value="assign"/>
+                                        <Property name="sourceConstant" value="0"/>
+                                    </ItemProperties>
+                                    <ChildItems/>
+                                </FlowItem>
+                            </ChildItems>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.ElseCondition" id="13" version="1.2">
+                            <ItemProperties/>
+                            <ChildItems>
+                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Assignment" id="16" version="1.2">
+                                    <ItemProperties>
+                                        <Property name="destVarId" value="eLibrary"/>
+                                        <Property name="destFieldId" value="zero"/>
+                                        <Property name="type" value="increment"/>
+                                    </ItemProperties>
+                                    <ChildItems/>
+                                </FlowItem>
+                            </ChildItems>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SubReturn" id="40" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="329"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="57"/>
+                <Property name="Name" value="untitledSubReturn1"/>
+            </FlowNode>
+            <NodeConnection id="17" version="1.2">
+                <SourceNode id="1"/>
+                <TargetNode id="6"/>
+                <Property name="Connection.SourceObjectID" value="3"/>
+                <Property name="Connection.TargetObjectID" value="6"/>
+            </NodeConnection>
+        </FlowGraph>
+        <ProjectEventTypes/>
+    </ApplicationFlow>
+</AppFlowDoc>
