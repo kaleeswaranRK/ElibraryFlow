@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <AppFlowDoc>
-    <ApplicationFlow nextObjectId="622" package="flow" version="5.0">
+    <ApplicationFlow nextObjectId="625" package="flow" version="5.0">
         <FlowGraph>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.AppRoot" id="1" version="3.1">
                 <Property name="FlowNodeEditPart.WidgetX" value="14"/>
@@ -954,7 +954,7 @@
                     <ChildItems>
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubExitPoint" id="349" version="1.2">
                             <ItemProperties>
-                                <Property name="LinkedNodeID" value="621"/>
+                                <Property name="LinkedNodeID" value="624"/>
                                 <Property name="Name" value="returnToMain"/>
                             </ItemProperties>
                             <ChildItems/>
@@ -1101,11 +1101,6 @@
                     </ChildItems>
                 </FlowItem>
             </FlowNode>
-            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SymbolicNode" id="621" version="3.1">
-                <Property name="FlowNodeEditPart.WidgetX" value="600"/>
-                <Property name="FlowNodeEditPart.WidgetY" value="637"/>
-                <Property name="ReferencedNodeID" value="3"/>
-            </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.Data" id="496" version="3.1">
                 <Property name="FlowNodeEditPart.WidgetX" value="415"/>
                 <Property name="FlowNodeEditPart.WidgetY" value="376"/>
@@ -1128,6 +1123,11 @@
                         </FlowItem>
                     </ChildItems>
                 </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SymbolicNode" id="624" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="594"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="635"/>
+                <Property name="ReferencedNodeID" value="578"/>
             </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.SymbolicNode" id="113" version="3.1">
                 <Property name="FlowNodeEditPart.WidgetX" value="945"/>
@@ -1485,11 +1485,11 @@
                 <Property name="Connection.SourceObjectID" value="612"/>
                 <Property name="Connection.TargetObjectID" value="614"/>
             </NodeConnection>
-            <NodeConnection id="622" version="1.2">
+            <NodeConnection id="625" version="1.2">
                 <SourceNode id="345"/>
-                <TargetNode id="621"/>
+                <TargetNode id="624"/>
                 <Property name="Connection.SourceObjectID" value="349"/>
-                <Property name="Connection.TargetObjectID" value="621"/>
+                <Property name="Connection.TargetObjectID" value="624"/>
             </NodeConnection>
         </FlowGraph>
         <ProjectEventTypes>

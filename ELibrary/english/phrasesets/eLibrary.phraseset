@@ -287,8 +287,7 @@ if you want to exit press 0</phrasetext>
     <phrase version="1.0">
         <displayname>userIdMismatch</displayname>
         <talent/>
-        <phrasetext>Invalid User Id &#13;
-Enter Valid User Id</phrasetext>
+        <phrasetext>Invalid User Id </phrasetext>
         <basetext/>
         <searchkeywords/>
         <comments/>
@@ -298,7 +297,7 @@ Enter Valid User Id</phrasetext>
         <displayname>passwordMismatch</displayname>
         <talent/>
         <phrasetext>Invalid Password&#13;
-Enter Valid Password</phrasetext>
+</phrasetext>
         <basetext/>
         <searchkeywords/>
         <comments/>

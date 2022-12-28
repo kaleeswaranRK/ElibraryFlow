@@ -3,8 +3,8 @@
     <ApplicationFlow nextObjectId="625" package="flow" version="5.0">
         <FlowGraph>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.AppRoot" id="1" version="3.1">
-                <Property name="FlowNodeEditPart.WidgetX" value="14"/>
-                <Property name="FlowNodeEditPart.WidgetY" value="42"/>
+                <Property name="FlowNodeEditPart.WidgetX" value="15"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="48"/>
                 <Property name="Name" value="AppRoot"/>
                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.AppRoot" id="2" version="1.2">
                     <ItemProperties>

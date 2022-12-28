@@ -179,16 +179,16 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-class>flow.subflow.ExistUser.returnToElibrary</servlet-class>
     </servlet>
     <servlet id="SAGE-callflow-servlet_ExistUser_6">
-        <servlet-name>ExistUser-userName</servlet-name>
-        <servlet-class>flow.subflow.ExistUser.userName</servlet-class>
+        <servlet-name>ExistUser-userId</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.userId</servlet-class>
     </servlet>
     <servlet id="SAGE-callflow-servlet_ExistUser_19">
         <servlet-name>ExistUser-password</servlet-name>
         <servlet-class>flow.subflow.ExistUser.password</servlet-class>
     </servlet>
     <servlet id="SAGE-callflow-servlet_ExistUser_31">
-        <servlet-name>ExistUser-userCheck</servlet-name>
-        <servlet-class>flow.subflow.ExistUser.userCheck</servlet-class>
+        <servlet-name>ExistUser-userIdCheck</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.userIdCheck</servlet-class>
     </servlet>
     <servlet id="SAGE-callflow-servlet_ExistUser_41">
         <servlet-name>ExistUser-passCheck</servlet-name>
@@ -466,6 +466,14 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>agentTransfer-AgentTransferAnnounce</servlet-name>
         <servlet-class>flow.subflow.agentTransfer.AgentTransferAnnounce</servlet-class>
     </servlet>
+    <servlet id="SAGE-callflow-servlet_ExistUser_887">
+        <servlet-name>ExistUser-userIdVerify</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.userIdVerify</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_ExistUser_897">
+        <servlet-name>ExistUser-passwordVerify</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.passwordVerify</servlet-class>
+    </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
         <url-pattern>/AvayaDefaultDisconnectHandler</url-pattern>
@@ -566,16 +574,16 @@ Copyright 2004-2021 Avaya Inc.
         <url-pattern>/ExistUser-returnToElibrary</url-pattern>
     </servlet-mapping>
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_6">
-        <servlet-name>ExistUser-userName</servlet-name>
-        <url-pattern>/ExistUser-userName</url-pattern>
+        <servlet-name>ExistUser-userId</servlet-name>
+        <url-pattern>/ExistUser-userId</url-pattern>
     </servlet-mapping>
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_19">
         <servlet-name>ExistUser-password</servlet-name>
         <url-pattern>/ExistUser-password</url-pattern>
     </servlet-mapping>
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_31">
-        <servlet-name>ExistUser-userCheck</servlet-name>
-        <url-pattern>/ExistUser-userCheck</url-pattern>
+        <servlet-name>ExistUser-userIdCheck</servlet-name>
+        <url-pattern>/ExistUser-userIdCheck</url-pattern>
     </servlet-mapping>
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_41">
         <servlet-name>ExistUser-passCheck</servlet-name>
@@ -839,6 +847,14 @@ Copyright 2004-2021 Avaya Inc.
     <servlet-mapping id="SAGE-callflow-servletmapping_agentTransfer_28">
         <servlet-name>agentTransfer-AgentTransferAnnounce</servlet-name>
         <url-pattern>/agentTransfer-AgentTransferAnnounce</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_887">
+        <servlet-name>ExistUser-userIdVerify</servlet-name>
+        <url-pattern>/ExistUser-userIdVerify</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_897">
+        <servlet-name>ExistUser-passwordVerify</servlet-name>
+        <url-pattern>/ExistUser-passwordVerify</url-pattern>
     </servlet-mapping>
     
     
