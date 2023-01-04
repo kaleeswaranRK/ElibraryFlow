@@ -12,7 +12,7 @@
                 <Segment class="com.avaya.sce.prompts.internal.segment.SwitchItem" type="SwitchItem">
                     <Properties>
                         <Property name="Valid" value="true"/>
-                        <Property name="switch.var" value="bookMenu"/>
+                        <Property name="switch.var" value="CategoryMenu"/>
                         <Property name="switch.field" value="value"/>
                     </Properties>
                     <ChildItems>
@@ -23,8 +23,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="WhereaboutsBook"/>
+                                        <Property name="Phraseset" value="Category"/>
+                                        <Property name="Phrase" value="Adventure"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -38,8 +38,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="RightUnderOurNoseBook"/>
+                                        <Property name="Phraseset" value="Category"/>
+                                        <Property name="Phrase" value="Classics"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -53,38 +53,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value=" UnfinishedBook"/>
-                                    </Properties>
-                                    <ChildItems/>
-                                </Segment>
-                            </ChildItems>
-                        </Segment>
-                        <Segment class="com.avaya.sce.prompts.internal.segment.SwitchCase" type="SwitchCase">
-                            <Properties>
-                                <Property name="Valid" value="true"/>
-                                <Property name="case.val" value="4"/>
-                            </Properties>
-                            <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
-                                    <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="MappingLovebook"/>
-                                    </Properties>
-                                    <ChildItems/>
-                                </Segment>
-                            </ChildItems>
-                        </Segment>
-                        <Segment class="com.avaya.sce.prompts.internal.segment.SwitchCase" type="SwitchCase">
-                            <Properties>
-                                <Property name="Valid" value="true"/>
-                                <Property name="case.val" value="5"/>
-                            </Properties>
-                            <ChildItems>
-                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
-                                    <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="TheLostSoulBook"/>
+                                        <Property name="Phraseset" value="Category"/>
+                                        <Property name="Phrase" value="Youngadultfiction"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>

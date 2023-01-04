@@ -16,6 +16,20 @@
                     </Properties>
                     <ChildItems/>
                 </Segment>
+                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
+                    <Properties>
+                        <Property name="Phraseset" value="eLibrary"/>
+                        <Property name="Phrase" value="LangMenuTamil"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
+                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
+                    <Properties>
+                        <Property name="Phraseset" value="eLibrary"/>
+                        <Property name="Phrase" value="languageMenuEnglish"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
             </ChildItems>
         </PromptLevel>
     </Prompt>

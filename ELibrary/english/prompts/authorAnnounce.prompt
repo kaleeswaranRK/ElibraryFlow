@@ -23,8 +23,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="JhumpaLahiriAuthor"/>
+                                        <Property name="Phraseset" value="authorMenu"/>
+                                        <Property name="Phrase" value="JKRowling"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -38,8 +38,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="R.GiridharanAuthor"/>
+                                        <Property name="Phraseset" value="authorMenu"/>
+                                        <Property name="Phrase" value="RiderHaggard"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -53,8 +53,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="PriyankaChopraJonasAuthor"/>
+                                        <Property name="Phraseset" value="authorMenu"/>
+                                        <Property name="Phrase" value="PauloCoelho"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -68,8 +68,8 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="AshwinyAIyerTiwariAuthor"/>
+                                        <Property name="Phraseset" value="authorMenu"/>
+                                        <Property name="Phrase" value="CharlesDickens"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>
@@ -83,8 +83,22 @@
                             <ChildItems>
                                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                                     <Properties>
-                                        <Property name="Phraseset" value="eLibrary"/>
-                                        <Property name="Phrase" value="OlgaTokarczukAuthor"/>
+                                        <Property name="Phraseset" value="authorMenu"/>
+                                        <Property name="Phrase" value="ChaoXueqin"/>
+                                    </Properties>
+                                    <ChildItems/>
+                                </Segment>
+                            </ChildItems>
+                        </Segment>
+                        <Segment class="com.avaya.sce.prompts.internal.segment.SwitchCase" type="SwitchCase">
+                            <Properties>
+                                <Property name="case.val" value="6"/>
+                            </Properties>
+                            <ChildItems>
+                                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
+                                    <Properties>
+                                        <Property name="Phraseset" value="authorMenu"/>
+                                        <Property name="Phrase" value="JDSalinger"/>
                                     </Properties>
                                     <ChildItems/>
                                 </Segment>

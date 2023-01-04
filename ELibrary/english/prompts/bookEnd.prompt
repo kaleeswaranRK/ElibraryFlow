@@ -12,7 +12,7 @@
                 <Segment class="com.avaya.sce.prompts.internal.segment.SwitchItem" type="SwitchItem">
                     <Properties>
                         <Property name="Valid" value="true"/>
-                        <Property name="switch.var" value="bookMenu"/>
+                        <Property name="switch.var" value="CategoryMenu"/>
                         <Property name="switch.field" value="value"/>
                     </Properties>
                     <ChildItems>

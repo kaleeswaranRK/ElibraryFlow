@@ -12,7 +12,7 @@
                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                     <Properties>
                         <Property name="Phraseset" value="eLibrary"/>
-                        <Property name="Phrase" value="bookMenuReturn"/>
+                        <Property name="Phrase" value="selectionMenuReturn"/>
                     </Properties>
                     <ChildItems/>
                 </Segment>

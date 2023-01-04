@@ -66,10 +66,7 @@
     <phrase version="1.0">
         <displayname>langMenu</displayname>
         <talent/>
-        <phrasetext>welcome to language menu&#13;
-press 1 for select tamil&#13;
-press 2 for select English&#13;
-press 3 for select hindi</phrasetext>
+        <phrasetext>welcome to language menu</phrasetext>
         <basetext/>
         <searchkeywords/>
         <comments/>
@@ -156,7 +153,9 @@ if you want to go back to user menu press 0</phrasetext>
     <phrase version="1.0">
         <displayname>selectMenu</displayname>
         <talent/>
-        <phrasetext>Welcome to selection menu</phrasetext>
+        <phrasetext>Welcome to selection menu&#13;
+press 1 for select book by Category&#13;
+press 2 for select book by author</phrasetext>
         <basetext/>
         <searchkeywords/>
         <comments/>
@@ -227,17 +226,6 @@ if you want to exit press 0</phrasetext>
         <searchkeywords/>
         <comments/>
         <audiofile>bookmenuReturn.wav</audiofile>
-    </phrase>
-    <phrase version="1.0">
-        <displayname>authorMenuReturn</displayname>
-        <talent/>
-        <phrasetext>if you want to continue press 1&#13;
-if you want to go to author menu press 2&#13;
-if you want to exit press 0</phrasetext>
-        <basetext/>
-        <searchkeywords/>
-        <comments/>
-        <audiofile>authorMenuReturn.wav</audiofile>
     </phrase>
     <phrase version="1.0">
         <displayname>badFetch</displayname>
@@ -392,5 +380,51 @@ if you want to exit press 0</phrasetext>
         <searchkeywords/>
         <comments/>
         <audiofile>OlgaTokarczukAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>CategorySelect</displayname>
+        <talent/>
+        <phrasetext>You are select Category menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>CategorySelect.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>selectionMenuReturn</displayname>
+        <talent/>
+        <phrasetext>if You want to continue press 1 &#13;
+if you want to go back to selection menu press 0</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>selectionMenuReturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>languageMenuEnglish</displayname>
+        <talent/>
+        <phrasetext>press 2 for select English</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>languageMenuEnglish.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>LangMenuTamil</displayname>
+        <talent/>
+        <phrasetext>Thamilukku en onttrai aluththavum</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>LangMenuTamil.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>tamilSelect</displayname>
+        <talent/>
+        <phrasetext>You are select Tamil</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>tamilSelect.wav</audiofile>
     </phrase>
 </phraseset>

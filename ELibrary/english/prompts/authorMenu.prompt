@@ -11,8 +11,15 @@
             <ChildItems>
                 <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
                     <Properties>
-                        <Property name="Phraseset" value="eLibrary"/>
-                        <Property name="Phrase" value="authorMenu"/>
+                        <Property name="Phraseset" value="authorMenu"/>
+                        <Property name="Phrase" value="menuAuthor"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
+                <Segment class="com.avaya.sce.prompts.internal.segment.Phrase" type="Phraseset">
+                    <Properties>
+                        <Property name="Phraseset" value="authorMenu"/>
+                        <Property name="Phrase" value="AuthorsList"/>
                     </Properties>
                     <ChildItems/>
                 </Segment>
