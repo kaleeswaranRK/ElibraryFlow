@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="authorMenu" version="1.0">
+    <phrase version="1.0">
+        <displayname>menuAuthor</displayname>
+        <talent/>
+        <phrasetext>Welcome to author menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>menuAuthor.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>AuthorsList</displayname>
+        <talent/>
+        <phrasetext>&#13;
+press 1 for select JK Rowling&#13;
+&#13;
+press 2 for select Rider Haggard&#13;
+&#13;
+press 3 for select Paulo Coelho&#13;
+&#13;
+press 4 for select Charles Dickens&#13;
+&#13;
+press 5 for select Chao Xueqin&#13;
+&#13;
+press 6 for select JD Salinger</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AuthorsList.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ChaoXueqin</displayname>
+        <talent/>
+        <phrasetext>You are select Chao Xueqin books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ChaoXueqin.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>CharlesDickens</displayname>
+        <talent/>
+        <phrasetext>You are select Charles Dickens books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>CharlesDickens.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>JDSalinger</displayname>
+        <talent/>
+        <phrasetext>You are select JD Salinger books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>JDSalinger.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>JKRowling</displayname>
+        <talent/>
+        <phrasetext>You are select JK Rowling books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>JKRowling.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PauloCoelho</displayname>
+        <talent/>
+        <phrasetext>You are select Paulo Coelho books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PauloCoelho.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RiderHaggard</displayname>
+        <talent/>
+        <phrasetext>You are select Rider Haggard books</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RiderHaggard.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>authorMenuReturn</displayname>
+        <talent/>
+        <phrasetext>if you want to continue press 1&#13;
+if you want to go back to author menu press 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>authorMenuReturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>JKRowlingBooks</displayname>
+        <talent/>
+        <phrasetext>press 1 for select Harry Potter and the Philosophers Stone book&#13;
+&#13;
+press 2 for select Harry Potter and the Chamber of Secrets book&#13;
+&#13;
+press 3 for select Harry Potter and the Prisoner of Azkaban book&#13;
+&#13;
+press 4 for select The Little Prince  book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>JKRowlingBooks.wav</audiofile>
+    </phrase>
+</phraseset>

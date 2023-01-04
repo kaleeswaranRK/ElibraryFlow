@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="Books" version="1.0">
+    <phrase version="1.0">
+        <displayname>AHistoryofAdventureBook</displayname>
+        <talent/>
+        <phrasetext>You are select A History of Adventure Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AHistoryofAdventureBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ATaleOfTwoCitiesBook</displayname>
+        <talent/>
+        <phrasetext>You are select A Tale Of Two Cities Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ATaleOfTwoCitiesBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>DreamOfTheRedChamberBook</displayname>
+        <talent/>
+        <phrasetext>You are select Dream Of The Red Chamber Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>DreamOfTheRedChamberBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>HarryPotterandtheChamberofSecretsBook</displayname>
+        <talent/>
+        <phrasetext>You are select Harry Potter and the Chamber of Secrets Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>HarryPotterandtheChamberofSecretsBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>HarryPotterandthePhilosopherStoneBook</displayname>
+        <talent/>
+        <phrasetext>You are select Harry Potter and the Philosopher's Stone Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>HarryPotterandthePhilosopherStoneBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>HarryPotterandthePrisonerofAzkabanBook</displayname>
+        <talent/>
+        <phrasetext>You are select Harry Potter and the Prisoner of Azkaban Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>HarryPotterandthePrisonerofAzkabanBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TheAlchemistBook</displayname>
+        <talent/>
+        <phrasetext>You are select The Alchemist Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TheAlchemistBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TheCatcherintheRyeBook</displayname>
+        <talent/>
+        <phrasetext>You are select The Catcher in the Rye Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TheCatcherintheRyeBook.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TheLittlePrinceBook</displayname>
+        <talent/>
+        <phrasetext>You are select The Little Prince Book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TheLittlePrinceBook.wav</audiofile>
+    </phrase>
+</phraseset>
