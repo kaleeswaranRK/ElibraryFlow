@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="Category" version="1.0">
+    <phrase version="1.0">
+        <displayname>Adventure</displayname>
+        <talent/>
+        <phrasetext>You are select Adventure Category</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Adventure.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Classics</displayname>
+        <talent/>
+        <phrasetext>You are select Classics Category</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Classics.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Youngadultfiction</displayname>
+        <talent/>
+        <phrasetext>You are select Young adult fiction Category</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Youngadultfiction.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>CategoryMenu</displayname>
+        <talent/>
+        <phrasetext>Welcome to Category menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>CategoryMenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Categoryofbooks</displayname>
+        <talent/>
+        <phrasetext>press 1 for Adventure Category&#13;
+&#13;
+press 2 for Classics Category&#13;
+&#13;
+press 3 for Young adult fiction Category</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Categoryofbooks.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Categorymenureturn</displayname>
+        <talent/>
+        <phrasetext>if You want to continue press 1 &#13;
+if you want to go back to Category menu press 0</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Categorymenureturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>AdventureBooks</displayname>
+        <talent/>
+        <phrasetext>press 1 for select The Little Prince book&#13;
+&#13;
+press 2 for select A History of Adventure book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>AdventureBooks.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ClassicsBooks</displayname>
+        <talent/>
+        <phrasetext>press 1 for select A Tale Of Two Cities book&#13;
+&#13;
+press 2 for select Dream Of The Red Chamber book&#13;
+&#13;
+press 3 for select The Catcher in the Rye book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ClassicsBooks.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>YoungadultfictionBooks</displayname>
+        <talent/>
+        <phrasetext>press 1 for select Harry Potter and the Philosophers Stone book&#13;
+&#13;
+press 2 for select Harry Potter and the Chamber of Secrets book&#13;
+&#13;
+press 3 for select Harry Potter and the Prisoner of Azkaban book</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>YoungadultfictionBooks.wav</audiofile>
+    </phrase>
+</phraseset>

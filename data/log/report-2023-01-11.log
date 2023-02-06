@@ -1,0 +1,37 @@
+11/01/2023 10:59:25:623  INFO - Node Entry | session id:sess631684 | ELibrary:Start | Framework | Start |  |  | 
+11/01/2023 10:59:26:118  INFO - Node Entry | session id:sess631684 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+11/01/2023 10:59:26:133  INFO - Start | session id:sess631684 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+11/01/2023 10:59:26:134  INFO - In Progress | session id:sess631684 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+11/01/2023 10:59:29:467  INFO - Node Entry | session id:sess631684 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+11/01/2023 10:59:29:529  INFO - Node Entry | session id:sess631684 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+11/01/2023 10:59:29:592  INFO - Node Entry | session id:sess631684 | ELibrary:Exit | Framework | Exit |  |  | undefined
+11/01/2023 10:59:29:594  INFO - End | session id:sess631684 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+11/01/2023 10:59:29:594  INFO - Application Exit | session id:sess631684 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+11/01/2023 11:49:28:202  INFO - Node Entry | session id:sess7953815 | ELibrary:Start | Framework | Start |  |  | 
+11/01/2023 11:49:28:610  INFO - Node Entry | session id:sess7953815 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+11/01/2023 11:49:29:355  INFO - Start | session id:sess7953815 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+11/01/2023 11:49:29:355  INFO - In Progress | session id:sess7953815 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+11/01/2023 11:49:36:575  INFO - Node Entry | session id:sess7953815 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+11/01/2023 11:49:40:999  INFO - Node Entry | session id:sess7953815 | ELibrary:Exist | Framework | Exist |  |  | undefined
+11/01/2023 11:49:41:061  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+11/01/2023 11:49:41:124  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+11/01/2023 11:49:47:041  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-userIdVerify | Framework | ExistUser-userIdVerify | userId___utterance | 111111^0.949999988079071^0^0 | undefined
+11/01/2023 11:49:48:475  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-userIdCheck | Framework | ExistUser-userIdCheck |  |  | undefined
+11/01/2023 11:49:48:536  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-password | Framework | ExistUser-password |  |  | undefined
+11/01/2023 11:49:51:869  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 6358^0.949999988079071^0^0 | undefined
+11/01/2023 11:49:51:993  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+11/01/2023 11:49:52:072  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+11/01/2023 11:49:54:674  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-password | Framework | ExistUser-password |  |  | undefined
+11/01/2023 11:49:57:869  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 9632^0.949999988079071^0^0 | undefined
+11/01/2023 11:49:57:991  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+11/01/2023 11:49:58:053  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+11/01/2023 11:50:00:589  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-password | Framework | ExistUser-password |  |  | undefined
+11/01/2023 11:50:03:751  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 2563^0.949999988079071^0^0 | undefined
+11/01/2023 11:50:03:875  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+11/01/2023 11:50:03:939  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-FinalAttemptPassword | Framework | ExistUser-FinalAttemptPassword |  |  | undefined
+11/01/2023 11:50:04:077  INFO - Node Entry | session id:sess7953815 | ELibrary:ExistUser-EventReturntoElibrary | Framework | ExistUser-EventReturntoElibrary |  |  | undefined
+11/01/2023 11:50:04:140  INFO - Node Entry | session id:sess7953815 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+11/01/2023 11:50:11:660  INFO - Node Entry | session id:sess7953815 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+11/01/2023 11:50:11:722  INFO - Node Entry | session id:sess7953815 | ELibrary:Exit | Framework | Exit |  |  | undefined
+11/01/2023 11:50:11:724  INFO - End | session id:sess7953815 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+11/01/2023 11:50:11:724  INFO - Application Exit | session id:sess7953815 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined

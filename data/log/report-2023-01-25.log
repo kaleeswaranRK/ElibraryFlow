@@ -1,0 +1,13 @@
+25/01/2023 16:04:49:502  INFO - Node Entry | session id:sess7410151 | ELibrary:Start | Framework | Start |  |  | 
+25/01/2023 16:04:49:844  INFO - Node Entry | session id:sess7410151 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+25/01/2023 16:04:50:066  INFO - Start | session id:sess7410151 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+25/01/2023 16:04:50:066  INFO - In Progress | session id:sess7410151 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+25/01/2023 16:04:56:081  INFO - Node Entry | session id:sess7410151 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+25/01/2023 16:05:05:698  INFO - Node Entry | session id:sess7410151 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+25/01/2023 16:05:08:116  INFO - Node Entry | session id:sess7410151 | ELibrary:langReturn | Framework | langReturn |  |  | undefined
+25/01/2023 16:05:21:818  INFO - Node Entry | session id:sess7410151 | ELibrary:userMenu | Framework | userMenu | langReturn___utterance | 1^0.949999988079071^0^0 | undefined
+25/01/2023 16:05:49:857  INFO - Node Entry | session id:sess7410151 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+25/01/2023 16:05:49:935  INFO - Node Entry | session id:sess7410151 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+25/01/2023 16:05:50:027  INFO - Node Entry | session id:sess7410151 | ELibrary:Exit | Framework | Exit |  |  | undefined
+25/01/2023 16:05:50:029  INFO - End | session id:sess7410151 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+25/01/2023 16:05:50:030  INFO - Application Exit | session id:sess7410151 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
