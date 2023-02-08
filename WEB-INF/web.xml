@@ -198,10 +198,7 @@ Copyright 2004-2021 Avaya Inc.
     
     
     
-    <servlet id="SAGE-callflow-servlet_ExistUser_349">
-        <servlet-name>ExistUser-selectedCategory</servlet-name>
-        <servlet-class>flow.subflow.ExistUser.selectedCategory</servlet-class>
-    </servlet>
+    
     
     
     
@@ -642,9 +639,10 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-class>flow.subflow.CartMenuFlow.NoMatchcartEditCopy</servlet-class>
     </servlet>
     
-    <servlet id="SAGE-callflow-servlet_ExistUser_1047">
-        <servlet-name>ExistUser-CategoryMenuNext</servlet-name>
-        <servlet-class>flow.subflow.ExistUser.CategoryMenuNext</servlet-class>
+    
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_184">
+        <servlet-name>BookSelectionByCategory-booksMenu</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.booksMenu</servlet-class>
     </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
@@ -758,10 +756,7 @@ Copyright 2004-2021 Avaya Inc.
     
     
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_349">
-        <servlet-name>ExistUser-selectedCategory</servlet-name>
-        <url-pattern>/ExistUser-selectedCategory</url-pattern>
-    </servlet-mapping>
+    
     
     
     
@@ -1190,10 +1185,11 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-NoMatchcartEditCopy</servlet-name>
         <url-pattern>/CartMenuFlow-NoMatchcartEditCopy</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1047">
-        <servlet-name>ExistUser-CategoryMenuNext</servlet-name>
-        <url-pattern>/ExistUser-CategoryMenuNext</url-pattern>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_184">
+        <servlet-name>BookSelectionByCategory-booksMenu</servlet-name>
+        <url-pattern>/BookSelectionByCategory-booksMenu</url-pattern>
     </servlet-mapping>
+    
     
     
     
