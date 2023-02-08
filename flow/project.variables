@@ -58,6 +58,7 @@
     </variable>
     <variable factoryID="" name="AudioPath:AdventureMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AdventureSelect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureSelect.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:AdventureStories" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureCategory.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AgentConnect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AgentConnect.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AgentMusic" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AgentMusic.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AHistoryofAdventureBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AHistoryofAdventureBook.wav" version="1.0"/>
@@ -66,6 +67,7 @@
     <variable factoryID="" name="AudioPath:CartOptionsMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\CartOptionsMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:CategoryMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\CategoryMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:EnglishSelection" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\EnglishSelection.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:existUserAnnounce" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\existUserAnnounce.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:HarryPotterandtheChamberofSecretsBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\HarryPotterandtheChamberofSecretsBook.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:HarryPotterandthePhilosopherStoneBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\HarryPotterandthePhilosopherStoneBook.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:HarryPotterandthePrisonerofAzkabanBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\HarryPotterandthePrisonerofAzkabanBook.wav" version="1.0"/>
@@ -86,9 +88,11 @@
     <variable factoryID="" name="AudioPath:TheLittlePrinceBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\TheLittlePrinceBook.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:userId" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\userId.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:userMenuWelcome" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\userMenuWelcome.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:userNew" owner="" type="" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AudioPrompts\Elibrary\userNew.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:welcome" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\welcome.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:Youngadultfiction" owner="" type="" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AudioPrompts\Elibrary\YoungadultfictionCategory.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:YoungAdultfictionMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\YoungAdultfictionMenu.wav" version="1.0"/>
-    <variable factoryID="" name="AudioPath:YoungadultfictionSelect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\YoungadultfictionSelect.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:YoungadultfictionSelect" owner="" type="" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AudioPrompts\Elibrary\YoungadultfictionSelect.wav" version="1.0"/>
     <variable factoryID="" name="cartEditMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
@@ -678,6 +682,16 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
+    <variable factoryID="" name="menuCommon:menuPage" owner="" type="" value="0" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select1" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\oneSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select2" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\twoSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select3" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\threeSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select4" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\fourSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select5" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\fiveSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select6" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\sixSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select7" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\sevenSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select8" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\eightSelect.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Select9" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\nineSelect.wav" version="1.0"/>
     <variable factoryID="" name="password:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.field" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>

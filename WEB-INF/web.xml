@@ -124,13 +124,10 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-class>flow.userMenu</servlet-class>
     </servlet>
     
-    <servlet id="SAGE-callflow-servlet_main_94">
-        <servlet-name>newUserAnnounce</servlet-name>
-        <servlet-class>flow.newUserAnnounce</servlet-class>
-    </servlet>
+    
     <servlet id="SAGE-callflow-servlet_main_98">
-        <servlet-name>oldUserAnnounce</servlet-name>
-        <servlet-class>flow.oldUserAnnounce</servlet-class>
+        <servlet-name>existUserAnnounce</servlet-name>
+        <servlet-class>flow.existUserAnnounce</servlet-class>
     </servlet>
     
     
@@ -644,6 +641,11 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-NoMatchcartEditCopy</servlet-name>
         <servlet-class>flow.subflow.CartMenuFlow.NoMatchcartEditCopy</servlet-class>
     </servlet>
+    
+    <servlet id="SAGE-callflow-servlet_ExistUser_1047">
+        <servlet-name>ExistUser-CategoryMenuNext</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.CategoryMenuNext</servlet-class>
+    </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
         <url-pattern>/AvayaDefaultDisconnectHandler</url-pattern>
@@ -697,13 +699,10 @@ Copyright 2004-2021 Avaya Inc.
         <url-pattern>/userMenu</url-pattern>
     </servlet-mapping>
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_main_94">
-        <servlet-name>newUserAnnounce</servlet-name>
-        <url-pattern>/newUserAnnounce</url-pattern>
-    </servlet-mapping>
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_main_98">
-        <servlet-name>oldUserAnnounce</servlet-name>
-        <url-pattern>/oldUserAnnounce</url-pattern>
+        <servlet-name>existUserAnnounce</servlet-name>
+        <url-pattern>/existUserAnnounce</url-pattern>
     </servlet-mapping>
     
     
@@ -1191,6 +1190,11 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-NoMatchcartEditCopy</servlet-name>
         <url-pattern>/CartMenuFlow-NoMatchcartEditCopy</url-pattern>
     </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1047">
+        <servlet-name>ExistUser-CategoryMenuNext</servlet-name>
+        <url-pattern>/ExistUser-CategoryMenuNext</url-pattern>
+    </servlet-mapping>
+    
     
     
     

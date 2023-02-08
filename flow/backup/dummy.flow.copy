@@ -131,12 +131,6 @@
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.NoInput" id="18" version="1.2">
                             <ItemProperties/>
                             <ChildItems>
-                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Prompt" id="19" version="1.2">
-                                    <ItemProperties>
-                                        <Property name="Name" value="noInput"/>
-                                    </ItemProperties>
-                                    <ChildItems/>
-                                </FlowItem>
                                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.GoTo" id="20" version="1.2">
                                     <ItemProperties>
                                         <Property name="LinkedNodeID" value="4"/>
@@ -149,12 +143,6 @@
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.NoMatch" id="21" version="1.2">
                             <ItemProperties/>
                             <ChildItems>
-                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Prompt" id="22" version="1.2">
-                                    <ItemProperties>
-                                        <Property name="Name" value="noMatch"/>
-                                    </ItemProperties>
-                                    <ChildItems/>
-                                </FlowItem>
                                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.GoTo" id="23" version="1.2">
                                     <ItemProperties>
                                         <Property name="LinkedNodeID" value="8"/>

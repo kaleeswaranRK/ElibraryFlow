@@ -1,0 +1,505 @@
+07/02/2023 14:00:32:162  INFO - Node Entry | session id:sess4008649 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 14:00:32:751  INFO - Node Entry | session id:sess4008649 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 14:00:33:305  INFO - Start | session id:sess4008649 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 14:00:33:305  INFO - In Progress | session id:sess4008649 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 14:00:35:410  INFO - Node Entry | session id:sess4008649 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 14:01:00:641  INFO - Node Entry | session id:sess4008649 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 14:01:02:763  INFO - Node Entry | session id:sess4008649 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 14:02:02:636  INFO - Node Entry | session id:sess1241138 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 14:02:03:002  INFO - Node Entry | session id:sess1241138 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 14:02:03:216  INFO - Start | session id:sess1241138 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 14:02:03:216  INFO - In Progress | session id:sess1241138 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 14:02:05:313  INFO - Node Entry | session id:sess1241138 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 14:05:39:660  INFO - Node Entry | session id:sess792057 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 14:05:39:906  INFO - Node Entry | session id:sess792057 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 14:05:39:994  INFO - Start | session id:sess792057 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 14:05:39:995  INFO - In Progress | session id:sess792057 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 14:05:42:124  INFO - Node Entry | session id:sess792057 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 14:06:05:985  INFO - Node Entry | session id:sess792057 | ELibrary:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^2
+ | undefined
+07/02/2023 14:06:06:091  INFO - Node Entry | session id:sess792057 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 14:06:09:320  INFO - Node Entry | session id:sess792057 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 14:06:09:456  INFO - Node Entry | session id:sess792057 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 14:06:09:461  INFO - End | session id:sess792057 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 14:06:09:461  INFO - Application Exit | session id:sess792057 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 14:08:49:916  INFO - Node Entry | session id:sess9349184 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 14:08:50:171  INFO - Node Entry | session id:sess9349184 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 14:08:50:295  INFO - Start | session id:sess9349184 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 14:08:50:297  INFO - In Progress | session id:sess9349184 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 14:08:55:996  INFO - Node Entry | session id:sess9349184 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 14:09:05:986  INFO - Node Entry | session id:sess9349184 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 14:09:06:063  INFO - Node Entry | session id:sess9349184 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 14:09:06:139  INFO - Node Entry | session id:sess9349184 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 14:09:06:141  INFO - End | session id:sess9349184 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 14:09:06:142  INFO - Application Exit | session id:sess9349184 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 14:12:53:424  INFO - Node Entry | session id:sess1455207 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 14:12:53:871  INFO - Node Entry | session id:sess1455207 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 14:12:54:245  INFO - Start | session id:sess1455207 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 14:12:54:245  INFO - In Progress | session id:sess1455207 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 14:13:00:037  INFO - Node Entry | session id:sess1455207 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 14:13:10:149  INFO - Node Entry | session id:sess1455207 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 14:13:10:356  INFO - Node Entry | session id:sess1455207 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 14:14:20:093  INFO - Node Entry | session id:sess1455207 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 14:14:20:155  INFO - Node Entry | session id:sess1455207 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 14:14:20:230  INFO - Node Entry | session id:sess1455207 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 14:14:20:232  INFO - End | session id:sess1455207 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 14:14:20:232  INFO - Application Exit | session id:sess1455207 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 14:56:10:645  INFO - Node Entry | session id:sess4729369 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 14:56:10:877  INFO - Node Entry | session id:sess4729369 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 14:56:10:975  INFO - Start | session id:sess4729369 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 14:56:10:975  INFO - In Progress | session id:sess4729369 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 14:56:16:538  INFO - Node Entry | session id:sess4729369 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 14:56:23:953  INFO - Node Entry | session id:sess4729369 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+07/02/2023 14:56:24:200  INFO - Node Entry | session id:sess4729369 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 14:56:39:039  INFO - Node Entry | session id:sess4729369 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 14:56:41:594  INFO - Node Entry | session id:sess4729369 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 14:56:41:655  INFO - Node Entry | session id:sess4729369 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 14:56:41:732  INFO - Node Entry | session id:sess4729369 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 14:56:42:287  INFO - Node Entry | session id:sess4729369 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 14:56:42:349  INFO - Node Entry | session id:sess4729369 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 14:57:18:448  INFO - Node Entry | session id:sess4729369 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 14:57:18:681  INFO - Node Entry | session id:sess4729369 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 14:57:18:700  INFO - End | session id:sess4729369 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 14:57:18:701  INFO - Application Exit | session id:sess4729369 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 15:00:51:822  INFO - Node Entry | session id:sess143180 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:00:52:068  INFO - Node Entry | session id:sess143180 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:00:52:194  INFO - Start | session id:sess143180 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:00:52:194  INFO - In Progress | session id:sess143180 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:00:57:731  INFO - Node Entry | session id:sess143180 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:01:02:070  INFO - Node Entry | session id:sess143180 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:01:02:146  INFO - Node Entry | session id:sess143180 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:01:12:673  INFO - Node Entry | session id:sess143180 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:01:15:184  INFO - Node Entry | session id:sess143180 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:01:15:246  INFO - Node Entry | session id:sess143180 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:01:15:306  INFO - Node Entry | session id:sess143180 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:01:15:430  INFO - Node Entry | session id:sess143180 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:01:15:492  INFO - Node Entry | session id:sess143180 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:04:39:416  INFO - Node Entry | session id:sess9995751 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:04:39:627  INFO - Node Entry | session id:sess9995751 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:04:39:715  INFO - Start | session id:sess9995751 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:04:39:715  INFO - In Progress | session id:sess9995751 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:04:45:231  INFO - Node Entry | session id:sess9995751 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:04:50:145  INFO - Node Entry | session id:sess9995751 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:04:50:223  INFO - Node Entry | session id:sess9995751 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:04:56:624  INFO - Node Entry | session id:sess9995751 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:04:56:700  INFO - Node Entry | session id:sess9995751 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:04:56:761  INFO - Node Entry | session id:sess9995751 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:04:56:823  INFO - Node Entry | session id:sess9995751 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:04:56:931  INFO - Node Entry | session id:sess9995751 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:04:56:992  INFO - Node Entry | session id:sess9995751 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:09:47:683  INFO - Node Entry | session id:sess8562963 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:09:47:897  INFO - Node Entry | session id:sess8562963 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:09:47:989  INFO - Start | session id:sess8562963 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:09:47:989  INFO - In Progress | session id:sess8562963 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:09:53:504  INFO - Node Entry | session id:sess8562963 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:09:55:218  INFO - Node Entry | session id:sess8562963 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:09:55:295  INFO - Node Entry | session id:sess8562963 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:10:03:533  INFO - Node Entry | session id:sess8562963 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^1 | undefined
+07/02/2023 15:10:03:624  INFO - Node Entry | session id:sess8562963 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 15:10:03:686  INFO - Node Entry | session id:sess8562963 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 15:10:03:749  INFO - Node Entry | session id:sess8562963 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 15:10:09:477  INFO - Node Entry | session id:sess8562963 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 15:10:09:551  INFO - Node Entry | session id:sess8562963 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 15:10:09:612  INFO - Node Entry | session id:sess8562963 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 15:10:09:615  INFO - End | session id:sess8562963 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 15:10:09:615  INFO - Application Exit | session id:sess8562963 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 15:10:22:362  INFO - Node Entry | session id:sess7861037 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:10:22:489  INFO - Node Entry | session id:sess7861037 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:10:22:498  INFO - Start | session id:sess7861037 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:10:22:500  INFO - In Progress | session id:sess7861037 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:10:28:123  INFO - Node Entry | session id:sess7861037 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:10:29:846  INFO - Node Entry | session id:sess7861037 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:10:29:924  INFO - Node Entry | session id:sess7861037 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:10:31:605  INFO - Node Entry | session id:sess7861037 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:10:31:682  INFO - Node Entry | session id:sess7861037 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:10:31:744  INFO - Node Entry | session id:sess7861037 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:10:31:806  INFO - Node Entry | session id:sess7861037 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:10:31:914  INFO - Node Entry | session id:sess7861037 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:10:31:975  INFO - Node Entry | session id:sess7861037 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:16:51:833  INFO - Node Entry | session id:sess2888396 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:16:52:088  INFO - Node Entry | session id:sess2888396 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:16:52:183  INFO - Start | session id:sess2888396 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:16:52:184  INFO - In Progress | session id:sess2888396 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:16:57:679  INFO - Node Entry | session id:sess2888396 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:17:05:387  INFO - Node Entry | session id:sess2888396 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:17:05:478  INFO - Node Entry | session id:sess2888396 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:17:13:902  INFO - Node Entry | session id:sess2888396 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:17:13:978  INFO - Node Entry | session id:sess2888396 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:17:14:041  INFO - Node Entry | session id:sess2888396 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:17:14:103  INFO - Node Entry | session id:sess2888396 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:17:14:195  INFO - Node Entry | session id:sess2888396 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:17:14:255  INFO - Node Entry | session id:sess2888396 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:19:09:128  INFO - Node Entry | session id:sess9947759 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:19:09:356  INFO - Node Entry | session id:sess9947759 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:19:09:428  INFO - Start | session id:sess9947759 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:19:09:428  INFO - In Progress | session id:sess9947759 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:19:14:913  INFO - Node Entry | session id:sess9947759 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:19:17:188  INFO - Node Entry | session id:sess9947759 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:19:17:285  INFO - Node Entry | session id:sess9947759 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:19:19:521  INFO - Node Entry | session id:sess9947759 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:19:19:598  INFO - Node Entry | session id:sess9947759 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:19:19:675  INFO - Node Entry | session id:sess9947759 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:19:19:738  INFO - Node Entry | session id:sess9947759 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:19:19:996  INFO - Node Entry | session id:sess9947759 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:19:20:058  INFO - Node Entry | session id:sess9947759 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:20:58:359  INFO - Node Entry | session id:sess2218685 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:20:58:593  INFO - Node Entry | session id:sess2218685 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:20:58:687  INFO - Start | session id:sess2218685 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:20:58:688  INFO - In Progress | session id:sess2218685 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:21:04:296  INFO - Node Entry | session id:sess2218685 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:21:06:050  INFO - Node Entry | session id:sess2218685 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:21:06:129  INFO - Node Entry | session id:sess2218685 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:21:08:395  INFO - Node Entry | session id:sess2218685 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:21:08:486  INFO - Node Entry | session id:sess2218685 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:21:08:563  INFO - Node Entry | session id:sess2218685 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:21:08:624  INFO - Node Entry | session id:sess2218685 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:21:08:734  INFO - Node Entry | session id:sess2218685 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:21:08:797  INFO - Node Entry | session id:sess2218685 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:21:16:799  INFO - Node Entry | session id:sess2218685 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 15:21:16:875  INFO - Node Entry | session id:sess2218685 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 15:21:16:876  INFO - End | session id:sess2218685 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 15:21:16:876  INFO - Application Exit | session id:sess2218685 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 15:23:05:629  INFO - Node Entry | session id:sess5119933 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:23:05:907  INFO - Node Entry | session id:sess5119933 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:23:06:019  INFO - Start | session id:sess5119933 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:23:06:019  INFO - In Progress | session id:sess5119933 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:23:11:530  INFO - Node Entry | session id:sess5119933 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:23:19:784  INFO - Node Entry | session id:sess5119933 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:23:19:858  INFO - Node Entry | session id:sess5119933 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:23:24:152  INFO - Node Entry | session id:sess5119933 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:23:24:228  INFO - Node Entry | session id:sess5119933 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:23:24:305  INFO - Node Entry | session id:sess5119933 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:23:24:366  INFO - Node Entry | session id:sess5119933 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:23:24:474  INFO - Node Entry | session id:sess5119933 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:23:24:535  INFO - Node Entry | session id:sess5119933 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:24:03:011  INFO - Node Entry | session id:sess7682658 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:24:03:284  INFO - Node Entry | session id:sess7682658 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:24:03:363  INFO - Start | session id:sess7682658 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:24:03:364  INFO - In Progress | session id:sess7682658 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:24:08:790  INFO - Node Entry | session id:sess7682658 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:24:13:027  INFO - Node Entry | session id:sess7682658 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:24:13:105  INFO - Node Entry | session id:sess7682658 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:24:15:355  INFO - Node Entry | session id:sess7682658 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:24:15:446  INFO - Node Entry | session id:sess7682658 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:24:15:508  INFO - Node Entry | session id:sess7682658 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:24:15:571  INFO - Node Entry | session id:sess7682658 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:24:15:707  INFO - Node Entry | session id:sess7682658 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:24:15:769  INFO - Node Entry | session id:sess7682658 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:24:18:348  INFO - Node Entry | session id:sess7682658 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 15:24:18:426  INFO - Node Entry | session id:sess7682658 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 15:24:18:427  INFO - End | session id:sess7682658 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 15:24:18:428  INFO - Application Exit | session id:sess7682658 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 15:25:19:195  INFO - Node Entry | session id:sess5149575 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:25:19:664  INFO - Node Entry | session id:sess5149575 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:25:19:837  INFO - Start | session id:sess5149575 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:25:19:837  INFO - In Progress | session id:sess5149575 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:25:25:346  INFO - Node Entry | session id:sess5149575 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:25:27:753  INFO - Node Entry | session id:sess5149575 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:25:27:829  INFO - Node Entry | session id:sess5149575 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:25:30:056  INFO - Node Entry | session id:sess5149575 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:25:30:131  INFO - Node Entry | session id:sess5149575 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:25:30:208  INFO - Node Entry | session id:sess5149575 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:25:30:271  INFO - Node Entry | session id:sess5149575 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:25:30:393  INFO - Node Entry | session id:sess5149575 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:25:30:454  INFO - Node Entry | session id:sess5149575 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:25:36:383  INFO - Node Entry | session id:sess5149575 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 15:25:36:445  INFO - Node Entry | session id:sess5149575 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 15:25:36:447  INFO - End | session id:sess5149575 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 15:25:36:447  INFO - Application Exit | session id:sess5149575 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 15:27:34:058  INFO - Node Entry | session id:sess2321896 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:27:34:273  INFO - Node Entry | session id:sess2321896 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:27:34:372  INFO - Start | session id:sess2321896 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:27:34:373  INFO - In Progress | session id:sess2321896 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:27:39:942  INFO - Node Entry | session id:sess2321896 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:27:41:651  INFO - Node Entry | session id:sess2321896 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:27:41:728  INFO - Node Entry | session id:sess2321896 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:27:43:972  INFO - Node Entry | session id:sess2321896 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:27:44:050  INFO - Node Entry | session id:sess2321896 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:27:44:127  INFO - Node Entry | session id:sess2321896 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:27:44:189  INFO - Node Entry | session id:sess2321896 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:27:44:295  INFO - Node Entry | session id:sess2321896 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:27:44:357  INFO - Node Entry | session id:sess2321896 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:28:28:789  INFO - Node Entry | session id:sess6794959 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:28:29:052  INFO - Node Entry | session id:sess6794959 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:28:29:135  INFO - Start | session id:sess6794959 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:28:29:135  INFO - In Progress | session id:sess6794959 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:28:34:649  INFO - Node Entry | session id:sess6794959 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:28:36:365  INFO - Node Entry | session id:sess6794959 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:28:36:441  INFO - Node Entry | session id:sess6794959 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:28:38:110  INFO - Node Entry | session id:sess6794959 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+07/02/2023 15:28:38:188  INFO - Node Entry | session id:sess6794959 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 15:28:38:251  INFO - Node Entry | session id:sess6794959 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 15:28:38:313  INFO - Node Entry | session id:sess6794959 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 15:30:52:087  INFO - Node Entry | session id:sess6155129 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:30:52:345  INFO - Node Entry | session id:sess6155129 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:30:52:434  INFO - Start | session id:sess6155129 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:30:52:435  INFO - In Progress | session id:sess6155129 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:30:57:991  INFO - Node Entry | session id:sess6155129 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:31:00:438  INFO - Node Entry | session id:sess6155129 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:31:00:528  INFO - Node Entry | session id:sess6155129 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:31:02:791  INFO - Node Entry | session id:sess6155129 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:31:02:868  INFO - Node Entry | session id:sess6155129 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:31:02:944  INFO - Node Entry | session id:sess6155129 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:31:03:005  INFO - Node Entry | session id:sess6155129 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:31:03:126  INFO - Node Entry | session id:sess6155129 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:31:03:188  INFO - Node Entry | session id:sess6155129 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:33:17:081  INFO - Node Entry | session id:sess3454675 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:33:17:416  INFO - Node Entry | session id:sess3454675 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:33:17:507  INFO - Start | session id:sess3454675 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:33:17:507  INFO - In Progress | session id:sess3454675 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:33:22:980  INFO - Node Entry | session id:sess3454675 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:33:24:699  INFO - Node Entry | session id:sess3454675 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:33:24:775  INFO - Node Entry | session id:sess3454675 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:33:31:161  INFO - Node Entry | session id:sess3454675 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:33:31:239  INFO - Node Entry | session id:sess3454675 | ELibrary:AgentTranfer | Framework | AgentTranfer |  |  | undefined
+07/02/2023 15:33:31:301  INFO - Node Entry | session id:sess3454675 | ELibrary:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+07/02/2023 15:33:31:362  INFO - Node Entry | session id:sess3454675 | ELibrary:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+07/02/2023 15:33:31:470  INFO - Node Entry | session id:sess3454675 | ELibrary:agentTransfer-returnToMain | Framework | agentTransfer-returnToMain |  |  | undefined
+07/02/2023 15:33:31:532  INFO - Node Entry | session id:sess3454675 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 15:35:38:754  INFO - Node Entry | session id:sess837978 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:35:38:985  INFO - Node Entry | session id:sess837978 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:35:39:061  INFO - Start | session id:sess837978 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:35:39:061  INFO - In Progress | session id:sess837978 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:35:44:595  INFO - Node Entry | session id:sess837978 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:35:48:938  INFO - Node Entry | session id:sess837978 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:35:49:030  INFO - Node Entry | session id:sess837978 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:35:50:749  INFO - Node Entry | session id:sess837978 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:35:50:851  INFO - Node Entry | session id:sess837978 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 15:35:50:934  INFO - Node Entry | session id:sess837978 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 15:35:50:996  INFO - Node Entry | session id:sess837978 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 15:35:54:737  INFO - Node Entry | session id:sess837978 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 15:35:54:800  INFO - Node Entry | session id:sess837978 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 15:35:54:861  INFO - Node Entry | session id:sess837978 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 15:35:54:863  INFO - End | session id:sess837978 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 15:35:54:863  INFO - Application Exit | session id:sess837978 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 15:37:39:271  INFO - Node Entry | session id:sess2061564 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 15:37:39:708  INFO - Node Entry | session id:sess2061564 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 15:37:39:853  INFO - Start | session id:sess2061564 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 15:37:39:854  INFO - In Progress | session id:sess2061564 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 15:37:45:397  INFO - Node Entry | session id:sess2061564 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 15:37:47:115  INFO - Node Entry | session id:sess2061564 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:37:47:192  INFO - Node Entry | session id:sess2061564 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 15:37:48:882  INFO - Node Entry | session id:sess2061564 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 15:37:48:955  INFO - Node Entry | session id:sess2061564 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 15:37:49:031  INFO - Node Entry | session id:sess2061564 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 15:37:49:093  INFO - Node Entry | session id:sess2061564 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 15:37:54:832  INFO - Node Entry | session id:sess2061564 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 15:37:54:893  INFO - Node Entry | session id:sess2061564 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 15:37:54:967  INFO - Node Entry | session id:sess2061564 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 15:37:54:969  INFO - End | session id:sess2061564 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 15:37:54:970  INFO - Application Exit | session id:sess2061564 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 16:21:18:193  INFO - Node Entry | session id:sess832094 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 16:21:18:498  INFO - Node Entry | session id:sess832094 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 16:21:18:623  INFO - Start | session id:sess832094 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 16:21:18:623  INFO - In Progress | session id:sess832094 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 16:21:20:767  INFO - Node Entry | session id:sess832094 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 16:21:40:851  INFO - Node Entry | session id:sess832094 | ELibrary:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^2
+ | undefined
+07/02/2023 16:21:40:939  INFO - Node Entry | session id:sess832094 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 16:21:44:668  INFO - Node Entry | session id:sess832094 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 16:21:44:762  INFO - Node Entry | session id:sess832094 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 16:21:44:765  INFO - End | session id:sess832094 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 16:21:44:766  INFO - Application Exit | session id:sess832094 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 16:27:59:648  INFO - Node Entry | session id:sess3380580 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 16:27:59:889  INFO - Node Entry | session id:sess3380580 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 16:27:59:963  INFO - Start | session id:sess3380580 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 16:27:59:963  INFO - In Progress | session id:sess3380580 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 16:28:02:085  INFO - Node Entry | session id:sess3380580 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 16:28:54:442  INFO - Node Entry | session id:sess3380580 | ELibrary:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^2
+ | undefined
+07/02/2023 16:28:54:519  INFO - Node Entry | session id:sess3380580 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 16:28:57:580  INFO - Node Entry | session id:sess3380580 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 16:28:57:642  INFO - Node Entry | session id:sess3380580 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 16:28:57:645  INFO - End | session id:sess3380580 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 16:28:57:646  INFO - Application Exit | session id:sess3380580 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 16:49:17:225  INFO - Node Entry | session id:sess497754 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 16:49:17:453  INFO - Node Entry | session id:sess497754 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 16:49:17:532  INFO - Start | session id:sess497754 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 16:49:17:533  INFO - In Progress | session id:sess497754 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 16:49:19:631  INFO - Node Entry | session id:sess497754 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 16:49:53:055  INFO - Node Entry | session id:sess497754 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 16:50:31:479  INFO - Node Entry | session id:sess6374635 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 16:50:31:774  INFO - Node Entry | session id:sess6374635 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 16:50:31:875  INFO - Start | session id:sess6374635 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 16:50:31:876  INFO - In Progress | session id:sess6374635 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 16:50:37:494  INFO - Node Entry | session id:sess6374635 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 16:50:46:384  INFO - Node Entry | session id:sess6374635 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^1 | undefined
+07/02/2023 16:50:46:504  INFO - Node Entry | session id:sess6374635 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 16:50:58:625  INFO - Node Entry | session id:sess6374635 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 16:50:58:687  INFO - Node Entry | session id:sess6374635 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 16:50:58:762  INFO - Node Entry | session id:sess6374635 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 16:50:58:764  INFO - End | session id:sess6374635 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 16:50:58:764  INFO - Application Exit | session id:sess6374635 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 16:57:55:590  INFO - Node Entry | session id:sess9023989 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 16:57:55:807  INFO - Node Entry | session id:sess9023989 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 16:57:55:889  INFO - Start | session id:sess9023989 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 16:57:55:890  INFO - In Progress | session id:sess9023989 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 16:58:01:374  INFO - Node Entry | session id:sess9023989 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 16:58:15:947  INFO - Node Entry | session id:sess9023989 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 16:58:16:026  INFO - Node Entry | session id:sess9023989 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 17:18:03:598  INFO - Node Entry | session id:sess9802522 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 17:18:03:981  INFO - Node Entry | session id:sess9802522 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 17:18:04:217  INFO - Start | session id:sess9802522 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 17:18:04:219  INFO - In Progress | session id:sess9802522 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 17:18:09:734  INFO - Node Entry | session id:sess9802522 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 17:22:28:848  INFO - Node Entry | session id:sess9802522 | ELibrary:badfetchData | Framework | badfetchData |  |  | undefined
+07/02/2023 17:22:29:385  INFO - Node Entry | session id:sess9802522 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 17:22:33:550  INFO - Node Entry | session id:sess9802522 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 17:23:12:588  INFO - Node Entry | session id:sess7610291 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 17:23:12:883  INFO - Node Entry | session id:sess7610291 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 17:23:13:014  INFO - Start | session id:sess7610291 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 17:23:13:015  INFO - In Progress | session id:sess7610291 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 17:23:18:539  INFO - Node Entry | session id:sess7610291 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 17:23:20:334  INFO - Node Entry | session id:sess7610291 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 17:23:20:439  INFO - Node Entry | session id:sess7610291 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 17:23:24:817  INFO - Node Entry | session id:sess7610291 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+07/02/2023 17:23:25:095  INFO - Node Entry | session id:sess7610291 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 17:23:25:170  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 17:23:25:231  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 17:23:41:064  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 17:23:45:480  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1234^0.949999988079071^0^0 | undefined
+07/02/2023 17:23:46:110  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 17:23:46:187  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+07/02/2023 17:23:46:310  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 17:23:53:600  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 17:23:57:022  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 17:23:57:128  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 17:23:57:189  INFO - Node Entry | session id:sess7610291 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 17:23:57:252  INFO - Node Entry | session id:sess7610291 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 17:23:57:314  INFO - Node Entry | session id:sess7610291 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 17:24:11:019  INFO - Node Entry | session id:sess7610291 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 17:24:11:079  INFO - Node Entry | session id:sess7610291 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 17:24:11:156  INFO - Node Entry | session id:sess7610291 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 17:24:11:159  INFO - End | session id:sess7610291 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 17:24:11:159  INFO - Application Exit | session id:sess7610291 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 17:41:40:327  INFO - Node Entry | session id:sess5813981 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 17:41:40:626  INFO - Node Entry | session id:sess5813981 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 17:41:40:793  INFO - Start | session id:sess5813981 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 17:41:40:794  INFO - In Progress | session id:sess5813981 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 17:41:46:458  INFO - Node Entry | session id:sess5813981 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 17:41:53:319  INFO - Node Entry | session id:sess5813981 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 17:41:53:381  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 17:41:53:442  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 17:41:57:105  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 17:41:59:728  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 17:42:00:264  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 17:42:00:327  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 17:42:00:389  INFO - Node Entry | session id:sess5813981 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 17:42:00:451  INFO - Node Entry | session id:sess5813981 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 17:42:08:480  INFO - Node Entry | session id:sess5813981 | ELibrary:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 0^0.949999988079071^0^0 | undefined
+07/02/2023 17:42:08:541  INFO - Node Entry | session id:sess5813981 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+07/02/2023 17:55:34:524  INFO - Node Entry | session id:sess9998672 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 17:55:34:966  INFO - Node Entry | session id:sess9998672 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 17:55:35:144  INFO - Start | session id:sess9998672 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 17:55:35:145  INFO - In Progress | session id:sess9998672 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 17:55:40:900  INFO - Node Entry | session id:sess9998672 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 17:55:42:651  INFO - Node Entry | session id:sess9998672 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 17:55:42:727  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 17:55:42:789  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 17:55:46:282  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 17:55:49:288  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 17:55:49:764  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 17:55:49:840  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 17:55:49:900  INFO - Node Entry | session id:sess9998672 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 17:55:49:961  INFO - Node Entry | session id:sess9998672 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 17:55:55:196  INFO - Node Entry | session id:sess9998672 | ELibrary:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 0^0.949999988079071^0^0 | undefined
+07/02/2023 17:55:55:258  INFO - Node Entry | session id:sess9998672 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+07/02/2023 17:56:06:385  INFO - Node Entry | session id:sess9998672 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+07/02/2023 17:56:06:445  INFO - Node Entry | session id:sess9998672 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+07/02/2023 17:56:06:599  INFO - Node Entry | session id:sess9998672 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 17:56:06:601  INFO - End | session id:sess9998672 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 17:56:06:601  INFO - Application Exit | session id:sess9998672 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 18:13:18:208  INFO - Node Entry | session id:sess6477272 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 18:13:18:445  INFO - Node Entry | session id:sess6477272 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 18:13:18:535  INFO - Start | session id:sess6477272 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 18:13:18:536  INFO - In Progress | session id:sess6477272 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 18:13:24:016  INFO - Node Entry | session id:sess6477272 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 18:13:29:499  INFO - Node Entry | session id:sess6477272 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 18:13:29:585  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 18:13:29:648  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 18:13:34:256  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 18:13:38:652  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 18:13:39:145  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 18:13:39:211  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 18:13:39:268  INFO - Node Entry | session id:sess6477272 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 18:13:39:330  INFO - Node Entry | session id:sess6477272 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 18:13:40:885  INFO - Node Entry | session id:sess6477272 | ELibrary:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 0^0.949999988079071^0^0 | undefined
+07/02/2023 18:13:40:947  INFO - Node Entry | session id:sess6477272 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+07/02/2023 18:14:09:562  INFO - Node Entry | session id:sess6477272 | ELibrary:badfetchData | Framework | badfetchData |  |  | undefined
+07/02/2023 18:14:09:623  INFO - Node Entry | session id:sess6477272 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 18:14:13:300  INFO - Node Entry | session id:sess6477272 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 18:14:13:362  INFO - Node Entry | session id:sess6477272 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 18:14:13:364  INFO - End | session id:sess6477272 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 18:14:13:364  INFO - Application Exit | session id:sess6477272 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 18:46:57:177  INFO - Node Entry | session id:sess9675107 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 18:46:57:618  INFO - Node Entry | session id:sess9675107 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 18:46:57:991  INFO - Start | session id:sess9675107 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 18:46:57:994  INFO - In Progress | session id:sess9675107 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 18:47:03:952  INFO - Node Entry | session id:sess9675107 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 18:47:11:097  INFO - Node Entry | session id:sess9675107 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 18:47:11:267  INFO - Node Entry | session id:sess9675107 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 18:47:15:696  INFO - Node Entry | session id:sess9675107 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+07/02/2023 18:47:15:820  INFO - Node Entry | session id:sess9675107 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 18:47:15:912  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 18:47:15:973  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 18:47:21:841  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 18:47:27:114  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 18:47:27:975  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 18:47:28:054  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 18:47:28:122  INFO - Node Entry | session id:sess9675107 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 18:47:28:189  INFO - Node Entry | session id:sess9675107 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 18:47:33:882  INFO - Node Entry | session id:sess9675107 | ELibrary:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 0^0.949999988079071^0^0 | undefined
+07/02/2023 18:47:33:944  INFO - Node Entry | session id:sess9675107 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+07/02/2023 18:47:47:125  INFO - Node Entry | session id:sess9675107 | ELibrary:badfetchData | Framework | badfetchData |  |  | undefined
+07/02/2023 18:47:47:187  INFO - Node Entry | session id:sess9675107 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 18:47:50:828  INFO - Node Entry | session id:sess9675107 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 18:47:50:937  INFO - Node Entry | session id:sess9675107 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 18:47:50:939  INFO - End | session id:sess9675107 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 18:47:50:939  INFO - Application Exit | session id:sess9675107 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+07/02/2023 18:57:28:812  INFO - Node Entry | session id:sess1148123 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 18:57:29:130  INFO - Node Entry | session id:sess1148123 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 18:57:29:268  INFO - Start | session id:sess1148123 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 18:57:29:269  INFO - In Progress | session id:sess1148123 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 18:57:34:864  INFO - Node Entry | session id:sess1148123 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 18:57:44:680  INFO - Node Entry | session id:sess1148123 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 18:57:44:894  INFO - Node Entry | session id:sess1148123 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 18:57:55:792  INFO - Node Entry | session id:sess1148123 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+07/02/2023 18:57:55:975  INFO - Node Entry | session id:sess1148123 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 18:57:56:053  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 18:57:56:114  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 18:58:00:938  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 18:58:03:541  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 18:58:04:156  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 18:58:04:218  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 18:58:04:280  INFO - Node Entry | session id:sess1148123 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 18:58:04:347  INFO - Node Entry | session id:sess1148123 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 18:58:07:447  INFO - Node Entry | session id:sess1148123 | ELibrary:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 0^0.949999988079071^0^0 | undefined
+07/02/2023 18:58:07:509  INFO - Node Entry | session id:sess1148123 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+07/02/2023 18:58:20:933  INFO - Node Entry | session id:sess1148123 | ELibrary:badfetchData | Framework | badfetchData |  |  | undefined
+07/02/2023 18:58:20:994  INFO - Node Entry | session id:sess1148123 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 19:06:52:328  INFO - Node Entry | session id:sess5046926 | ELibrary:Start | Framework | Start |  |  | 
+07/02/2023 19:06:52:679  INFO - Node Entry | session id:sess5046926 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+07/02/2023 19:06:52:791  INFO - Start | session id:sess5046926 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+07/02/2023 19:06:52:792  INFO - In Progress | session id:sess5046926 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+07/02/2023 19:06:58:392  INFO - Node Entry | session id:sess5046926 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+07/02/2023 19:07:07:567  INFO - Node Entry | session id:sess5046926 | ELibrary:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+07/02/2023 19:07:07:660  INFO - Node Entry | session id:sess5046926 | ELibrary:userMenu | Framework | userMenu |  |  | undefined
+07/02/2023 19:07:12:057  INFO - Node Entry | session id:sess5046926 | ELibrary:existUserAnnounce | Framework | existUserAnnounce | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+07/02/2023 19:07:12:133  INFO - Node Entry | session id:sess5046926 | ELibrary:Exist | Framework | Exist |  |  | undefined
+07/02/2023 19:07:12:211  INFO - Node Entry | session id:sess5046926 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+07/02/2023 19:07:12:274  INFO - Node Entry | session id:sess5046926 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+07/02/2023 19:07:16:391  INFO - Node Entry | session id:sess5046926 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+07/02/2023 19:07:18:595  INFO - Node Entry | session id:sess5046926 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+07/02/2023 19:07:19:149  INFO - Node Entry | session id:sess5046926 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+07/02/2023 19:07:19:211  INFO - Node Entry | session id:sess5046926 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+07/02/2023 19:07:19:271  INFO - Node Entry | session id:sess5046926 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+07/02/2023 19:07:19:333  INFO - Node Entry | session id:sess5046926 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+07/02/2023 19:07:31:481  INFO - Node Entry | session id:sess5046926 | ELibrary:badfetchData | Framework | badfetchData |  |  | undefined
+07/02/2023 19:07:31:543  INFO - Node Entry | session id:sess5046926 | ELibrary:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+07/02/2023 19:07:35:182  INFO - Node Entry | session id:sess5046926 | ELibrary:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+07/02/2023 19:07:35:258  INFO - Node Entry | session id:sess5046926 | ELibrary:Exit | Framework | Exit |  |  | undefined
+07/02/2023 19:07:35:260  INFO - End | session id:sess5046926 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+07/02/2023 19:07:35:260  INFO - Application Exit | session id:sess5046926 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
