@@ -202,3 +202,26 @@
 09/02/2023 14:29:33:141  INFO - Node Entry | session id:sess1964638 | ELibrary:Exit | Framework | Exit |  |  | undefined
 09/02/2023 14:29:33:143  INFO - End | session id:sess1964638 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
 09/02/2023 14:29:33:143  INFO - Application Exit | session id:sess1964638 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
+09/02/2023 14:49:35:275  INFO - Node Entry | session id:sess2031291 | ELibrary:Start | Framework | Start |  |  | 
+09/02/2023 14:49:35:547  INFO - Node Entry | session id:sess2031291 | ELibrary:Welcome | Framework | Welcome |  |  | undefined
+09/02/2023 14:49:36:236  INFO - Start | session id:sess2031291 | ELibrary:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+09/02/2023 14:49:36:237  INFO - In Progress | session id:sess2031291 | ELibrary:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+09/02/2023 14:49:45:397  INFO - Node Entry | session id:sess2031291 | ELibrary:langMenu | Framework | langMenu |  |  | undefined
+09/02/2023 14:49:48:086  INFO - Node Entry | session id:sess2031291 | ELibrary:Exist | Framework | Exist |  |  | undefined
+09/02/2023 14:49:48:194  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+09/02/2023 14:49:48:255  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+09/02/2023 14:49:51:856  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+09/02/2023 14:49:54:162  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+09/02/2023 14:49:57:600  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+09/02/2023 14:49:57:759  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+09/02/2023 14:49:57:853  INFO - Node Entry | session id:sess2031291 | ELibrary:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+09/02/2023 14:49:58:002  INFO - Node Entry | session id:sess2031291 | ELibrary:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+09/02/2023 14:50:04:418  INFO - Node Entry | session id:sess2031291 | ELibrary:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+09/02/2023 14:50:04:485  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+09/02/2023 14:50:48:132  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-CategoryMenuNext | Framework | ExistUser-CategoryMenuNext | CategoryMenu___utterance | 7^0.949999988079071^0^0 | undefined
+09/02/2023 14:50:48:191  INFO - Node Entry | session id:sess2031291 | ELibrary:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+09/02/2023 14:50:53:797  INFO - Node Entry | session id:sess2031291 | ELibrary:hangupData | Framework | hangupData |  |  | undefined
+09/02/2023 14:50:53:867  INFO - Node Entry | session id:sess2031291 | ELibrary:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+09/02/2023 14:50:53:980  INFO - Node Entry | session id:sess2031291 | ELibrary:Exit | Framework | Exit |  |  | undefined
+09/02/2023 14:50:54:005  INFO - End | session id:sess2031291 | ELibrary:Exit | CallEnd | Call End here |  |  | undefined
+09/02/2023 14:50:54:006  INFO - Application Exit | session id:sess2031291 | ELibrary:Exit | Framework | Application Exiting |  |  | undefined
