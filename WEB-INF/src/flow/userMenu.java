@@ -150,7 +150,7 @@ public class userMenu extends com.avaya.sce.runtime.Menu {
 	}
 	@Override
 	public void updateChoices(Collection choices, SCESession mySession) {
-		super.updateChoices(choices, mySession);
+		try {
 		super.updateChoices(choices, mySession);
 		com.avaya.sce.runtime.Choice choice = null;
 		java.util.Collection grammarInfo = null;
@@ -159,6 +159,10 @@ public class userMenu extends com.avaya.sce.runtime.Menu {
 		choices.add(choice);
 		choice = new com.avaya.sce.runtime.Choice("existUser", "2", true, "exact", "existUserAnnounce", grammarInfo, true);
 		choices.add(choice);
+		}
+		catch (Exception e) {
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+		}
 	}
 	@Override
 	public void updatePrompts(Collection prompts, SCESession mySession) {

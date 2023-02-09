@@ -1,5 +1,6 @@
 package flow;
 
+import java.io.File;
 import java.util.Collection;
 
 import com.avaya.sce.runtime.Prompt;
@@ -260,6 +261,8 @@ public class Welcome extends com.avaya.sce.runtime.Form {
 	public void updatePrompts(Collection prompts, SCESession mySession) {
 		try {
 			super.updatePrompts(prompts, mySession);
+			IVariableField em = mySession.getVariableField(IProjectVariables.MENU_COMMON,
+					IProjectVariables.MENU_COMMON_FIELD_NEW_AUDIO_PATH);
 			Prompt p = new Prompt() {
 				@Override
 				public void buildPrompt() {
@@ -271,7 +274,11 @@ public class Welcome extends com.avaya.sce.runtime.Form {
 			p.setOrder(com.avaya.sce.runtime.Prompt.STANDARD);
 			p.setTimeout(1, 8000);
 			p.setBargin(1, false);
+			em.setValue("http://172.16.11.17:8090/AudioPrompts/Elibrary/" +"Adventurestories"+".wav");
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR,"Adventure Strories prompt 1: "+"http://172.16.11.17:8090/AudioPrompts/Elibrary/" +"Adventurestories"+".wav", mySession);
 			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "update promt Entry", mySession);
+			p.add(1, new com.avaya.sce.runtime.PhraseVariableElement("menuCommon:newAudioPath",
+					com.avaya.sce.runtime.PhraseVariableElement.Type.AUDIO_URL, false));
 			p.add(1, new com.avaya.sce.runtime.PhraseVariableElement("AudioPath:welcome",
 					com.avaya.sce.runtime.PhraseVariableElement.Type.AUDIO_URL, false));
 			prompts.add(p);

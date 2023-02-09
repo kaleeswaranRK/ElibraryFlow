@@ -58,7 +58,7 @@
     </variable>
     <variable factoryID="" name="AudioPath:AdventureMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AdventureSelect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureSelect.wav" version="1.0"/>
-    <variable factoryID="" name="AudioPath:AdventureStories" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureCategory.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:Adventurestories" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureCategory.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AgentConnect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AgentConnect.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AgentMusic" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AgentMusic.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AHistoryofAdventureBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AHistoryofAdventureBook.wav" version="1.0"/>
@@ -749,6 +749,12 @@
     <variable factoryID="" name="menuCommon:menuOption7" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption7.wav" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuOption8" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption8.wav" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuOption9" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption9.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:menuOptionValue1" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:menuOptionValue2" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:menuOptionValue3" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:menuOptionValue4" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:menuOptionValue5" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:menuOptionValue6" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuPage" owner="" type="" value="0" version="1.0"/>
     <variable factoryID="" name="menuCommon:newAudioPath" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="password:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.field" value="" version="1.0">
@@ -1283,6 +1289,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
+    <variable factoryID="" name="UserDetails:userIdNumber" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="userId:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.field" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>

@@ -33675,3 +33675,1386 @@ CategorySize :2
 08/02/2023 19:27:44:890  INFO - 67D379C08DF3332FC92DE81C1690F373:/ELibrary : SCESession Removed
 08/02/2023 19:27:44:891 DEBUG - 67D379C08DF3332FC92DE81C1690F373:/ELibrary : Removing 1 session stack frames.
 08/02/2023 19:27:44:892  INFO - 67D379C08DF3332FC92DE81C1690F373:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 10:17:45:786  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : SCESession bound to HttpSession 9850DCCEAF8E13A34E06ACE182C46D23
+09/02/2023 10:17:45:923  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 10:17:46:207  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Using SCESession 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary servlet : Start
+09/02/2023 10:17:47:140  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 10:17:47:233 DEBUG - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 10:17:47:234  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess469644]
+09/02/2023 10:17:47:235  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 10:17:47:982  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : runtime_platform : Desktop
+09/02/2023 10:17:47:982  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 10:17:48:119 DEBUG - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Acquiring initial License
+09/02/2023 10:17:48:120  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 10:17:48:120  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Runtime :true
+09/02/2023 10:17:48:121  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : IC :true
+09/02/2023 10:17:48:121  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : CTI :true
+09/02/2023 10:17:48:467 DEBUG - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Grace Period timer cleared
+09/02/2023 10:17:48:470 DEBUG - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : License refresh timer started
+09/02/2023 10:17:48:473  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : MessageType is speech
+09/02/2023 10:17:48:668  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Using SCESession 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary servlet : Welcome
+09/02/2023 10:17:48:672  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 10:17:48:672  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 10:17:48:672  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 10:17:48:673  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 10:17:48:673  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 10:17:48:673  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 10:17:48:673  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 10:17:48:673  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 10:17:48:673  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 10:17:48:674  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 10:17:48:674  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 10:17:48:674  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 10:17:48:674  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 10:17:48:675  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 10:17:48:677  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 10:17:48:693  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 10:17:48:693  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 10:17:48:693  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 10:17:48:695  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 10:17:48:695  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 10:17:48:695  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 10:17:48:695  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 10:17:48:695  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 10:17:48:696  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 10:17:48:698  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 10:17:48:699  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 10:17:48:699  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 10:17:48:700  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 10:17:48:702  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 10:17:48:702  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 10:17:48:703  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 10:17:48:704  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 10:17:48:705  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 10:17:48:706  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 10:17:49:069 ERROR - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 10:17:49:288  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | update promt Entry
+09/02/2023 10:17:49:292  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | update promt Exit
+09/02/2023 10:17:51:372  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Using SCESession 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary servlet : langMenu
+09/02/2023 10:17:51:435  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | update promt Entry
+09/02/2023 10:17:51:435  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | update promt Exit
+09/02/2023 10:17:58:590  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Using SCESession 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary servlet : hangupData
+09/02/2023 10:17:58:661  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | Hangup by customer
+09/02/2023 10:17:58:688  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Using SCESession 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary servlet : ivrInfoData
+09/02/2023 10:17:58:771 ERROR - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | Duration Calculation
+09/02/2023 10:17:58:810  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 1.Flow Name : ELIBRARY
+09/02/2023 10:17:58:811  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 |  2.UCID NO : undefined
+09/02/2023 10:17:58:811  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 3.sessionId : sess469644
+09/02/2023 10:17:58:811  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 4.DNIS NO : 4134
+09/02/2023 10:17:58:811  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 5.CLID NO : 6007
+09/02/2023 10:17:58:811  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 6.StartingDate : 09-02-23 10:17:49
+09/02/2023 10:17:58:811  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 7.End Date : 09-02-23 10:17:58
+09/02/2023 10:17:58:812  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 8.Duration : 9
+09/02/2023 10:17:58:812  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 9.Exit Location : 
+09/02/2023 10:17:58:812  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 10.Exit Reason : hangup
+09/02/2023 10:17:58:812  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : session id:sess469644 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 10:17:58:814  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Using SCESession 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary servlet : Exit
+09/02/2023 10:17:58:915  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 10:17:58:918  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 10:17:58:921  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : HTTP Session lost removing SCESession 9850DCCEAF8E13A34E06ACE182C46D23
+09/02/2023 10:17:58:921  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : SCESession Removed
+09/02/2023 10:17:58:921 DEBUG - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : Removing 1 session stack frames.
+09/02/2023 10:17:58:922  INFO - 9850DCCEAF8E13A34E06ACE182C46D23:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 11:03:13:081  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : SCESession bound to HttpSession E08C409ABA7C410E1CBF95AFC460CCAC
+09/02/2023 11:03:13:115  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 11:03:13:161  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Using SCESession E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary servlet : Start
+09/02/2023 11:03:13:231  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 11:03:13:243 DEBUG - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 11:03:13:244  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess3523457]
+09/02/2023 11:03:13:244  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 11:03:13:922  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : runtime_platform : Desktop
+09/02/2023 11:03:13:923  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 11:03:13:939 DEBUG - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Acquiring initial License
+09/02/2023 11:03:13:941  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 11:03:13:941  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Runtime :true
+09/02/2023 11:03:13:941  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : IC :true
+09/02/2023 11:03:13:942  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : CTI :true
+09/02/2023 11:03:14:096 DEBUG - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Grace Period timer cleared
+09/02/2023 11:03:14:098 DEBUG - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : License refresh timer started
+09/02/2023 11:03:14:108  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : MessageType is speech
+09/02/2023 11:03:14:172  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Using SCESession E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary servlet : Welcome
+09/02/2023 11:03:14:173  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 11:03:14:174  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 11:03:14:177  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 11:03:14:178  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 11:03:14:179  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 11:03:14:180  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 11:03:14:181  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 11:03:14:181  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 11:03:14:182  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 11:03:14:182  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 11:03:14:183  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 11:03:14:184  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 11:03:14:184  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 11:03:14:184  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 11:03:14:185  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 11:03:14:185  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 11:03:14:186  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 11:03:14:186  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 11:03:14:186  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 11:03:14:186  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 11:03:14:186  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 11:03:14:186  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 11:03:14:187  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 11:03:14:187  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 11:03:14:187  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 11:03:14:188  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 11:03:14:188  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 11:03:14:188  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 11:03:14:188  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 11:03:14:188  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 11:03:14:189  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 11:03:14:189  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 11:03:14:189  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 11:03:14:193  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 11:03:14:485 ERROR - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 11:03:14:563  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | update promt Entry
+09/02/2023 11:03:14:600  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | update promt Exit
+09/02/2023 11:03:23:231  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Using SCESession E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary servlet : langMenu
+09/02/2023 11:03:23:292  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | update promt Entry
+09/02/2023 11:03:23:293  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | update promt Exit
+09/02/2023 11:03:46:696  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Using SCESession E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary servlet : hangupData
+09/02/2023 11:03:46:748  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | Hangup by customer
+09/02/2023 11:03:46:778  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Using SCESession E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary servlet : ivrInfoData
+09/02/2023 11:03:46:862 ERROR - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | Duration Calculation
+09/02/2023 11:03:46:890  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 1.Flow Name : ELIBRARY
+09/02/2023 11:03:46:891  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 |  2.UCID NO : undefined
+09/02/2023 11:03:46:892  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 3.sessionId : sess3523457
+09/02/2023 11:03:46:892  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 4.DNIS NO : 4134
+09/02/2023 11:03:46:892  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 5.CLID NO : 6007
+09/02/2023 11:03:46:892  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 6.StartingDate : 09-02-23 11:03:14
+09/02/2023 11:03:46:893  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 7.End Date : 09-02-23 11:03:46
+09/02/2023 11:03:46:894  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 8.Duration : 32
+09/02/2023 11:03:46:894  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 9.Exit Location : 
+09/02/2023 11:03:46:894  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 10.Exit Reason : hangup
+09/02/2023 11:03:46:895  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : session id:sess3523457 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 11:03:46:896  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Using SCESession E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary servlet : Exit
+09/02/2023 11:03:46:969  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 11:03:46:972  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 11:03:46:977  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : HTTP Session lost removing SCESession E08C409ABA7C410E1CBF95AFC460CCAC
+09/02/2023 11:03:46:980  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : SCESession Removed
+09/02/2023 11:03:46:982 DEBUG - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : Removing 1 session stack frames.
+09/02/2023 11:03:46:982  INFO - E08C409ABA7C410E1CBF95AFC460CCAC:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 11:05:01:022  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : SCESession bound to HttpSession 69F38BF9BA24BE7384FE3D7CF3581113
+09/02/2023 11:05:01:049  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 11:05:01:060  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Using SCESession 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary servlet : Start
+09/02/2023 11:05:01:121  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 11:05:01:138 DEBUG - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 11:05:01:139  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess7944962]
+09/02/2023 11:05:01:140  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 11:05:01:834  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : runtime_platform : Desktop
+09/02/2023 11:05:01:838  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 11:05:01:850 DEBUG - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Acquiring initial License
+09/02/2023 11:05:01:863  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 11:05:01:863  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Runtime :true
+09/02/2023 11:05:01:864  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : IC :true
+09/02/2023 11:05:01:864  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : CTI :true
+09/02/2023 11:05:02:093 DEBUG - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Grace Period timer cleared
+09/02/2023 11:05:02:095 DEBUG - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : License refresh timer started
+09/02/2023 11:05:02:106  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : MessageType is speech
+09/02/2023 11:05:02:166  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Using SCESession 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary servlet : Welcome
+09/02/2023 11:05:02:172  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 11:05:02:173  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 11:05:02:173  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 11:05:02:173  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 11:05:02:174  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 11:05:02:175  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 11:05:02:175  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 11:05:02:175  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 11:05:02:175  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 11:05:02:175  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 11:05:02:175  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 11:05:02:176  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 11:05:02:176  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 11:05:02:176  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 11:05:02:176  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 11:05:02:177  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 11:05:02:177  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 11:05:02:177  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 11:05:02:178  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 11:05:02:178  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 11:05:02:178  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 11:05:02:178  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 11:05:02:178  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 11:05:02:179  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 11:05:02:179  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 11:05:02:179  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 11:05:02:179  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 11:05:02:179  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 11:05:02:180  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 11:05:02:183  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 11:05:02:184  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 11:05:02:185  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 11:05:02:186  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 11:05:02:186  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 11:05:02:353 ERROR - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 11:05:02:422  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | update promt Entry
+09/02/2023 11:05:02:429  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | update promt Exit
+09/02/2023 11:05:11:020  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Using SCESession 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary servlet : langMenu
+09/02/2023 11:05:11:086  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | update promt Entry
+09/02/2023 11:05:11:086  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | update promt Exit
+09/02/2023 11:05:19:509  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Using SCESession 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary servlet : hangupData
+09/02/2023 11:05:19:569  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | Hangup by customer
+09/02/2023 11:05:19:587  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Using SCESession 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary servlet : ivrInfoData
+09/02/2023 11:05:19:643 ERROR - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | Duration Calculation
+09/02/2023 11:05:19:650  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 1.Flow Name : ELIBRARY
+09/02/2023 11:05:19:650  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 |  2.UCID NO : undefined
+09/02/2023 11:05:19:651  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 3.sessionId : sess7944962
+09/02/2023 11:05:19:651  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 4.DNIS NO : 4134
+09/02/2023 11:05:19:651  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 5.CLID NO : 6007
+09/02/2023 11:05:19:652  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 6.StartingDate : 09-02-23 11:05:02
+09/02/2023 11:05:19:654  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 7.End Date : 09-02-23 11:05:19
+09/02/2023 11:05:19:657  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 8.Duration : 17
+09/02/2023 11:05:19:657  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 9.Exit Location : 
+09/02/2023 11:05:19:657  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 10.Exit Reason : hangup
+09/02/2023 11:05:19:658  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : session id:sess7944962 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 11:05:19:660  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Using SCESession 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary servlet : Exit
+09/02/2023 11:05:19:730  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 11:05:19:731  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 11:05:19:736  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : HTTP Session lost removing SCESession 69F38BF9BA24BE7384FE3D7CF3581113
+09/02/2023 11:05:19:736  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : SCESession Removed
+09/02/2023 11:05:19:736 DEBUG - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : Removing 1 session stack frames.
+09/02/2023 11:05:19:737  INFO - 69F38BF9BA24BE7384FE3D7CF3581113:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 11:14:37:938  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : SCESession bound to HttpSession C6CCC217D2952779D4538E00278340B0
+09/02/2023 11:14:37:950  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 11:14:37:956  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : Start
+09/02/2023 11:14:38:005  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 11:14:38:021 DEBUG - C6CCC217D2952779D4538E00278340B0:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 11:14:38:022  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess2803033]
+09/02/2023 11:14:38:022  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 11:14:38:701  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : runtime_platform : Desktop
+09/02/2023 11:14:38:701  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 11:14:38:717 DEBUG - C6CCC217D2952779D4538E00278340B0:/ELibrary : Acquiring initial License
+09/02/2023 11:14:38:718  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 11:14:38:718  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Runtime :true
+09/02/2023 11:14:38:719  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : IC :true
+09/02/2023 11:14:38:719  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : CTI :true
+09/02/2023 11:14:38:882 DEBUG - C6CCC217D2952779D4538E00278340B0:/ELibrary : Grace Period timer cleared
+09/02/2023 11:14:38:883 DEBUG - C6CCC217D2952779D4538E00278340B0:/ELibrary : License refresh timer started
+09/02/2023 11:14:38:886  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : MessageType is speech
+09/02/2023 11:14:38:914  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : Welcome
+09/02/2023 11:14:38:915  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 11:14:38:915  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 11:14:38:916  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 11:14:38:917  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 11:14:38:917  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 11:14:38:917  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 11:14:38:917  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 11:14:38:917  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 11:14:38:917  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 11:14:38:918  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 11:14:38:918  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 11:14:38:918  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 11:14:38:918  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 11:14:38:918  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 11:14:38:918  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 11:14:38:919  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 11:14:38:920  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 11:14:38:920  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 11:14:38:920  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 11:14:38:920  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 11:14:38:921  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 11:14:39:059 ERROR - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 11:14:39:117  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Entry
+09/02/2023 11:14:39:123  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Exit
+09/02/2023 11:14:47:738  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : langMenu
+09/02/2023 11:14:47:793  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Entry
+09/02/2023 11:14:47:793  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Exit
+09/02/2023 11:14:49:523  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : Exist
+09/02/2023 11:14:49:595  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-Begin
+09/02/2023 11:14:49:658  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-userId
+09/02/2023 11:14:53:568  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-password
+09/02/2023 11:14:53:569  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 11:14:53:569  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 11:14:53:569  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 11:14:53:570  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 11:14:53:570  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 11:14:53:570  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 11:14:53:570  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 11:14:56:590  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 11:14:56:591  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 11:14:56:591  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 11:14:56:591  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 11:14:56:591  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 11:14:56:592  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 11:14:56:592  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 11:14:56:592  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 11:14:56:987  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 11:14:56:988  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 11:15:04:388  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 11:15:04:388 ERROR - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | password verify true
+09/02/2023 11:15:04:391  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 11:15:04:447  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 11:15:04:451  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 11:15:04:506  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 11:15:04:570  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 11:15:04:635  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Entry
+09/02/2023 11:15:04:635  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Exit
+09/02/2023 11:15:12:518  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 11:15:12:518  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 11:15:12:518  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 11:15:12:519  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 11:15:12:519  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 11:15:12:519  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 11:15:12:519  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 11:15:12:519  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 11:15:12:582 DEBUG - C6CCC217D2952779D4538E00278340B0:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 11:15:12:584  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : Using SCESession C6CCC217D2952779D4538E00278340B0:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 11:15:12:643  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 11:15:12:790  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 11:15:12:791  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Entry
+09/02/2023 11:15:12:792  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 11:15:12:792  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 11:15:12:792  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Youngadultfiction.wav
+09/02/2023 11:15:12:792  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | menuCommon:menuOption9
+09/02/2023 11:15:12:793  INFO - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | update promt Exit
+09/02/2023 11:15:12:793 ERROR - C6CCC217D2952779D4538E00278340B0:/ELibrary : session id:sess2803033 | Choices : 4
+09/02/2023 11:18:08:995  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : SCESession bound to HttpSession C8774CBB549867405FB5057450DDFE35
+09/02/2023 11:18:09:008  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 11:18:09:077  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : Start
+09/02/2023 11:18:09:124  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 11:18:09:142 DEBUG - C8774CBB549867405FB5057450DDFE35:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 11:18:09:142  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess2732702]
+09/02/2023 11:18:09:146  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 11:18:09:809  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : runtime_platform : Desktop
+09/02/2023 11:18:09:810  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 11:18:09:900 DEBUG - C8774CBB549867405FB5057450DDFE35:/ELibrary : Acquiring initial License
+09/02/2023 11:18:09:902  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 11:18:09:902  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Runtime :true
+09/02/2023 11:18:09:902  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : IC :true
+09/02/2023 11:18:09:902  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : CTI :true
+09/02/2023 11:18:10:001 DEBUG - C8774CBB549867405FB5057450DDFE35:/ELibrary : Grace Period timer cleared
+09/02/2023 11:18:10:003 DEBUG - C8774CBB549867405FB5057450DDFE35:/ELibrary : License refresh timer started
+09/02/2023 11:18:10:007  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : MessageType is speech
+09/02/2023 11:18:10:095  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : Welcome
+09/02/2023 11:18:10:097  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 11:18:10:098  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 11:18:10:099  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 11:18:10:099  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 11:18:10:099  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 11:18:10:099  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 11:18:10:100  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 11:18:10:102  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 11:18:10:102  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 11:18:10:103  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 11:18:10:103  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 11:18:10:104  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 11:18:10:104  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 11:18:10:104  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 11:18:10:105  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 11:18:10:105  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 11:18:10:105  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 11:18:10:106  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 11:18:10:106  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 11:18:10:107  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 11:18:10:107  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 11:18:10:107  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 11:18:10:107  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 11:18:10:108  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 11:18:10:108  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 11:18:10:108  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 11:18:10:108  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 11:18:10:109  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 11:18:10:109  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 11:18:10:110  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 11:18:10:110  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 11:18:10:110  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 11:18:10:110  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 11:18:10:111  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 11:18:10:326 ERROR - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 11:18:10:353  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Entry
+09/02/2023 11:18:10:357  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Exit
+09/02/2023 11:18:18:811  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : langMenu
+09/02/2023 11:18:18:874  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Entry
+09/02/2023 11:18:18:874  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Exit
+09/02/2023 11:18:23:304  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : Exist
+09/02/2023 11:18:23:400  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-Begin
+09/02/2023 11:18:23:458  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-userId
+09/02/2023 11:18:28:238  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-password
+09/02/2023 11:18:28:239  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 11:18:28:239  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 11:18:28:240  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 11:18:28:240  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 11:18:28:240  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 11:18:28:240  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 11:18:28:240  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 11:18:30:427  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 11:18:30:428  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 11:18:30:428  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 11:18:30:428  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 11:18:30:428  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 11:18:30:428  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 11:18:30:429  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 11:18:30:429  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 11:18:31:019  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 11:18:31:019  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 11:18:31:276  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 11:18:31:276 ERROR - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | password verify true
+09/02/2023 11:18:31:336  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 11:18:31:397  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 11:18:31:401  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 11:18:31:468  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 11:18:31:549  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 11:18:31:612  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Entry
+09/02/2023 11:18:31:613  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Exit
+09/02/2023 11:18:35:371  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 11:18:35:371  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 11:18:35:372  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 11:18:35:372  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 11:18:35:372  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 11:18:35:372  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 11:18:35:372  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 11:18:35:372  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 11:18:35:443 DEBUG - C8774CBB549867405FB5057450DDFE35:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 11:18:35:445  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 11:18:35:502  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 11:18:35:764  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 11:18:35:765  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Entry
+09/02/2023 11:18:35:765  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 11:18:35:766  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 11:18:35:766  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Youngadultfiction.wav
+09/02/2023 11:18:35:766  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | menuCommon:menuOption9
+09/02/2023 11:18:35:766  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | update promt Exit
+09/02/2023 11:18:35:766 ERROR - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | Choices : 4
+09/02/2023 11:19:04:618  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : hangupData
+09/02/2023 11:19:04:675  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | Hangup by customer
+09/02/2023 11:19:04:677  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : ivrInfoData
+09/02/2023 11:19:04:753 ERROR - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | Duration Calculation
+09/02/2023 11:19:04:783  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 1.Flow Name : ELIBRARY
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 |  2.UCID NO : undefined
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 3.sessionId : sess2732702
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 4.DNIS NO : 4134
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 5.CLID NO : 6007
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 6.StartingDate : 09-02-23 11:18:10
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 7.End Date : 09-02-23 11:19:04
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 8.Duration : 54
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 9.Exit Location : 
+09/02/2023 11:19:04:784  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 10.Exit Reason : hangup
+09/02/2023 11:19:04:785  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : session id:sess2732702 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 11:19:04:786  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Using SCESession C8774CBB549867405FB5057450DDFE35:/ELibrary servlet : Exit
+09/02/2023 11:19:04:934  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 11:19:04:936  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 11:19:04:945  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : HTTP Session lost removing SCESession C8774CBB549867405FB5057450DDFE35
+09/02/2023 11:19:04:945  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : SCESession Removed
+09/02/2023 11:19:04:946 DEBUG - C8774CBB549867405FB5057450DDFE35:/ELibrary : Removing 1 session stack frames.
+09/02/2023 11:19:04:946  INFO - C8774CBB549867405FB5057450DDFE35:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 11:54:42:149  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : SCESession bound to HttpSession 21A801AA9B09AC37A634A121BEABCD32
+09/02/2023 11:54:42:197  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 11:54:42:304  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : Start
+09/02/2023 11:54:42:635  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 11:54:42:708 DEBUG - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 11:54:42:709  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess9388241]
+09/02/2023 11:54:42:710  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 11:54:43:721  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : runtime_platform : Desktop
+09/02/2023 11:54:43:721  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 11:54:44:083 DEBUG - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Acquiring initial License
+09/02/2023 11:54:44:084  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 11:54:44:084  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Runtime :true
+09/02/2023 11:54:44:084  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : IC :true
+09/02/2023 11:54:44:085  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : CTI :true
+09/02/2023 11:54:44:323 DEBUG - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Grace Period timer cleared
+09/02/2023 11:54:44:325 DEBUG - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : License refresh timer started
+09/02/2023 11:54:44:329  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : MessageType is speech
+09/02/2023 11:54:44:438  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : Welcome
+09/02/2023 11:54:44:440  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 11:54:44:440  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 11:54:44:440  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 11:54:44:440  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 11:54:44:441  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 11:54:44:441  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 11:54:44:441  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 11:54:44:441  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 11:54:44:441  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 11:54:44:441  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 11:54:44:442  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 11:54:44:442  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 11:54:44:442  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 11:54:44:442  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 11:54:44:443  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 11:54:44:444  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 11:54:44:446  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 11:54:44:446  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 11:54:44:454  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 11:54:44:456  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 11:54:44:456  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 11:54:44:456  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 11:54:44:457  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 11:54:44:458  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 11:54:44:458  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 11:54:44:459  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 11:54:44:459  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 11:54:44:459  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 11:54:44:459  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 11:54:44:460  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 11:54:44:460  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 11:54:44:460  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 11:54:44:460  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 11:54:44:461  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 11:54:45:147 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 11:54:45:670 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 11:54:45:670  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Entry
+09/02/2023 11:54:45:870  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Exit
+09/02/2023 11:54:54:907  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : langMenu
+09/02/2023 11:54:54:963  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Entry
+09/02/2023 11:54:54:963  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Exit
+09/02/2023 11:54:56:710  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : Exist
+09/02/2023 11:54:56:789  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-Begin
+09/02/2023 11:54:56:854  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-userId
+09/02/2023 11:55:00:249  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-password
+09/02/2023 11:55:00:250  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 11:55:00:250  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 11:55:00:250  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 11:55:00:250  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 11:55:00:251  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 11:55:00:251  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 11:55:00:251  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 11:55:02:495  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 11:55:02:496  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 11:55:02:497  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 11:55:02:497  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 11:55:02:497  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 11:55:02:497  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 11:55:02:497  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 11:55:02:497  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 11:55:02:924  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 11:55:02:925  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 11:55:03:138  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 11:55:03:138 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | password verify true
+09/02/2023 11:55:03:159  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 11:55:03:225  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 11:55:03:229  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 11:55:03:328  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 11:55:03:430  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 11:55:03:487  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Entry
+09/02/2023 11:55:03:490  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Exit
+09/02/2023 11:55:07:351  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 11:55:07:353  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 11:55:07:354  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 11:55:07:355  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 11:55:07:355  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 11:55:07:355  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 11:55:07:355  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 11:55:07:355  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 11:55:07:416 DEBUG - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 11:55:07:418  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 11:55:07:481  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 11:55:07:599  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 11:55:07:601  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Entry
+09/02/2023 11:55:07:601  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 11:55:07:601 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | Path Name : Adventurestories
+09/02/2023 11:55:07:602  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 11:55:07:602  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 11:55:07:602 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | Path Name : Youngadultfiction
+09/02/2023 11:55:07:602  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Youngadultfiction.wav
+09/02/2023 11:55:07:602  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Youngadultfiction.wav
+09/02/2023 11:55:07:602  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption9.wav
+09/02/2023 11:55:07:603  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | update promt Exit
+09/02/2023 11:55:07:603 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | Choices : 4
+09/02/2023 11:55:31:391  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : hangupData
+09/02/2023 11:55:31:452  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | Hangup by customer
+09/02/2023 11:55:31:454  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : ivrInfoData
+09/02/2023 11:55:31:524 ERROR - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | Duration Calculation
+09/02/2023 11:55:31:554  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 1.Flow Name : ELIBRARY
+09/02/2023 11:55:31:555  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 |  2.UCID NO : undefined
+09/02/2023 11:55:31:555  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 3.sessionId : sess9388241
+09/02/2023 11:55:31:555  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 4.DNIS NO : 4134
+09/02/2023 11:55:31:555  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 5.CLID NO : 6007
+09/02/2023 11:55:31:555  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 6.StartingDate : 09-02-23 11:54:45
+09/02/2023 11:55:31:555  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 7.End Date : 09-02-23 11:55:31
+09/02/2023 11:55:31:556  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 8.Duration : 46
+09/02/2023 11:55:31:556  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 9.Exit Location : 
+09/02/2023 11:55:31:556  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 10.Exit Reason : hangup
+09/02/2023 11:55:31:556  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : session id:sess9388241 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 11:55:31:558  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Using SCESession 21A801AA9B09AC37A634A121BEABCD32:/ELibrary servlet : Exit
+09/02/2023 11:55:31:647  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 11:55:31:649  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 11:55:31:652  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : HTTP Session lost removing SCESession 21A801AA9B09AC37A634A121BEABCD32
+09/02/2023 11:55:31:652  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : SCESession Removed
+09/02/2023 11:55:31:653 DEBUG - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : Removing 1 session stack frames.
+09/02/2023 11:55:31:653  INFO - 21A801AA9B09AC37A634A121BEABCD32:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 12:02:53:928  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : SCESession bound to HttpSession 87937E76AD074EE967D66FE2FC5BC728
+09/02/2023 12:02:54:070  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 12:02:54:188  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : Start
+09/02/2023 12:02:54:241  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 12:02:54:273 DEBUG - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 12:02:54:274  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess4860886]
+09/02/2023 12:02:54:274  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 12:02:54:965  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : runtime_platform : Desktop
+09/02/2023 12:02:54:966  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 12:02:55:005 DEBUG - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Acquiring initial License
+09/02/2023 12:02:55:008  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 12:02:55:008  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Runtime :true
+09/02/2023 12:02:55:008  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : IC :true
+09/02/2023 12:02:55:008  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : CTI :true
+09/02/2023 12:02:55:226 DEBUG - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Grace Period timer cleared
+09/02/2023 12:02:55:228 DEBUG - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : License refresh timer started
+09/02/2023 12:02:55:231  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : MessageType is speech
+09/02/2023 12:02:55:379  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : Welcome
+09/02/2023 12:02:55:380  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 12:02:55:380  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 12:02:55:381  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 12:02:55:382  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 12:02:55:383  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 12:02:55:383  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 12:02:55:383  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 12:02:55:383  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 12:02:55:383  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 12:02:55:384  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 12:02:55:384  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 12:02:55:384  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 12:02:55:385  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 12:02:55:386  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 12:02:55:387  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 12:02:55:387  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 12:02:55:388  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 12:02:55:388  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 12:02:55:389  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 12:02:55:389  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 12:02:55:614 ERROR - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 12:02:55:643 ERROR - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:02:55:643  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Entry
+09/02/2023 12:02:55:654  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Exit
+09/02/2023 12:03:04:195  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : langMenu
+09/02/2023 12:03:04:255  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Entry
+09/02/2023 12:03:04:255  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Exit
+09/02/2023 12:03:06:500  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : Exist
+09/02/2023 12:03:06:586  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-Begin
+09/02/2023 12:03:06:644  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-userId
+09/02/2023 12:03:10:838  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-password
+09/02/2023 12:03:10:838  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 12:03:10:839  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 12:03:10:839  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 12:03:10:839  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 12:03:10:839  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 12:03:10:839  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 12:03:10:839  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 12:03:12:785  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 12:03:12:785  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 12:03:12:786  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 12:03:12:786  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 12:03:12:786  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 12:03:12:787  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 12:03:12:788  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 12:03:12:788  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 12:03:13:160  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 12:03:13:160  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 12:03:13:427  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 12:03:13:427 ERROR - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | password verify true
+09/02/2023 12:03:13:430  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 12:03:13:490  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 12:03:13:493  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 12:03:13:554  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 12:03:13:613  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 12:03:13:682  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Entry
+09/02/2023 12:03:13:687  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Exit
+09/02/2023 12:03:17:524  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 12:03:17:524  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 12:03:17:524  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 12:03:17:525  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 12:03:17:525  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 12:03:17:525  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 12:03:17:525  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 12:03:17:525  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 12:03:17:589 DEBUG - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 12:03:17:590  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 12:03:17:652  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 12:03:17:705  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 12:03:17:706  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Entry
+09/02/2023 12:03:17:707  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 12:03:17:708  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption9.wav
+09/02/2023 12:03:17:708  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | update promt Exit
+09/02/2023 12:03:17:708 ERROR - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | Choices : 4
+09/02/2023 12:03:46:372  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : hangupData
+09/02/2023 12:03:46:429  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | Hangup by customer
+09/02/2023 12:03:46:431  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : ivrInfoData
+09/02/2023 12:03:46:493 ERROR - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | Duration Calculation
+09/02/2023 12:03:46:498  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 1.Flow Name : ELIBRARY
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 |  2.UCID NO : undefined
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 3.sessionId : sess4860886
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 4.DNIS NO : 4134
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 5.CLID NO : 6007
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 6.StartingDate : 09-02-23 12:02:55
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 7.End Date : 09-02-23 12:03:46
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 8.Duration : 51
+09/02/2023 12:03:46:499  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 9.Exit Location : 
+09/02/2023 12:03:46:500  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 10.Exit Reason : hangup
+09/02/2023 12:03:46:500  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : session id:sess4860886 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 12:03:46:502  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Using SCESession 87937E76AD074EE967D66FE2FC5BC728:/ELibrary servlet : Exit
+09/02/2023 12:03:46:579  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 12:03:46:580  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 12:03:46:585  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : HTTP Session lost removing SCESession 87937E76AD074EE967D66FE2FC5BC728
+09/02/2023 12:03:46:585  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : SCESession Removed
+09/02/2023 12:03:46:585 DEBUG - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : Removing 1 session stack frames.
+09/02/2023 12:03:46:586  INFO - 87937E76AD074EE967D66FE2FC5BC728:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 12:12:35:413  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : SCESession bound to HttpSession F71A67AC75E6FDA217992FA4B4A9E565
+09/02/2023 12:12:35:428  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 12:12:35:464  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : Start
+09/02/2023 12:12:35:512  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 12:12:35:529 DEBUG - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 12:12:35:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess7369150]
+09/02/2023 12:12:35:530  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 12:12:36:194  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : runtime_platform : Desktop
+09/02/2023 12:12:36:194  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 12:12:36:207 DEBUG - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Acquiring initial License
+09/02/2023 12:12:36:210  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 12:12:36:210  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Runtime :true
+09/02/2023 12:12:36:210  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : IC :true
+09/02/2023 12:12:36:211  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : CTI :true
+09/02/2023 12:12:36:315 DEBUG - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Grace Period timer cleared
+09/02/2023 12:12:36:319 DEBUG - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : License refresh timer started
+09/02/2023 12:12:36:322  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : MessageType is speech
+09/02/2023 12:12:36:362  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : Welcome
+09/02/2023 12:12:36:365  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 12:12:36:366  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 12:12:36:366  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 12:12:36:367  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 12:12:36:367  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 12:12:36:367  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 12:12:36:367  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 12:12:36:367  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 12:12:36:368  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 12:12:36:368  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 12:12:36:368  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 12:12:36:368  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 12:12:36:368  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 12:12:36:369  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 12:12:36:370  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 12:12:36:370  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 12:12:36:370  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 12:12:36:370  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 12:12:36:371  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 12:12:36:371  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 12:12:36:371  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 12:12:36:371  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 12:12:36:371  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 12:12:36:372  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 12:12:36:372  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 12:12:36:373  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 12:12:36:373  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 12:12:36:373  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 12:12:36:373  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 12:12:36:374  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 12:12:36:378  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 12:12:36:381  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 12:12:36:383  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 12:12:36:384  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 12:12:36:638 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 12:12:36:708 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:12:36:709  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Entry
+09/02/2023 12:12:36:717  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Exit
+09/02/2023 12:12:45:150  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : langMenu
+09/02/2023 12:12:45:218  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Entry
+09/02/2023 12:12:45:218  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Exit
+09/02/2023 12:12:54:283  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : Exist
+09/02/2023 12:12:54:353  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-Begin
+09/02/2023 12:12:54:409  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-userId
+09/02/2023 12:12:57:692  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-password
+09/02/2023 12:12:57:693  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 12:12:57:693  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 12:12:57:693  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 12:12:57:694  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 12:12:57:694  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 12:12:57:694  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 12:12:57:694  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 12:12:59:738  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 12:12:59:739  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 12:12:59:739  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 12:12:59:739  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 12:12:59:739  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 12:12:59:740  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 12:12:59:740  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 12:12:59:740  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 12:13:00:066  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 12:13:00:067  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 12:13:00:254  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 12:13:00:254 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | password verify true
+09/02/2023 12:13:00:257  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 12:13:00:321  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 12:13:00:324  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 12:13:00:397  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 12:13:00:457  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 12:13:00:519  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Entry
+09/02/2023 12:13:00:520  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Exit
+09/02/2023 12:13:04:262  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 12:13:04:263  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 12:13:04:263  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 12:13:04:263  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 12:13:04:263  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 12:13:04:263  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 12:13:04:264  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 12:13:04:264  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 12:13:04:329 DEBUG - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 12:13:04:332  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 12:13:04:396  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 12:13:04:527  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 12:13:04:528  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Entry
+09/02/2023 12:13:04:528  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 12:13:04:528 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | Path Name : Adventurestories
+09/02/2023 12:13:04:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:13:04:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:13:04:529 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | Path Name : Youngadultfiction
+09/02/2023 12:13:04:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Youngadultfiction.wav
+09/02/2023 12:13:04:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Youngadultfiction.wav
+09/02/2023 12:13:04:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | menuCommon:menuOption9
+09/02/2023 12:13:04:529  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | update promt Exit
+09/02/2023 12:13:04:530 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | Choices : 4
+09/02/2023 12:13:24:658  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : hangupData
+09/02/2023 12:13:24:718  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | Hangup by customer
+09/02/2023 12:13:24:720  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : ivrInfoData
+09/02/2023 12:13:24:781 ERROR - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | Duration Calculation
+09/02/2023 12:13:24:785  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 1.Flow Name : ELIBRARY
+09/02/2023 12:13:24:786  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 |  2.UCID NO : undefined
+09/02/2023 12:13:24:786  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 3.sessionId : sess7369150
+09/02/2023 12:13:24:787  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 4.DNIS NO : 4134
+09/02/2023 12:13:24:787  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 5.CLID NO : 6007
+09/02/2023 12:13:24:787  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 6.StartingDate : 09-02-23 12:12:36
+09/02/2023 12:13:24:787  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 7.End Date : 09-02-23 12:13:24
+09/02/2023 12:13:24:787  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 8.Duration : 48
+09/02/2023 12:13:24:787  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 9.Exit Location : 
+09/02/2023 12:13:24:788  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 10.Exit Reason : hangup
+09/02/2023 12:13:24:788  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : session id:sess7369150 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 12:13:24:789  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Using SCESession F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary servlet : Exit
+09/02/2023 12:13:24:856  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 12:13:24:857  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 12:13:24:861  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : HTTP Session lost removing SCESession F71A67AC75E6FDA217992FA4B4A9E565
+09/02/2023 12:13:24:862  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : SCESession Removed
+09/02/2023 12:13:24:862 DEBUG - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : Removing 1 session stack frames.
+09/02/2023 12:13:24:863  INFO - F71A67AC75E6FDA217992FA4B4A9E565:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 12:21:45:354  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : SCESession bound to HttpSession 41295A48CC103FE98D86EF57420FBB21
+09/02/2023 12:21:45:368  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 12:21:45:434  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : Start
+09/02/2023 12:21:45:476  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 12:21:45:488 DEBUG - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 12:21:45:489  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess3055018]
+09/02/2023 12:21:45:489  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 12:21:46:154  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : runtime_platform : Desktop
+09/02/2023 12:21:46:156  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 12:21:46:164 DEBUG - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Acquiring initial License
+09/02/2023 12:21:46:165  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 12:21:46:166  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Runtime :true
+09/02/2023 12:21:46:166  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : IC :true
+09/02/2023 12:21:46:166  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : CTI :true
+09/02/2023 12:21:46:241 DEBUG - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Grace Period timer cleared
+09/02/2023 12:21:46:243 DEBUG - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : License refresh timer started
+09/02/2023 12:21:46:247  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : MessageType is speech
+09/02/2023 12:21:46:277  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : Welcome
+09/02/2023 12:21:46:278  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 12:21:46:279  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 12:21:46:280  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 12:21:46:281  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 12:21:46:282  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 12:21:46:282  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 12:21:46:283  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 12:21:46:283  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 12:21:46:283  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 12:21:46:283  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 12:21:46:284  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 12:21:46:284  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 12:21:46:486 ERROR - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 12:21:46:554 ERROR - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:21:46:554  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Entry
+09/02/2023 12:21:46:561  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Exit
+09/02/2023 12:21:55:160  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : langMenu
+09/02/2023 12:21:55:218  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Entry
+09/02/2023 12:21:55:219  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Exit
+09/02/2023 12:21:57:313  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : Exist
+09/02/2023 12:21:57:384  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-Begin
+09/02/2023 12:21:57:449  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-userId
+09/02/2023 12:22:01:467  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-password
+09/02/2023 12:22:01:467  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 12:22:01:468  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 12:22:01:468  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 12:22:01:468  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 12:22:01:468  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 12:22:01:469  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 12:22:01:469  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 12:22:04:659  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 12:22:04:660  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 12:22:04:660  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 12:22:04:660  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 12:22:04:661  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 12:22:04:661  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 12:22:04:662  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 12:22:04:662  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 12:22:05:004  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 12:22:05:004  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 12:22:05:309  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 12:22:05:309 ERROR - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | password verify true
+09/02/2023 12:22:05:311  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 12:22:05:378  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 12:22:05:382  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 12:22:05:443  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 12:22:05:499  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 12:22:05:567  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Entry
+09/02/2023 12:22:05:568  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Exit
+09/02/2023 12:22:09:439  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 12:22:09:441  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 12:22:09:442  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 12:22:09:442  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 12:22:09:442  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 12:22:09:442  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 12:22:09:443  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 12:22:09:444  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 12:22:09:502 DEBUG - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 12:22:09:504  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 12:22:09:561  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 12:22:09:633  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 12:22:09:634  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Entry
+09/02/2023 12:22:09:634  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 12:22:09:634  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:22:09:635  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:22:09:635  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:22:09:636  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 12:22:09:636  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | menuCommon:menuOption9
+09/02/2023 12:22:09:636  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | update promt Exit
+09/02/2023 12:22:09:637 ERROR - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | Choices : 4
+09/02/2023 12:22:26:425  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : hangupData
+09/02/2023 12:22:26:483  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | Hangup by customer
+09/02/2023 12:22:26:484  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : ivrInfoData
+09/02/2023 12:22:26:547 ERROR - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | Duration Calculation
+09/02/2023 12:22:26:551  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 1.Flow Name : ELIBRARY
+09/02/2023 12:22:26:552  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 |  2.UCID NO : undefined
+09/02/2023 12:22:26:552  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 3.sessionId : sess3055018
+09/02/2023 12:22:26:552  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 4.DNIS NO : 4134
+09/02/2023 12:22:26:552  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 5.CLID NO : 6007
+09/02/2023 12:22:26:553  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 6.StartingDate : 09-02-23 12:21:46
+09/02/2023 12:22:26:554  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 7.End Date : 09-02-23 12:22:26
+09/02/2023 12:22:26:559  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 8.Duration : 40
+09/02/2023 12:22:26:560  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 9.Exit Location : 
+09/02/2023 12:22:26:565  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 10.Exit Reason : hangup
+09/02/2023 12:22:26:566  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : session id:sess3055018 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 12:22:26:567  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Using SCESession 41295A48CC103FE98D86EF57420FBB21:/ELibrary servlet : Exit
+09/02/2023 12:22:26:634  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 12:22:26:636  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 12:22:26:639  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : HTTP Session lost removing SCESession 41295A48CC103FE98D86EF57420FBB21
+09/02/2023 12:22:26:640  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : SCESession Removed
+09/02/2023 12:22:26:641 DEBUG - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : Removing 1 session stack frames.
+09/02/2023 12:22:26:641  INFO - 41295A48CC103FE98D86EF57420FBB21:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 13:23:12:858  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : SCESession bound to HttpSession 732D8157842305F7A7E9B21DE2FF7502
+09/02/2023 13:23:13:232  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 13:23:13:473  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Using SCESession 732D8157842305F7A7E9B21DE2FF7502:/ELibrary servlet : Start
+09/02/2023 13:23:13:815  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 13:23:13:831 DEBUG - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 13:23:13:831  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess1557242]
+09/02/2023 13:23:13:832  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 13:23:14:550  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : runtime_platform : Desktop
+09/02/2023 13:23:14:551  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 13:23:14:782 DEBUG - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Acquiring initial License
+09/02/2023 13:23:14:783  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 13:23:14:783  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Runtime :true
+09/02/2023 13:23:14:783  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : IC :true
+09/02/2023 13:23:14:783  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : CTI :true
+09/02/2023 13:23:14:857 DEBUG - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Grace Period timer cleared
+09/02/2023 13:23:14:859 DEBUG - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : License refresh timer started
+09/02/2023 13:23:14:867  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : MessageType is speech
+09/02/2023 13:23:15:335  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Using SCESession 732D8157842305F7A7E9B21DE2FF7502:/ELibrary servlet : Welcome
+09/02/2023 13:23:15:336  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 13:23:15:336  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 13:23:15:337  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 13:23:15:337  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 13:23:15:337  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 13:23:15:337  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 13:23:15:337  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 13:23:15:337  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 13:23:15:338  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 13:23:15:338  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 13:23:15:338  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 13:23:15:338  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 13:23:15:338  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 13:23:15:339  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 13:23:15:340  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 13:23:15:340  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 13:23:15:340  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 13:23:15:340  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 13:23:15:340  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 13:23:15:341  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 13:23:15:341  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 13:23:15:341  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 13:23:15:341  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 13:23:15:341  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 13:23:15:342  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 13:23:15:342  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 13:23:15:342  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 13:23:16:280 ERROR - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 13:23:16:301 ERROR - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 13:23:16:302  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | update promt Entry
+09/02/2023 13:23:16:305  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | update promt Exit
+09/02/2023 13:23:24:852  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Using SCESession 732D8157842305F7A7E9B21DE2FF7502:/ELibrary servlet : langMenu
+09/02/2023 13:23:24:913  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | update promt Entry
+09/02/2023 13:23:24:914  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | update promt Exit
+09/02/2023 13:23:41:222  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Using SCESession 732D8157842305F7A7E9B21DE2FF7502:/ELibrary servlet : hangupData
+09/02/2023 13:23:41:289  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | Hangup by customer
+09/02/2023 13:23:41:338  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Using SCESession 732D8157842305F7A7E9B21DE2FF7502:/ELibrary servlet : ivrInfoData
+09/02/2023 13:23:41:394 ERROR - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | Duration Calculation
+09/02/2023 13:23:41:415  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 1.Flow Name : ELIBRARY
+09/02/2023 13:23:41:416  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 |  2.UCID NO : undefined
+09/02/2023 13:23:41:416  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 3.sessionId : sess1557242
+09/02/2023 13:23:41:416  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 4.DNIS NO : 4134
+09/02/2023 13:23:41:416  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 5.CLID NO : 6007
+09/02/2023 13:23:41:416  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 6.StartingDate : 09-02-23 13:23:16
+09/02/2023 13:23:41:417  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 7.End Date : 09-02-23 13:23:41
+09/02/2023 13:23:41:417  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 8.Duration : 25
+09/02/2023 13:23:41:417  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 9.Exit Location : 
+09/02/2023 13:23:41:417  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 10.Exit Reason : hangup
+09/02/2023 13:23:41:417  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : session id:sess1557242 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 13:23:41:419  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Using SCESession 732D8157842305F7A7E9B21DE2FF7502:/ELibrary servlet : Exit
+09/02/2023 13:23:41:500  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 13:23:41:502  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 13:23:41:506  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : HTTP Session lost removing SCESession 732D8157842305F7A7E9B21DE2FF7502
+09/02/2023 13:23:41:506  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : SCESession Removed
+09/02/2023 13:23:41:507 DEBUG - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : Removing 1 session stack frames.
+09/02/2023 13:23:41:507  INFO - 732D8157842305F7A7E9B21DE2FF7502:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 13:23:55:558  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : SCESession bound to HttpSession 41A3169E7114FBF3CDB8F29184FE7DDF
+09/02/2023 13:23:55:558  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 13:23:55:561  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : Start
+09/02/2023 13:23:55:567  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 13:23:55:568 DEBUG - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 13:23:55:568  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess7183317]
+09/02/2023 13:23:55:568  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 13:23:56:197  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : runtime_platform : Desktop
+09/02/2023 13:23:56:198  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 13:23:56:206  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : MessageType is speech
+09/02/2023 13:23:56:236  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : Welcome
+09/02/2023 13:23:56:237  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 13:23:56:238  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 13:23:56:238  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 13:23:56:238  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 13:23:56:238  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 13:23:56:239  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 13:23:56:240  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 13:23:56:240  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 13:23:56:241  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 13:23:56:241  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 13:23:56:242  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 13:23:56:243  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 13:23:56:243  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 13:23:56:244  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 13:23:56:244  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 13:23:56:244  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 13:23:56:245  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 13:23:56:245  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 13:23:56:246  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 13:23:56:246  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 13:23:56:247  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 13:23:56:247  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 13:23:56:248  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 13:23:56:248  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 13:23:56:249  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 13:23:56:251  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 13:23:56:251  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 13:23:56:252  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 13:23:56:252  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 13:23:56:252  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 13:23:56:252  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 13:23:56:253  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 13:23:56:253  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 13:23:56:253  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 13:23:56:325 ERROR - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 13:23:56:327 ERROR - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 13:23:56:327  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Entry
+09/02/2023 13:23:56:327  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Exit
+09/02/2023 13:24:04:922  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : langMenu
+09/02/2023 13:24:04:988  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Entry
+09/02/2023 13:24:04:988  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Exit
+09/02/2023 13:24:06:697  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : Exist
+09/02/2023 13:24:06:759  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-Begin
+09/02/2023 13:24:06:821  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-userId
+09/02/2023 13:24:10:326  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-password
+09/02/2023 13:24:10:327  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 13:24:10:327  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 13:24:10:327  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 13:24:10:327  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 13:24:10:328  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 13:24:10:328  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 13:24:10:328  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 13:24:12:911  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 13:24:12:911  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 13:24:12:912  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 13:24:12:912  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 13:24:12:912  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 13:24:12:913  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 13:24:12:913  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 13:24:12:913  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 13:24:13:384  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 13:24:13:385  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 13:24:14:366  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 13:24:14:366 ERROR - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | password verify true
+09/02/2023 13:24:14:368  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 13:24:14:424  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 13:24:14:426  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 13:24:14:484  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 13:24:14:545  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 13:24:14:607  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Entry
+09/02/2023 13:24:14:607  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Exit
+09/02/2023 13:24:18:308  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 13:24:18:308  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 13:24:18:310  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 13:24:18:311  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 13:24:18:311  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 13:24:18:312  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 13:24:18:314  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 13:24:18:315  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 13:24:18:376 DEBUG - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 13:24:18:378  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 13:24:18:438  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 13:24:18:509  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}]
+09/02/2023 13:24:18:510  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Entry
+09/02/2023 13:24:18:512  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | CategoryMenuPageNumber :0
+pageCount :1
+CategorySize :2
+09/02/2023 13:24:18:512  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | menuCommon:menuOption9
+09/02/2023 13:24:18:513  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | update promt Exit
+09/02/2023 13:24:18:513 ERROR - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | Choices : 4
+09/02/2023 13:24:35:938  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : hangupData
+09/02/2023 13:24:36:003  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | Hangup by customer
+09/02/2023 13:24:36:003  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : ivrInfoData
+09/02/2023 13:24:36:063 ERROR - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | Duration Calculation
+09/02/2023 13:24:36:064  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 1.Flow Name : ELIBRARY
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 |  2.UCID NO : undefined
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 3.sessionId : sess7183317
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 4.DNIS NO : 4134
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 5.CLID NO : 6007
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 6.StartingDate : 09-02-23 13:23:56
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 7.End Date : 09-02-23 13:24:36
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 8.Duration : 40
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 9.Exit Location : 
+09/02/2023 13:24:36:065  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 10.Exit Reason : hangup
+09/02/2023 13:24:36:066  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : session id:sess7183317 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 13:24:36:066  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Using SCESession 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary servlet : Exit
+09/02/2023 13:24:36:133  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 13:24:36:136  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 13:24:36:137  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : HTTP Session lost removing SCESession 41A3169E7114FBF3CDB8F29184FE7DDF
+09/02/2023 13:24:36:137  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : SCESession Removed
+09/02/2023 13:24:36:137 DEBUG - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : Removing 1 session stack frames.
+09/02/2023 13:24:36:137  INFO - 41A3169E7114FBF3CDB8F29184FE7DDF:/ELibrary : ** Popped Stack Frame [/ELibrary]
+09/02/2023 14:27:27:744  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : SCESession bound to HttpSession 1A4D0CF974EE71936ABC406F945B2C53
+09/02/2023 14:27:27:873  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Browser Version 2.1.4, terminationURL enabled : true
+09/02/2023 14:27:27:949  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : Start
+09/02/2023 14:27:28:093  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : ** Pushed Stack Frame [/ELibrary]
+09/02/2023 14:27:28:111 DEBUG - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Not able to save posted variable information [call_classification]
+09/02/2023 14:27:28:111  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___sessionid to complex: session:sessionid  as [sess1964638]
+09/02/2023 14:27:28:111  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+09/02/2023 14:27:28:790  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : runtime_platform : Desktop
+09/02/2023 14:27:28:790  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : runtime_asr : Desktop Microsoft Speech SAPI
+09/02/2023 14:27:28:841 DEBUG - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Acquiring initial License
+09/02/2023 14:27:28:843  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Acquiring Desktop runtime license
+09/02/2023 14:27:28:844  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Runtime :true
+09/02/2023 14:27:28:844  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : IC :true
+09/02/2023 14:27:28:844  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : CTI :true
+09/02/2023 14:27:28:968 DEBUG - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Grace Period timer cleared
+09/02/2023 14:27:28:969 DEBUG - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : License refresh timer started
+09/02/2023 14:27:28:972  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : MessageType is speech
+09/02/2023 14:27:29:013  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : Welcome
+09/02/2023 14:27:29:016  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+09/02/2023 14:27:29:017  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+09/02/2023 14:27:29:018  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+09/02/2023 14:27:29:018  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+09/02/2023 14:27:29:019  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+09/02/2023 14:27:29:019  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___aai to complex: session:aai  as []
+09/02/2023 14:27:29:019  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___ani to complex: session:ani  as [undefined]
+09/02/2023 14:27:29:019  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___calltag to complex: session:calltag  as [unknown]
+09/02/2023 14:27:29:020  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___channel to complex: session:channel  as [0]
+09/02/2023 14:27:29:020  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+09/02/2023 14:27:29:021  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+09/02/2023 14:27:29:021  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___dnis to complex: session:dnis  as [undefined]
+09/02/2023 14:27:29:022  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+09/02/2023 14:27:29:022  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___protocolname to complex: session:protocolname  as [pots]
+09/02/2023 14:27:29:023  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+09/02/2023 14:27:29:023  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+09/02/2023 14:27:29:023  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+09/02/2023 14:27:29:023  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___ucid to complex: session:ucid  as [undefined]
+09/02/2023 14:27:29:024  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___uui to complex: session:uui  as [unknown]
+09/02/2023 14:27:29:024  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+09/02/2023 14:27:29:025  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+09/02/2023 14:27:29:025  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+09/02/2023 14:27:29:025  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videofps to complex: session:videofps  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+09/02/2023 14:27:29:026  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+09/02/2023 14:27:29:027  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+09/02/2023 14:27:29:027  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+09/02/2023 14:27:29:027  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+09/02/2023 14:27:29:257 ERROR - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | connectionUrl = jdbc:sqlserver://192.168.168.12:1433;databaseName=_Kaleeswaran2022,username = NewJoinee2022,password = P@ssw0rd,driverjdbc = com.microsoft.sqlserver.jdbc.SQLServerDriver
+09/02/2023 14:27:29:301 ERROR - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | Adventure Strories prompt 1: http://172.16.11.17:8090/AudioPrompts/Elibrary/Adventurestories.wav
+09/02/2023 14:27:29:302  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Entry
+09/02/2023 14:27:29:307  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Exit
+09/02/2023 14:27:38:058  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : langMenu
+09/02/2023 14:27:38:125  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Entry
+09/02/2023 14:27:38:125  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Exit
+09/02/2023 14:27:45:141  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : Exist
+09/02/2023 14:27:45:239  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-Begin
+09/02/2023 14:27:45:299  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-userId
+09/02/2023 14:27:48:525  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-password
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___confidence to complex: userId:confidence  as [0.949999988079071]
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___inputmode to complex: userId:inputmode  as [dtmf]
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___interpretation to complex: userId:interpretation  as [100000]
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___noinputcount to complex: userId:noinputcount  as [0]
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___nomatchcount to complex: userId:nomatchcount  as [0]
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___utterance to complex: userId:utterance  as [100000]
+09/02/2023 14:27:48:526  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :userId___value to complex: userId:value  as [100000]
+09/02/2023 14:27:51:118  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-passwordVerify
+09/02/2023 14:27:51:118  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___confidence to complex: password:confidence  as [0.949999988079071]
+09/02/2023 14:27:51:119  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___inputmode to complex: password:inputmode  as [dtmf]
+09/02/2023 14:27:51:120  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___interpretation to complex: password:interpretation  as [1111]
+09/02/2023 14:27:51:120  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___noinputcount to complex: password:noinputcount  as [0]
+09/02/2023 14:27:51:120  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___nomatchcount to complex: password:nomatchcount  as [0]
+09/02/2023 14:27:51:120  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___utterance to complex: password:utterance  as [1111]
+09/02/2023 14:27:51:120  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :password___value to complex: password:value  as [1111]
+09/02/2023 14:27:51:694  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 14:27:51:694  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | http://172.16.11.17:8082/user/verify/100000
+09/02/2023 14:27:53:214  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c
+09/02/2023 14:27:53:214 ERROR - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | password verify true
+09/02/2023 14:27:53:217  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-passCheck
+09/02/2023 14:27:53:281  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : [condition1] Expression [eLibrary:passcheck] String Equal [1]
+09/02/2023 14:27:53:287  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-CartFlow
+09/02/2023 14:27:53:354  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : CartMenuFlow-Begin
+09/02/2023 14:27:53:419  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : CartMenuFlow-CartMenu
+09/02/2023 14:27:53:480  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Entry
+09/02/2023 14:27:53:481  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Exit
+09/02/2023 14:27:57:243  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : CartMenuFlow-returnToSelection
+09/02/2023 14:27:57:244  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___confidence to complex: CartMenu:confidence  as [0.949999988079071]
+09/02/2023 14:27:57:247  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___inputmode to complex: CartMenu:inputmode  as [dtmf]
+09/02/2023 14:27:57:247  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___interpretation to complex: CartMenu:interpretation  as [2]
+09/02/2023 14:27:57:248  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___noinputcount to complex: CartMenu:noinputcount  as [0]
+09/02/2023 14:27:57:248  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___nomatchcount to complex: CartMenu:nomatchcount  as [0]
+09/02/2023 14:27:57:248  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___utterance to complex: CartMenu:utterance  as [2]
+09/02/2023 14:27:57:248  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Storing :CartMenu___value to complex: CartMenu:value  as [2]
+09/02/2023 14:27:57:306 DEBUG - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Subflow return node "CartMenuFlow-returnToSelection" forwarding to "ExistUser-CategoryMenu"
+09/02/2023 14:27:57:308  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ExistUser-CategoryMenu
+09/02/2023 14:27:57:367  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | http://172.16.11.17:8082/product/getcategories
+09/02/2023 14:27:57:426  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | [{"categoryName":"Adventure stories","categoryId":5000}, {"categoryName":"Young adult fiction","categoryId":5001}, {"categoryName":"test1","categoryId":6001}, {"categoryName":"test2","categoryId":6002}, {"categoryName":"test3","categoryId":6003}, {"categoryName":"test4","categoryId":6004}, {"categoryName":"test5","categoryId":6005}, {"categoryName":"test6","categoryId":6006}, {"categoryName":"test7","categoryId":6007}, {"categoryName":"test8","categoryId":6008}, {"categoryName":"test9","categoryId":6009}]
+09/02/2023 14:27:57:430  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Entry
+09/02/2023 14:27:57:446  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | CategoryMenuPageNumber :0
+pageCount :2
+CategorySize :11
+09/02/2023 14:27:57:451  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | update promt Exit
+09/02/2023 14:27:57:451 ERROR - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | Choices : 9
+09/02/2023 14:29:29:282  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : badfetchData
+09/02/2023 14:29:29:338 ERROR - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | badfetch error
+09/02/2023 14:29:29:339  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : CallDisconnect
+09/02/2023 14:29:32:972  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : ivrInfoData
+09/02/2023 14:29:33:053 ERROR - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | Duration Calculation
+09/02/2023 14:29:33:077  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 1.Flow Name : ELIBRARY
+09/02/2023 14:29:33:078  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 |  2.UCID NO : undefined
+09/02/2023 14:29:33:078  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 3.sessionId : sess1964638
+09/02/2023 14:29:33:078  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 4.DNIS NO : 4134
+09/02/2023 14:29:33:078  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 5.CLID NO : 6007
+09/02/2023 14:29:33:078  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 6.StartingDate : 09-02-23 14:27:29
+09/02/2023 14:29:33:079  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 7.End Date : 09-02-23 14:29:33
+09/02/2023 14:29:33:079  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 8.Duration : 4
+09/02/2023 14:29:33:079  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 9.Exit Location : 
+09/02/2023 14:29:33:079  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 10.Exit Reason : badfetch
+09/02/2023 14:29:33:079  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : session id:sess1964638 | 11.appIP : MDAashiq/172.16.11.17
+09/02/2023 14:29:33:081  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Using SCESession 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary servlet : Exit
+09/02/2023 14:29:33:153  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Removing session from AvayaSessionTermination Servlet
+09/02/2023 14:29:33:155  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+09/02/2023 14:29:33:161  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : HTTP Session lost removing SCESession 1A4D0CF974EE71936ABC406F945B2C53
+09/02/2023 14:29:33:164  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : SCESession Removed
+09/02/2023 14:29:33:166 DEBUG - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : Removing 1 session stack frames.
+09/02/2023 14:29:33:167  INFO - 1A4D0CF974EE71936ABC406F945B2C53:/ELibrary : ** Popped Stack Frame [/ELibrary]
