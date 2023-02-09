@@ -1,67 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <projectvariables>
-    <variable factoryID="" name="AdventureMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="AdventureMenu:inputmode" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="AdventureMenu:interpretation" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="AdventureMenu:noinputcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="AdventureMenu:nomatchcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="AdventureMenu:utterance" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="AdventureMenu:value" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
     <variable factoryID="" name="AudioPath:AdventureMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AdventureSelect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureSelect.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:Adventurestories" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AdventureCategory.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AgentConnect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AgentConnect.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AgentMusic" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AgentMusic.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:AHistoryofAdventureBook" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\AHistoryofAdventureBook.wav" version="1.0"/>
+    <variable factoryID="" name="AudioPath:bookSelectionMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary/booksSelectionMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:CartEditMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\CartEditMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:CartMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\CartMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:CartOptionsMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\CartOptionsMenu.wav" version="1.0"/>
@@ -93,7 +38,7 @@
     <variable factoryID="" name="AudioPath:Youngadultfiction" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\YoungadultfictionCategory.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:YoungAdultfictionMenu" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\YoungAdultfictionMenu.wav" version="1.0"/>
     <variable factoryID="" name="AudioPath:YoungadultfictionSelect" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\YoungadultfictionSelect.wav" version="1.0"/>
-    <variable factoryID="" name="booksMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -101,7 +46,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
-    <variable factoryID="" name="booksMenu:inputmode" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:inputmode" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -109,7 +54,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
-    <variable factoryID="" name="booksMenu:interpretation" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:interpretation" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -117,7 +62,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
-    <variable factoryID="" name="booksMenu:noinputcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:noinputcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -125,7 +70,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
-    <variable factoryID="" name="booksMenu:nomatchcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:nomatchcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -133,7 +78,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
-    <variable factoryID="" name="booksMenu:utterance" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:utterance" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -141,7 +86,7 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
-    <variable factoryID="" name="booksMenu:value" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
+    <variable factoryID="" name="BookSelectionMenu:value" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>
@@ -740,6 +685,7 @@
     </variable>
     <variable factoryID="" name="menuCommon:bookMenuList" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:categoryMenuList" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:categoryName" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuOption1" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption1.wav" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuOption2" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption2.wav" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuOption3" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption3.wav" version="1.0"/>
@@ -757,6 +703,25 @@
     <variable factoryID="" name="menuCommon:menuOptionValue6" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuPage" owner="" type="" value="0" version="1.0"/>
     <variable factoryID="" name="menuCommon:newAudioPath" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:price" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\PriceAmount.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceList" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceValue1" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceValue2" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceValue3" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceValue4" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceValue5" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:priceValue6" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:Quantity" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\QuantityAvailable.wav" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityList" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityValue1" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityValue2" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityValue3" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityValue4" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityValue5" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:quantityValue6" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:untitled7" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:untitled8" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:untitled9" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="password:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.field" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
@@ -1395,62 +1360,6 @@
         </editpolicies>
     </variable>
     <variable factoryID="" name="userMenu:value" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:inputmode" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:interpretation" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:noinputcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:nomatchcount" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:utterance" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
-        <editpolicies>
-            <policy name="opaque" value="true"/>
-            <policy name="appendable" value="false"/>
-            <policy name="deleteable" value="false"/>
-            <policy name="renameable" value="false"/>
-        </editpolicies>
-    </variable>
-    <variable factoryID="" name="YoungadultfictionMenu:value" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.menu" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
             <policy name="appendable" value="false"/>

@@ -510,8 +510,8 @@
                 </FlowItem>
             </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.SubFlowRef" id="345" version="3.1">
-                <Property name="FlowNodeEditPart.WidgetX" value="559"/>
-                <Property name="FlowNodeEditPart.WidgetY" value="436"/>
+                <Property name="FlowNodeEditPart.WidgetX" value="589"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="433"/>
                 <Property name="flowID" value="agentTransfer"/>
                 <Property name="Name" value="AgentTranfer"/>
                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubFlowRef" id="347" version="1.2">
@@ -601,8 +601,8 @@
                 </FlowItem>
             </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.SymbolicNode" id="624" version="3.1">
-                <Property name="FlowNodeEditPart.WidgetX" value="732"/>
-                <Property name="FlowNodeEditPart.WidgetY" value="437"/>
+                <Property name="FlowNodeEditPart.WidgetX" value="786"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="435"/>
                 <Property name="ReferencedNodeID" value="578"/>
             </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.Form" id="626" version="3.1">

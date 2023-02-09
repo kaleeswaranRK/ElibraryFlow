@@ -16,6 +16,17 @@
                     </Properties>
                     <ChildItems/>
                 </Segment>
+                <Segment class="com.avaya.sce.prompts.internal.segment.AudioVariable" type="AudioVariable">
+                    <Properties>
+                        <Property name="Field" value="Adventurestories"/>
+                        <Property name="format" value="number"/>
+                        <Property name="Inflection" value="NDn"/>
+                        <Property name="Name" value="AudioPath"/>
+                        <Property name="Currency Format" value="N$"/>
+                        <Property name="Number Type" value="decimal"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
             </ChildItems>
         </PromptLevel>
     </Prompt>

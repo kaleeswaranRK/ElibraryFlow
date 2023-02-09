@@ -3,14 +3,12 @@ package flow.subflow.ExistUser;
 import java.util.List;
 
 import org.json.JSONObject;
-import org.json.simple.JSONArray;
 
 import com.avaya.sce.runtime.tracking.TraceInfo;
 import com.avaya.sce.runtimecommon.ITraceInfo;
 import com.avaya.sce.runtimecommon.IVariableField;
 import com.avaya.sce.runtimecommon.SCESession;
 
-import connectivity.ws.operations.HashingClass;
 import connectivity.ws.operations.IntegrationClass;
 import flow.IProjectVariables;
 

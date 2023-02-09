@@ -389,46 +389,22 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>BookSelectionByCategory-CategoryBooksCheck</servlet-name>
         <servlet-class>flow.subflow.BookSelectionByCategory.CategoryBooksCheck</servlet-class>
     </servlet>
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_70">
-        <servlet-name>BookSelectionByCategory-AdventureMenu</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.AdventureMenu</servlet-class>
-    </servlet>
     
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_74">
-        <servlet-name>BookSelectionByCategory-YoungadultfictionMenu</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.YoungadultfictionMenu</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_103">
-        <servlet-name>BookSelectionByCategory-AventureMenuSelectedBook</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.AventureMenuSelectedBook</servlet-class>
-    </servlet>
     
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_111">
-        <servlet-name>BookSelectionByCategory-YoungAdultFictionMenuSelectedBook</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.YoungAdultFictionMenuSelectedBook</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_129">
-        <servlet-name>BookSelectionByCategory-NoInputDataPassword</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.NoInputDataPassword</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_133">
-        <servlet-name>BookSelectionByCategory-NoMatchDataPassword</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.NoMatchDataPassword</servlet-class>
-    </servlet>
+    
+    
+    
+    
+    
+    
     <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_139">
         <servlet-name>BookSelectionByCategory-EventReturn</servlet-name>
         <servlet-class>flow.subflow.BookSelectionByCategory.EventReturn</servlet-class>
     </servlet>
     
     
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_160">
-        <servlet-name>BookSelectionByCategory-NoMatchDataPasswordCopyCopy</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.NoMatchDataPasswordCopyCopy</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_156">
-        <servlet-name>BookSelectionByCategory-NoInputDataPasswordCopyCopy</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.NoInputDataPasswordCopyCopy</servlet-class>
-    </servlet>
+    
+    
     
     
     
@@ -640,13 +616,26 @@ Copyright 2004-2021 Avaya Inc.
     </servlet>
     
     
-    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_184">
-        <servlet-name>BookSelectionByCategory-booksMenu</servlet-name>
-        <servlet-class>flow.subflow.BookSelectionByCategory.booksMenu</servlet-class>
-    </servlet>
+    
     <servlet id="SAGE-callflow-servlet_ExistUser_1057">
         <servlet-name>ExistUser-CategoryMenuNext</servlet-name>
         <servlet-class>flow.subflow.ExistUser.CategoryMenuNext</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_201">
+        <servlet-name>BookSelectionByCategory-booksMenuNext</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.booksMenuNext</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_212">
+        <servlet-name>BookSelectionByCategory-BookSelectionMenu</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.BookSelectionMenu</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_225">
+        <servlet-name>BookSelectionByCategory-NoMatchDataPasswordCopy</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.NoMatchDataPasswordCopy</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_221">
+        <servlet-name>BookSelectionByCategory-NoInputDataPasswordCopy</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.NoInputDataPasswordCopy</servlet-class>
     </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
@@ -942,46 +931,22 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>BookSelectionByCategory-CategoryBooksCheck</servlet-name>
         <url-pattern>/BookSelectionByCategory-CategoryBooksCheck</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_70">
-        <servlet-name>BookSelectionByCategory-AdventureMenu</servlet-name>
-        <url-pattern>/BookSelectionByCategory-AdventureMenu</url-pattern>
-    </servlet-mapping>
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_74">
-        <servlet-name>BookSelectionByCategory-YoungadultfictionMenu</servlet-name>
-        <url-pattern>/BookSelectionByCategory-YoungadultfictionMenu</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_103">
-        <servlet-name>BookSelectionByCategory-AventureMenuSelectedBook</servlet-name>
-        <url-pattern>/BookSelectionByCategory-AventureMenuSelectedBook</url-pattern>
-    </servlet-mapping>
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_111">
-        <servlet-name>BookSelectionByCategory-YoungAdultFictionMenuSelectedBook</servlet-name>
-        <url-pattern>/BookSelectionByCategory-YoungAdultFictionMenuSelectedBook</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_129">
-        <servlet-name>BookSelectionByCategory-NoInputDataPassword</servlet-name>
-        <url-pattern>/BookSelectionByCategory-NoInputDataPassword</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_133">
-        <servlet-name>BookSelectionByCategory-NoMatchDataPassword</servlet-name>
-        <url-pattern>/BookSelectionByCategory-NoMatchDataPassword</url-pattern>
-    </servlet-mapping>
+    
+    
+    
+    
+    
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_139">
         <servlet-name>BookSelectionByCategory-EventReturn</servlet-name>
         <url-pattern>/BookSelectionByCategory-EventReturn</url-pattern>
     </servlet-mapping>
     
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_160">
-        <servlet-name>BookSelectionByCategory-NoMatchDataPasswordCopyCopy</servlet-name>
-        <url-pattern>/BookSelectionByCategory-NoMatchDataPasswordCopyCopy</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_156">
-        <servlet-name>BookSelectionByCategory-NoInputDataPasswordCopyCopy</servlet-name>
-        <url-pattern>/BookSelectionByCategory-NoInputDataPasswordCopyCopy</url-pattern>
-    </servlet-mapping>
+    
+    
     
     
     
@@ -1189,13 +1154,26 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-NoMatchcartEditCopy</servlet-name>
         <url-pattern>/CartMenuFlow-NoMatchcartEditCopy</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_184">
-        <servlet-name>BookSelectionByCategory-booksMenu</servlet-name>
-        <url-pattern>/BookSelectionByCategory-booksMenu</url-pattern>
-    </servlet-mapping>
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1057">
         <servlet-name>ExistUser-CategoryMenuNext</servlet-name>
         <url-pattern>/ExistUser-CategoryMenuNext</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_201">
+        <servlet-name>BookSelectionByCategory-booksMenuNext</servlet-name>
+        <url-pattern>/BookSelectionByCategory-booksMenuNext</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_212">
+        <servlet-name>BookSelectionByCategory-BookSelectionMenu</servlet-name>
+        <url-pattern>/BookSelectionByCategory-BookSelectionMenu</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_225">
+        <servlet-name>BookSelectionByCategory-NoMatchDataPasswordCopy</servlet-name>
+        <url-pattern>/BookSelectionByCategory-NoMatchDataPasswordCopy</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_221">
+        <servlet-name>BookSelectionByCategory-NoInputDataPasswordCopy</servlet-name>
+        <url-pattern>/BookSelectionByCategory-NoInputDataPasswordCopy</url-pattern>
     </servlet-mapping>
     
     
