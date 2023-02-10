@@ -683,7 +683,10 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
+    <variable factoryID="" name="menuCommon:apiPost" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:bookAdded" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\bookAdded.wav" version="1.0"/>
     <variable factoryID="" name="menuCommon:bookMenuList" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="menuCommon:bookNotAdded" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\bookNotAdded.wav" version="1.0"/>
     <variable factoryID="" name="menuCommon:categoryMenuList" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:categoryName" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:menuOption1" owner="" type="" value="http://172.16.11.17:8090/AudioPrompts/Elibrary\menuOption1.wav" version="1.0"/>
@@ -719,9 +722,6 @@
     <variable factoryID="" name="menuCommon:quantityValue4" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:quantityValue5" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="menuCommon:quantityValue6" owner="" type="" value="" version="1.0"/>
-    <variable factoryID="" name="menuCommon:untitled7" owner="" type="" value="" version="1.0"/>
-    <variable factoryID="" name="menuCommon:untitled8" owner="" type="" value="" version="1.0"/>
-    <variable factoryID="" name="menuCommon:untitled9" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="password:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.field" value="" version="1.0">
         <editpolicies>
             <policy name="opaque" value="true"/>
@@ -1254,6 +1254,9 @@
             <policy name="renameable" value="false"/>
         </editpolicies>
     </variable>
+    <variable factoryID="" name="UserDetails:bookCount" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="UserDetails:bookName" owner="" type="" value="" version="1.0"/>
+    <variable factoryID="" name="UserDetails:bookPrice" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="UserDetails:userIdNumber" owner="" type="" value="" version="1.0"/>
     <variable factoryID="" name="userId:confidence" owner="com.avaya.sce.callflow" type="com.avaya.sce.callflow.field" value="" version="1.0">
         <editpolicies>

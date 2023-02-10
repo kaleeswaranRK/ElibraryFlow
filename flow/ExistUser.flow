@@ -550,13 +550,6 @@
                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Form" id="1009" version="1.2">
                     <ItemProperties/>
                     <ChildItems>
-                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Prompt" id="1010" version="1.2">
-                            <ItemProperties>
-                                <Property name="VariableId" value="AudioPath"/>
-                                <Property name="VariableFieldId" value="AdventureMenu"/>
-                            </ItemProperties>
-                            <ChildItems/>
-                        </FlowItem>
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Submit" id="1011" version="1.2">
                             <ItemProperties>
                                 <Property name="LinkedNodeID" value="1020"/>

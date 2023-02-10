@@ -124,6 +124,7 @@ public class IntegrationClass {
 
 	public String apiPost(String url, String js) {
 		try {
+			JSONObject jsonobj=null;
 			CloseableHttpClient httpClient = HttpClientBuilder.create().build();
 			HttpPost Request = new HttpPost(url);
 			Request.setHeader("Accept", "application/json");
@@ -131,7 +132,6 @@ public class IntegrationClass {
 			StringEntity stringEntity = new StringEntity(js);
 			Request.setEntity(stringEntity);
 			CloseableHttpResponse response = httpClient.execute(Request);
-
 			if (response.getStatusLine().getStatusCode() != 200) {
 				return null;
 			} else {
@@ -140,16 +140,21 @@ public class IntegrationClass {
 				System.out.println("Output from Server .... \n");
 				if (output != null) {
 					System.out.println(output);
-					JSONParser parser = new JSONParser();
-					JSONObject jsonobj = (JSONObject) parser.parse(output);
-					if (jsonobj.get("status").toString().equalsIgnoreCase("200")) {
-						JSONObject parse = (JSONObject) parser.parse(jsonobj.get("data").toString());
-						return parse.get("Result").toString();
+					jsonobj = new JSONObject(output);
+				if (jsonobj.get("status").toString().equalsIgnoreCase("200")) {
+					jsonobj = new JSONObject(jsonobj.get("data").toString());
+					String Result = jsonobj.get("Result").toString();
+					if (Result != null ) {
+						return Result;
 					} else {
 						return null;
 					}
+				} else {
+					return null;
 				}
 			}
+		}
+
 
 //			JSONObject parse = (JSONObject) parser.parse(jsonobj.get("data").toString());
 //			System.out.println(parse.get("cartItems").toString());
