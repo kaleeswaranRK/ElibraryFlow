@@ -11,15 +11,15 @@ import com.avaya.sce.runtimecommon.SCESession;
 import flow.IProjectVariables;
 
 public class AppIPClass {
-	public void appIPmethod(SCESession mysession) {
-		IVariableField app_Ip = mysession.getVariableField(IProjectVariables.DATA_ELIBRARY,
+	public void appIPmethod(SCESession mySession) {
+		IVariableField app_Ip = mySession.getVariableField(IProjectVariables.DATA_ELIBRARY,
 				IProjectVariables.DATA_ELIBRARY_FIELD_APP_IP);
 		InetAddress localHost;
 		try {
 			localHost = InetAddress.getLocalHost();
 			app_Ip.setValue(localHost);
 		} catch (UnknownHostException e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mysession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		}
 	  
 	}

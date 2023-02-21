@@ -30,18 +30,6 @@
                 <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Form" id="29" version="1.2">
                     <ItemProperties/>
                     <ChildItems>
-                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Prompt" id="21" version="1.2">
-                            <ItemProperties>
-                                <Property name="Name" value="agentConnect"/>
-                            </ItemProperties>
-                            <ChildItems/>
-                        </FlowItem>
-                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Prompt" id="17" version="1.2">
-                            <ItemProperties>
-                                <Property name="Name" value="callTranferComplete"/>
-                            </ItemProperties>
-                            <ChildItems/>
-                        </FlowItem>
                         <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Submit" id="31" version="1.2">
                             <ItemProperties>
                                 <Property name="LinkedNodeID" value="4"/>

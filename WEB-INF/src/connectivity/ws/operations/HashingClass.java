@@ -2,15 +2,20 @@ package connectivity.ws.operations;
 
 import java.security.MessageDigest;
 
+import com.avaya.sce.runtime.tracking.TraceInfo;
+import com.avaya.sce.runtimecommon.ITraceInfo;
+import com.avaya.sce.runtimecommon.SCESession;
+
 public class HashingClass {
-	public static String getSha256(String value) {
+	public static String getSha256(String value,SCESession mySession) {
 	    try{
 	        MessageDigest md = MessageDigest.getInstance("SHA-256");
 	        md.update(value.getBytes());
 	        return bytesToHex(md.digest());
 	    } catch(Exception ex){
-	        throw new RuntimeException(ex);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, ex.getLocalizedMessage(), mySession);
 	    }
+		return value;
 	 }
 	 private static String bytesToHex(byte[] hash) {
 		 StringBuilder hexString = new StringBuilder(2 * hash.length);

@@ -101,7 +101,7 @@ public class CategoryData extends com.avaya.sce.runtime.Data {
 
 			IntegrationClass integration = new IntegrationClass();
 			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "http://172.16.11.17:8082/product/getcategories", mySession);
-			List<JSONObject> apiGet = integration.apiGet("http://172.16.11.17:8082/product/getcategories");
+			List<JSONObject> apiGet = integration.apiGet("http://172.16.11.17:8082/product/getcategories",mySession);
 			for (int i = 0; i < apiGet.size(); i++) {			
 				System.out.println(apiGet.get(i).get("categoryName"));
 			}

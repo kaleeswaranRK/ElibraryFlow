@@ -11,7 +11,7 @@ import com.avaya.sce.runtimecommon.SCESession;
 public class DurationFindClass {
 
 	public long durationFind(SCESession mySession, String start_date, String end_date) {
-		TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "Duration Calculation", mySession);
+		TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "Duration Calculation", mySession);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
 		try {
 			Date startDate = sdf.parse(start_date);
@@ -20,7 +20,7 @@ public class DurationFindClass {
 			long difference_In_Seconds = (difference_In_Time / 1000) % 60;
 			return difference_In_Seconds;
 		} catch (ParseException e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR,e, mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		}
 		return 0;
 	}

@@ -125,10 +125,7 @@ Copyright 2004-2021 Avaya Inc.
     </servlet>
     
     
-    <servlet id="SAGE-callflow-servlet_main_98">
-        <servlet-name>existUserAnnounce</servlet-name>
-        <servlet-class>flow.existUserAnnounce</servlet-class>
-    </servlet>
+    
     
     
     
@@ -210,10 +207,7 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-class>flow.subflow.ExistUser.passwordEventAnnounce</servlet-class>
     </servlet>
     
-    <servlet id="SAGE-callflow-servlet_eventManageFlow_1">
-        <servlet-name>eventManageFlow-Begin</servlet-name>
-        <servlet-class>flow.subflow.eventManageFlow.Begin</servlet-class>
-    </servlet>
+    
     
     
     
@@ -458,14 +452,8 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-ReturnToEvent</servlet-name>
         <servlet-class>flow.subflow.CartMenuFlow.ReturnToEvent</servlet-class>
     </servlet>
-    <servlet id="SAGE-callflow-servlet_CartMenuFlow_34">
-        <servlet-name>CartMenuFlow-cartData</servlet-name>
-        <servlet-class>flow.subflow.CartMenuFlow.cartData</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_CartMenuFlow_30">
-        <servlet-name>CartMenuFlow-cartDataAnnounce</servlet-name>
-        <servlet-class>flow.subflow.CartMenuFlow.cartDataAnnounce</servlet-class>
-    </servlet>
+    
+    
     <servlet id="SAGE-callflow-servlet_CartMenuFlow_39">
         <servlet-name>CartMenuFlow-cartOptionsMenu</servlet-name>
         <servlet-class>flow.subflow.CartMenuFlow.cartOptionsMenu</servlet-class>
@@ -509,10 +497,7 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>Exist</servlet-name>
         <servlet-class>flow.Exist</servlet-class>
     </servlet>
-    <servlet id="SAGE-callflow-servlet_eventManageFlow_45">
-        <servlet-name>eventManageFlow-untitledSubReturn1</servlet-name>
-        <servlet-class>flow.subflow.eventManageFlow.untitledSubReturn1</servlet-class>
-    </servlet>
+    
     <servlet id="SAGE-callflow-servlet_main_650">
         <servlet-name>ivrInfoData</servlet-name>
         <servlet-class>flow.ivrInfoData</servlet-class>
@@ -526,30 +511,12 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-AgentTransfer</servlet-name>
         <servlet-class>flow.subflow.CartMenuFlow.AgentTransfer</servlet-class>
     </servlet>
-    <servlet id="SAGE-callflow-servlet_dummy_1">
-        <servlet-name>dummy-Begin</servlet-name>
-        <servlet-class>flow.subflow.dummy.Begin</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_dummy_34">
-        <servlet-name>dummy-untitledSubReturn1</servlet-name>
-        <servlet-class>flow.subflow.dummy.untitledSubReturn1</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_dummy_4">
-        <servlet-name>dummy-NoInputDataPasswordCopy</servlet-name>
-        <servlet-class>flow.subflow.dummy.NoInputDataPasswordCopy</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_dummy_8">
-        <servlet-name>dummy-NoMatchDataPasswordCopy</servlet-name>
-        <servlet-class>flow.subflow.dummy.NoMatchDataPasswordCopy</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_dummy_24">
-        <servlet-name>dummy-ClassicsMenuSelectedBook</servlet-name>
-        <servlet-class>flow.subflow.dummy.ClassicsMenuSelectedBook</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_dummy_12">
-        <servlet-name>dummy-classicsMenu</servlet-name>
-        <servlet-class>flow.subflow.dummy.classicsMenu</servlet-class>
-    </servlet>
+    
+    
+    
+    
+    
+    
     <servlet id="SAGE-callflow-servlet_ExistUser_1008">
         <servlet-name>ExistUser-BookAddedAnnouncement</servlet-name>
         <servlet-class>flow.subflow.ExistUser.BookAddedAnnouncement</servlet-class>
@@ -637,6 +604,84 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>BookSelectionByCategory-NoInputDataPasswordCopy</servlet-name>
         <servlet-class>flow.subflow.BookSelectionByCategory.NoInputDataPasswordCopy</servlet-class>
     </servlet>
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_206">
+        <servlet-name>CartMenuFlow-cartItemsMenuNext</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.cartItemsMenuNext</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_211">
+        <servlet-name>CartMenuFlow-cartItemsMenuData</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.cartItemsMenuData</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_225">
+        <servlet-name>CartMenuFlow-cartModifyCountData</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.cartModifyCountData</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_233">
+        <servlet-name>CartMenuFlow-cartDataCheck</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.cartDataCheck</servlet-class>
+    </servlet>
+    
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_244">
+        <servlet-name>CartMenuFlow-NocartAnnounce</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.NocartAnnounce</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_253">
+        <servlet-name>CartMenuFlow-cartSwap</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.cartSwap</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_CartMenuFlow_268">
+        <servlet-name>CartMenuFlow-productModifySwap</servlet-name>
+        <servlet-class>flow.subflow.CartMenuFlow.productModifySwap</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_eventManageFlow_1">
+        <servlet-name>eventManageFlow-Begin</servlet-name>
+        <servlet-class>flow.subflow.eventManageFlow.Begin</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_260">
+        <servlet-name>BookSelectionByCategory-NocartAnnounce</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.NocartAnnounce</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_263">
+        <servlet-name>BookSelectionByCategory-categoryDataCheck</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.categoryDataCheck</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_267">
+        <servlet-name>BookSelectionByCategory-categorySwap</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.categorySwap</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_BookSelectionByCategory_279">
+        <servlet-name>BookSelectionByCategory-returnToCategoryMenu</servlet-name>
+        <servlet-class>flow.subflow.BookSelectionByCategory.returnToCategoryMenu</servlet-class>
+    </servlet>
+    
+    <servlet id="SAGE-callflow-servlet_ExistUser_1077">
+        <servlet-name>ExistUser-NocartAnnounce</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.NocartAnnounce</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_ExistUser_1080">
+        <servlet-name>ExistUser-categoryDataCheck</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.categoryDataCheck</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_ExistUser_1084">
+        <servlet-name>ExistUser-categorySwap</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.categorySwap</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_APICheckFlow_1">
+        <servlet-name>APICheckFlow-Begin</servlet-name>
+        <servlet-class>flow.subflow.APICheckFlow.Begin</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_APICheckFlow_4">
+        <servlet-name>APICheckFlow-returnToDisconnect</servlet-name>
+        <servlet-class>flow.subflow.APICheckFlow.returnToDisconnect</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_ExistUser_1105">
+        <servlet-name>ExistUser-APIcheckflow</servlet-name>
+        <servlet-class>flow.subflow.ExistUser.APIcheckflow</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_APICheckFlow_6">
+        <servlet-name>APICheckFlow-ErrorAnnounce</servlet-name>
+        <servlet-class>flow.subflow.APICheckFlow.ErrorAnnounce</servlet-class>
+    </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
         <url-pattern>/AvayaDefaultDisconnectHandler</url-pattern>
@@ -691,10 +736,7 @@ Copyright 2004-2021 Avaya Inc.
     </servlet-mapping>
     
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_main_98">
-        <servlet-name>existUserAnnounce</servlet-name>
-        <url-pattern>/existUserAnnounce</url-pattern>
-    </servlet-mapping>
+    
     
     
     
@@ -759,10 +801,7 @@ Copyright 2004-2021 Avaya Inc.
         <url-pattern>/ExistUser-passwordEventAnnounce</url-pattern>
     </servlet-mapping>
     
-    <servlet-mapping id="SAGE-callflow-servletmapping_eventManageFlow_1">
-        <servlet-name>eventManageFlow-Begin</servlet-name>
-        <url-pattern>/eventManageFlow-Begin</url-pattern>
-    </servlet-mapping>
+    
     
     
     
@@ -999,14 +1038,8 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-ReturnToEvent</servlet-name>
         <url-pattern>/CartMenuFlow-ReturnToEvent</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_34">
-        <servlet-name>CartMenuFlow-cartData</servlet-name>
-        <url-pattern>/CartMenuFlow-cartData</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_30">
-        <servlet-name>CartMenuFlow-cartDataAnnounce</servlet-name>
-        <url-pattern>/CartMenuFlow-cartDataAnnounce</url-pattern>
-    </servlet-mapping>
+    
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_39">
         <servlet-name>CartMenuFlow-cartOptionsMenu</servlet-name>
         <url-pattern>/CartMenuFlow-cartOptionsMenu</url-pattern>
@@ -1049,10 +1082,7 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>Exist</servlet-name>
         <url-pattern>/Exist</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_eventManageFlow_45">
-        <servlet-name>eventManageFlow-untitledSubReturn1</servlet-name>
-        <url-pattern>/eventManageFlow-untitledSubReturn1</url-pattern>
-    </servlet-mapping>
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_main_650">
         <servlet-name>ivrInfoData</servlet-name>
         <url-pattern>/ivrInfoData</url-pattern>
@@ -1066,30 +1096,12 @@ Copyright 2004-2021 Avaya Inc.
         <servlet-name>CartMenuFlow-AgentTransfer</servlet-name>
         <url-pattern>/CartMenuFlow-AgentTransfer</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_dummy_1">
-        <servlet-name>dummy-Begin</servlet-name>
-        <url-pattern>/dummy-Begin</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_dummy_34">
-        <servlet-name>dummy-untitledSubReturn1</servlet-name>
-        <url-pattern>/dummy-untitledSubReturn1</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_dummy_4">
-        <servlet-name>dummy-NoInputDataPasswordCopy</servlet-name>
-        <url-pattern>/dummy-NoInputDataPasswordCopy</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_dummy_8">
-        <servlet-name>dummy-NoMatchDataPasswordCopy</servlet-name>
-        <url-pattern>/dummy-NoMatchDataPasswordCopy</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_dummy_24">
-        <servlet-name>dummy-ClassicsMenuSelectedBook</servlet-name>
-        <url-pattern>/dummy-ClassicsMenuSelectedBook</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_dummy_12">
-        <servlet-name>dummy-classicsMenu</servlet-name>
-        <url-pattern>/dummy-classicsMenu</url-pattern>
-    </servlet-mapping>
+    
+    
+    
+    
+    
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1008">
         <servlet-name>ExistUser-BookAddedAnnouncement</servlet-name>
         <url-pattern>/ExistUser-BookAddedAnnouncement</url-pattern>
@@ -1174,6 +1186,83 @@ Copyright 2004-2021 Avaya Inc.
     <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_221">
         <servlet-name>BookSelectionByCategory-NoInputDataPasswordCopy</servlet-name>
         <url-pattern>/BookSelectionByCategory-NoInputDataPasswordCopy</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_206">
+        <servlet-name>CartMenuFlow-cartItemsMenuNext</servlet-name>
+        <url-pattern>/CartMenuFlow-cartItemsMenuNext</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_211">
+        <servlet-name>CartMenuFlow-cartItemsMenuData</servlet-name>
+        <url-pattern>/CartMenuFlow-cartItemsMenuData</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_225">
+        <servlet-name>CartMenuFlow-cartModifyCountData</servlet-name>
+        <url-pattern>/CartMenuFlow-cartModifyCountData</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_233">
+        <servlet-name>CartMenuFlow-cartDataCheck</servlet-name>
+        <url-pattern>/CartMenuFlow-cartDataCheck</url-pattern>
+    </servlet-mapping>
+    
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_244">
+        <servlet-name>CartMenuFlow-NocartAnnounce</servlet-name>
+        <url-pattern>/CartMenuFlow-NocartAnnounce</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_253">
+        <servlet-name>CartMenuFlow-cartSwap</servlet-name>
+        <url-pattern>/CartMenuFlow-cartSwap</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_CartMenuFlow_268">
+        <servlet-name>CartMenuFlow-productModifySwap</servlet-name>
+        <url-pattern>/CartMenuFlow-productModifySwap</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_eventManageFlow_1">
+        <servlet-name>eventManageFlow-Begin</servlet-name>
+        <url-pattern>/eventManageFlow-Begin</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_260">
+        <servlet-name>BookSelectionByCategory-NocartAnnounce</servlet-name>
+        <url-pattern>/BookSelectionByCategory-NocartAnnounce</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_263">
+        <servlet-name>BookSelectionByCategory-categoryDataCheck</servlet-name>
+        <url-pattern>/BookSelectionByCategory-categoryDataCheck</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_267">
+        <servlet-name>BookSelectionByCategory-categorySwap</servlet-name>
+        <url-pattern>/BookSelectionByCategory-categorySwap</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_BookSelectionByCategory_279">
+        <servlet-name>BookSelectionByCategory-returnToCategoryMenu</servlet-name>
+        <url-pattern>/BookSelectionByCategory-returnToCategoryMenu</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1077">
+        <servlet-name>ExistUser-NocartAnnounce</servlet-name>
+        <url-pattern>/ExistUser-NocartAnnounce</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1080">
+        <servlet-name>ExistUser-categoryDataCheck</servlet-name>
+        <url-pattern>/ExistUser-categoryDataCheck</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1084">
+        <servlet-name>ExistUser-categorySwap</servlet-name>
+        <url-pattern>/ExistUser-categorySwap</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_APICheckFlow_1">
+        <servlet-name>APICheckFlow-Begin</servlet-name>
+        <url-pattern>/APICheckFlow-Begin</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_APICheckFlow_4">
+        <servlet-name>APICheckFlow-returnToDisconnect</servlet-name>
+        <url-pattern>/APICheckFlow-returnToDisconnect</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_ExistUser_1105">
+        <servlet-name>ExistUser-APIcheckflow</servlet-name>
+        <url-pattern>/ExistUser-APIcheckflow</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_APICheckFlow_6">
+        <servlet-name>APICheckFlow-ErrorAnnounce</servlet-name>
+        <url-pattern>/APICheckFlow-ErrorAnnounce</url-pattern>
     </servlet-mapping>
     
     

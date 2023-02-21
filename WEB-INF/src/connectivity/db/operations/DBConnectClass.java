@@ -17,7 +17,7 @@ import flow.IProjectVariables;
 
 public class DBConnectClass {
 	public Connection DBconnection(SCESession mySession) {
-		TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "DB Connection method entry", mySession);
+		TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "DB Connection method entry", mySession);
 		FileInputStream fout = null;
 		Connection con = null;
 		try {
@@ -30,12 +30,12 @@ public class DBConnectClass {
 			String username = p.getProperty("username");
 			String password = p.getProperty("password");
 			String query = p.getProperty("query");
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "Connection url = " + connectionUrl + " Username = " + username
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "Connection url = " + connectionUrl + " Username = " + username
 					+ " Password = " + password + " Query = " + query, mySession);
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "DB Connection property complete", mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "DB Connection property complete", mySession);
 			IVariableField DBcon = mySession.getVariableField(IProjectVariables.E_LIBRARY,
 					IProjectVariables.E_LIBRARY_FIELD_DBVARIABLE);
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "DBcon = " + (Connection) DBcon.getObjectValue(), mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "DBcon = " + (Connection) DBcon.getObjectValue(), mySession);
 			con = (Connection) DBcon.getObjectValue();
 			if (con == null) {
 				Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
@@ -46,24 +46,25 @@ public class DBConnectClass {
 					Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 					con = DriverManager.getConnection(connectionUrl, username, password);
 				} else {
-					TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "DB Connection object has problem", mySession);
+					TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "DB Connection object has problem", mySession);
 				}
 			}
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, "DB Connection method exit", mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "DB Connection method exit", mySession);
 			return con;
 		} catch (IOException e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		} catch (ClassNotFoundException e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		} catch (SQLException e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		} catch (Exception e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		} finally {
 			try {
 				fout.close();
 			} catch (IOException e) {
-				TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+				TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
+
 			}
 		}
 		return null;

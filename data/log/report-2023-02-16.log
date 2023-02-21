@@ -1,0 +1,101 @@
+16/02/2023 10:41:46:173  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:41:46:452  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:41:52:004  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:41:59:510  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^3
+ | undefined
+16/02/2023 10:41:59:585  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 10:42:03:190  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+16/02/2023 10:42:04:012  INFO - Node Entry | session id:sess6526831 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:42:04:015  INFO - End | session id:sess6526831 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:42:04:015  INFO - Application Exit | session id:sess6526831 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 10:43:04:850  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:43:05:078  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:43:10:559  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:43:19:235  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^3
+ | undefined
+16/02/2023 10:43:19:296  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 10:43:19:375  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+16/02/2023 10:43:20:110  INFO - Node Entry | session id:sess6944919 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:43:20:114  INFO - End | session id:sess6944919 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:43:20:114  INFO - Application Exit | session id:sess6944919 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 10:46:14:196  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:46:14:408  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:46:19:915  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:46:24:853  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^3
+ | undefined
+16/02/2023 10:46:24:928  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 10:46:24:990  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+16/02/2023 10:46:25:671  INFO - Node Entry | session id:sess9935661 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:46:25:674  INFO - End | session id:sess9935661 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:46:25:674  INFO - Application Exit | session id:sess9935661 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 10:47:21:674  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:47:21:890  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:47:27:386  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:47:33:215  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^3
+ | undefined
+16/02/2023 10:47:33:290  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 10:47:33:352  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+16/02/2023 10:47:34:016  INFO - Node Entry | session id:sess1157260 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:47:34:019  INFO - End | session id:sess1157260 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:47:34:019  INFO - Application Exit | session id:sess1157260 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 10:48:37:807  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:48:38:035  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:48:43:503  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:48:51:820  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^3
+ | undefined
+16/02/2023 10:48:51:881  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 10:48:51:958  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+16/02/2023 10:48:52:640  INFO - Node Entry | session id:sess4430481 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:48:52:643  INFO - End | session id:sess4430481 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:48:52:645  INFO - Application Exit | session id:sess4430481 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 10:50:26:001  INFO - Node Entry | session id:sess618971 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:50:26:194  INFO - Node Entry | session id:sess618971 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:50:31:655  INFO - Node Entry | session id:sess618971 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:50:46:088  INFO - Node Entry | session id:sess618971 | ElibraryFlows:noMatchDataLangMenu | Framework | noMatchDataLangMenu |  | ^^0
+^3
+ | undefined
+16/02/2023 10:50:46:148  INFO - Node Entry | session id:sess618971 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 10:50:49:714  INFO - Node Entry | session id:sess618971 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+16/02/2023 10:50:50:392  INFO - Node Entry | session id:sess618971 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:50:50:396  INFO - End | session id:sess618971 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:50:50:396  INFO - Application Exit | session id:sess618971 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 10:53:07:607  INFO - Node Entry | session id:sess4068410 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 10:53:07:808  INFO - Node Entry | session id:sess4068410 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 10:53:07:900  INFO - Node Entry | session id:sess4068410 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 10:53:18:638  INFO - Node Entry | session id:sess4068410 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+16/02/2023 10:53:18:701  INFO - Node Entry | session id:sess4068410 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+16/02/2023 10:53:19:300  INFO - Node Entry | session id:sess4068410 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 10:53:19:305  INFO - End | session id:sess4068410 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 10:53:19:305  INFO - Application Exit | session id:sess4068410 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 11:57:54:315  INFO - Node Entry | session id:sess1316714 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 11:57:54:485  INFO - Node Entry | session id:sess1316714 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 11:57:54:577  INFO - Node Entry | session id:sess1316714 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 11:58:06:153  INFO - Node Entry | session id:sess1316714 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+16/02/2023 11:58:06:231  INFO - Node Entry | session id:sess1316714 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+16/02/2023 11:58:06:853  INFO - Node Entry | session id:sess1316714 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+16/02/2023 11:58:06:856  INFO - End | session id:sess1316714 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+16/02/2023 11:58:06:856  INFO - Application Exit | session id:sess1316714 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+16/02/2023 13:08:18:308  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 13:08:18:521  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 13:08:24:048  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 13:09:40:886  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+16/02/2023 13:09:40:964  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+16/02/2023 13:09:51:055  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+16/02/2023 13:09:51:115  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+16/02/2023 13:09:51:178  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+16/02/2023 13:09:55:523  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+16/02/2023 13:09:59:223  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+16/02/2023 13:10:01:637  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+16/02/2023 13:10:01:699  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+16/02/2023 13:10:01:775  INFO - Node Entry | session id:sess3750403 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+16/02/2023 14:26:23:127  INFO - Node Entry | session id:sess3157621 | ElibraryFlows:Start | Framework | Start |  |  | 
+16/02/2023 14:26:23:351  INFO - Node Entry | session id:sess3157621 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+16/02/2023 14:26:28:927  INFO - Node Entry | session id:sess3157621 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+16/02/2023 14:30:00:318  INFO - Node Entry | session id:sess3157621 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+16/02/2023 14:30:00:396  INFO - Node Entry | session id:sess3157621 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+16/02/2023 14:30:03:487  INFO - Node Entry | session id:sess3157621 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined

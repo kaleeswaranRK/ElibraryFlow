@@ -16,7 +16,7 @@ public class DateInsertionClass {
 			String startingDate = dateFormat.format(date);
 			return startingDate;
 		} catch (Exception e) {
-			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e, mySession);
+			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_ERROR, e.getLocalizedMessage(), mySession);
 		}
 		return null;
 		

@@ -1,0 +1,1265 @@
+14/02/2023 10:29:57:805  INFO - Node Entry | session id:sess7940369 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 10:29:58:018  INFO - Node Entry | session id:sess7940369 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 10:29:58:098  INFO - Start | session id:sess7940369 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 10:29:58:099  INFO - In Progress | session id:sess7940369 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 10:30:00:241  INFO - Node Entry | session id:sess7940369 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 10:52:28:405  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 10:52:28:614  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 10:52:28:686  INFO - Start | session id:sess3090433 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 10:52:28:686  INFO - In Progress | session id:sess3090433 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 10:52:34:311  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 10:52:45:700  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 10:52:45:778  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 10:52:57:681  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:AgentTranfer | Framework | AgentTranfer | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 10:52:57:743  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+14/02/2023 10:52:57:805  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+14/02/2023 10:53:05:804  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 10:53:05:866  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 10:53:06:687  INFO - Node Entry | session id:sess3090433 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 10:53:06:689  INFO - End | session id:sess3090433 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 10:53:06:689  INFO - Application Exit | session id:sess3090433 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 10:54:14:875  INFO - Node Entry | session id:sess9097810 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 10:54:15:100  INFO - Node Entry | session id:sess9097810 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 10:54:15:199  INFO - Start | session id:sess9097810 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 10:54:15:199  INFO - In Progress | session id:sess9097810 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 10:54:20:675  INFO - Node Entry | session id:sess9097810 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 10:54:24:981  INFO - Node Entry | session id:sess9097810 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 10:54:25:043  INFO - Node Entry | session id:sess9097810 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 10:54:25:942  INFO - Node Entry | session id:sess9097810 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 10:54:25:944  INFO - End | session id:sess9097810 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 10:54:25:945  INFO - Application Exit | session id:sess9097810 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 10:54:52:511  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 10:54:52:588  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 10:54:52:591  INFO - Start | session id:sess6770260 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 10:54:52:591  INFO - In Progress | session id:sess6770260 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 10:54:58:055  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 10:55:05:748  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 10:55:05:828  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 10:55:11:780  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 10:55:11:842  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 10:55:11:904  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 10:55:29:690  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 296587^0.949999988079071^0^1 | undefined
+14/02/2023 10:55:36:469  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1236^0.949999988079071^0^0 | undefined
+14/02/2023 10:55:38:813  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 10:55:38:890  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 10:55:38:967  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 10:55:55:527  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 10:56:01:269  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 10:56:03:383  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 10:56:03:444  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 10:56:03:522  INFO - Node Entry | session id:sess6770260 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 11:01:13:514  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 11:01:13:771  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 11:01:13:900  INFO - Start | session id:sess9935503 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 11:01:13:901  INFO - In Progress | session id:sess9935503 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 11:01:19:354  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 11:01:26:268  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 0^0.949999988079071^0^0 | undefined
+14/02/2023 11:01:26:345  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 11:01:34:624  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 11:01:34:700  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 11:01:35:239  INFO - Node Entry | session id:sess9935503 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 11:01:35:242  INFO - End | session id:sess9935503 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 11:01:35:243  INFO - Application Exit | session id:sess9935503 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 11:02:30:472  INFO - Node Entry | session id:sess3664912 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 11:02:30:563  INFO - Node Entry | session id:sess3664912 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 11:02:30:621  INFO - Start | session id:sess3664912 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 11:02:30:621  INFO - In Progress | session id:sess3664912 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 11:02:36:067  INFO - Node Entry | session id:sess3664912 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 11:02:44:108  INFO - Node Entry | session id:sess3664912 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 11:02:44:170  INFO - Node Entry | session id:sess3664912 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 11:04:05:844  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 11:04:06:057  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 11:04:06:133  INFO - Start | session id:sess2095884 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 11:04:06:133  INFO - In Progress | session id:sess2095884 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 11:04:11:600  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 11:04:16:424  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 11:04:16:500  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 11:04:20:844  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:AgentTranfer | Framework | AgentTranfer | userMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 11:04:20:907  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+14/02/2023 11:04:20:969  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+14/02/2023 11:04:23:055  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 11:04:23:117  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 11:04:23:718  INFO - Node Entry | session id:sess2095884 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 11:04:23:720  INFO - End | session id:sess2095884 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 11:04:23:720  INFO - Application Exit | session id:sess2095884 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 11:04:28:519  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 11:04:28:596  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 11:04:28:598  INFO - Start | session id:sess6085013 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 11:04:28:598  INFO - In Progress | session id:sess6085013 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 11:04:34:069  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 11:04:39:336  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 11:04:39:399  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 11:04:43:691  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 11:04:43:753  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 11:04:43:815  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 11:04:55:650  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^1 | undefined
+14/02/2023 11:05:01:139  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 11:05:03:469  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 11:05:03:546  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 11:05:03:608  INFO - Node Entry | session id:sess6085013 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 11:18:45:563  INFO - Node Entry | session id:sess860807 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 11:18:45:786  INFO - Node Entry | session id:sess860807 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 11:18:45:880  INFO - Start | session id:sess860807 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 11:18:45:881  INFO - In Progress | session id:sess860807 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 11:18:51:349  INFO - Node Entry | session id:sess860807 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 11:18:55:550  INFO - Node Entry | session id:sess860807 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 11:18:55:626  INFO - Node Entry | session id:sess860807 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 11:19:07:834  INFO - Node Entry | session id:sess860807 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 11:19:07:897  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 11:19:07:959  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 11:19:18:092  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^1 | undefined
+14/02/2023 11:19:24:490  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 11:19:25:680  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 11:19:25:742  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 11:19:25:804  INFO - Node Entry | session id:sess860807 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 11:19:25:867  INFO - Node Entry | session id:sess860807 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 11:19:40:700  INFO - Node Entry | session id:sess860807 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 11:19:40:841  INFO - Node Entry | session id:sess860807 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 11:21:20:355  INFO - Node Entry | session id:sess860807 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 11:21:20:416  INFO - Node Entry | session id:sess860807 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 11:21:20:978  INFO - Node Entry | session id:sess860807 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 11:21:20:981  INFO - End | session id:sess860807 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 11:21:20:981  INFO - Application Exit | session id:sess860807 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 12:16:41:678  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:16:41:862  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:16:41:937  INFO - Start | session id:sess8541988 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:16:41:938  INFO - In Progress | session id:sess8541988 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:16:47:405  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:16:52:587  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:16:52:666  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:17:04:358  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^1 | undefined
+14/02/2023 12:17:04:436  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:17:04:498  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:17:08:283  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:17:11:659  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:17:12:065  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:17:12:126  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:17:12:189  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:17:12:253  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:17:18:018  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:17:18:142  INFO - Node Entry | session id:sess8541988 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 12:20:22:287  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:20:22:474  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:20:22:537  INFO - Start | session id:sess2897164 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:20:22:537  INFO - In Progress | session id:sess2897164 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:20:27:974  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:20:38:466  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:20:38:543  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:20:41:063  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:20:41:126  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:20:41:189  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:20:52:714  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:20:55:979  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:20:56:325  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:20:56:388  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:20:56:451  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:20:56:513  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:21:04:611  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:21:04:734  INFO - Node Entry | session id:sess2897164 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 12:23:00:579  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:23:00:732  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:23:00:797  INFO - Start | session id:sess4043931 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:23:00:797  INFO - In Progress | session id:sess4043931 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:23:06:249  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:23:14:613  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:14:691  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:23:18:530  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:18:593  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:23:18:655  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:23:22:764  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:25:568  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:25:868  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:23:25:930  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:23:25:993  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:23:26:055  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:23:29:773  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:29:882  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 12:23:29:945  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CartMenuFlow-NocartAnnounce | Framework | CartMenuFlow-NocartAnnounce |  |  | undefined
+14/02/2023 12:23:32:529  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection |  |  | undefined
+14/02/2023 12:23:32:592  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 12:23:42:963  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:43:024  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 12:23:43:086  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 12:23:43:148  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 12:23:51:909  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:23:51:971  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 12:23:52:262  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 12:23:52:330 ERROR - In Progress | session id:sess4043931 | ElibraryFlows:ExistUser-BookAddedAnnouncement |  | com.avaya.sce.runtimecommon.SCERuntimeException: Unable to get session variable: menuCommon:bookSelectionMenu | Exception stack trace | Error processing request
+ EXCEPTION> 
+com.avaya.sce.runtimecommon.SCERuntimeException: Unable to get session variable: menuCommon:bookSelectionMenu
+	at com.avaya.sce.runtime.PhraseVariableElement.getPhrase(PhraseVariableElement.java:257)
+	at com.avaya.sce.runtime.PhraseVariableElement.getPhrases(PhraseVariableElement.java:360)
+	at com.avaya.sce.runtime.vxml.OutputGenerator.promptMiddle(OutputGenerator.java:1048)
+	at com.avaya.sce.runtime.Prompt.generate(Prompt.java:292)
+	at com.avaya.sce.runtime.Form.handleRequest(Form.java:263)
+	at com.avaya.sce.runtime.AppDocument.processRequest(AppDocument.java:343)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:64)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.Data.handleRequest(Data.java:184)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:64)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.SubflowReturn.handleRequest(SubflowReturn.java:120)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+ | undefined
+14/02/2023 12:23:52:401  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:runtimeData | Framework | runtimeData |  |  | undefined
+14/02/2023 12:23:52:462  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 12:23:56:032  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 12:23:56:610  INFO - Node Entry | session id:sess4043931 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 12:23:56:611  INFO - End | session id:sess4043931 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 12:23:56:611  INFO - Application Exit | session id:sess4043931 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 12:27:40:418  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:27:40:622  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:27:40:693  INFO - Start | session id:sess8920236 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:27:40:693  INFO - In Progress | session id:sess8920236 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:27:46:111  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:27:48:231  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:27:48:308  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:27:54:191  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:27:54:253  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:27:54:316  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:27:58:639  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:28:02:726  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:28:03:038  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:28:03:100  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:28:03:162  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:28:03:223  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:28:06:925  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:28:07:034  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 12:28:07:097  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce |  |  | undefined
+14/02/2023 12:28:07:205  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 12:28:41:248  INFO - Node Entry | session id:sess8920236 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:32:34:784  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:32:34:956  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:32:35:037  INFO - Start | session id:sess9308087 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:32:35:038  INFO - In Progress | session id:sess9308087 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:32:40:500  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:32:56:626  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:32:56:703  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:33:00:523  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:33:00:584  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:33:00:646  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:33:04:772  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:33:07:296  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:33:07:594  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:33:07:657  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:33:07:720  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:33:07:784  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:33:15:843  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:33:15:907  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 12:33:18:523  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:33:18:585  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 12:33:18:647  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 12:33:18:708  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 12:33:20:935  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:33:20:998  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 12:33:21:431  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 12:33:21:509  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 12:33:21:571  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 12:33:25:153  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 12:33:25:667  INFO - Node Entry | session id:sess9308087 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 12:33:25:668  INFO - End | session id:sess9308087 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 12:33:25:668  INFO - Application Exit | session id:sess9308087 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 12:42:00:581  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:42:00:750  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:42:00:841  INFO - Start | session id:sess2949458 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:42:00:842  INFO - In Progress | session id:sess2949458 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:42:06:279  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:42:08:397  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:08:476  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:42:14:356  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:14:419  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:42:14:481  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:42:18:869  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:22:249  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:24:553  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:42:24:631  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 12:42:24:694  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:42:40:669  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:43:892  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:44:578  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:42:44:640  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:42:44:702  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:42:44:764  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:42:50:538  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:42:50:646  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 12:42:50:708  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce |  |  | undefined
+14/02/2023 12:42:50:911  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 12:42:59:491  INFO - Node Entry | session id:sess2949458 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:57:36:355  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 12:57:36:585  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 12:57:36:686  INFO - Start | session id:sess4866534 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 12:57:36:687  INFO - In Progress | session id:sess4866534 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 12:57:42:190  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 12:58:05:132  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:58:05:209  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 12:58:09:063  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:58:09:142  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 12:58:09:203  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 12:58:15:179  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 12:58:19:066  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 12:58:20:623  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 12:58:20:686  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 12:58:20:748  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 12:58:20:811  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 12:58:35:736  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 12:58:35:922  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 12:58:35:984  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce |  |  | undefined
+14/02/2023 12:58:36:234  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 12:58:59:477  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | cartOptionsMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 12:58:59:538  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 12:59:21:973  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 12:59:22:035  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 12:59:22:780  INFO - Node Entry | session id:sess4866534 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 12:59:22:783  INFO - End | session id:sess4866534 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 12:59:22:784  INFO - Application Exit | session id:sess4866534 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:04:04:176  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:04:04:356  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:04:04:445  INFO - Start | session id:sess5383149 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:04:04:445  INFO - In Progress | session id:sess5383149 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:04:09:898  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:04:12:555  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:04:12:631  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:04:24:458  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:04:24:534  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:04:24:596  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:04:35:581  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^1 | undefined
+14/02/2023 13:04:42:320  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 13:04:42:881  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:04:42:945  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:04:43:007  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:04:43:069  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:04:48:891  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:04:48:952  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:04:53:698  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:04:53:761  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:04:53:823  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:04:53:886  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:05:02:837  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:05:02:900  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:05:03:206  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 13:05:03:268  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 13:05:03:330  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:05:06:926  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:05:07:562  INFO - Node Entry | session id:sess5383149 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:05:07:564  INFO - End | session id:sess5383149 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:05:07:565  INFO - Application Exit | session id:sess5383149 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:11:53:337  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:11:53:531  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:11:53:613  INFO - Start | session id:sess8541608 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:11:53:613  INFO - In Progress | session id:sess8541608 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:11:59:126  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:12:09:851  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:09:929  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:12:21:321  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:21:383  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:12:21:445  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:12:26:412  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:29:882  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 2222^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:30:301  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:12:30:364  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:12:30:424  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:12:30:487  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:12:34:205  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:34:268  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:12:37:152  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:37:214  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:12:37:276  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:12:37:338  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:12:40:053  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:12:40:116  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:12:40:301  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 13:12:40:364  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 13:12:40:426  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:12:44:026  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:12:44:741  INFO - Node Entry | session id:sess8541608 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:12:44:742  INFO - End | session id:sess8541608 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:12:44:742  INFO - Application Exit | session id:sess8541608 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:16:18:630  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:16:18:828  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:16:18:923  INFO - Start | session id:sess9618776 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:16:18:924  INFO - In Progress | session id:sess9618776 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:16:24:411  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:16:28:646  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:16:28:724  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:16:32:604  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:16:32:666  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:16:32:728  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:16:37:483  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 13:16:43:175  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 13:16:43:578  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:16:43:641  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:16:43:701  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:16:43:763  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:16:51:405  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^1 | undefined
+14/02/2023 13:16:51:467  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:16:54:121  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:16:54:183  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:16:54:243  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:16:54:305  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:17:09:318  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:17:09:379  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:17:09:612  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 13:17:09:688 ERROR - In Progress | session id:sess9618776 | ElibraryFlows:ExistUser-BookAddedAnnouncement |  | com.avaya.sce.runtimecommon.SCERuntimeException: Unable to get session variable: mmenuCommon:bookAddedtoCart | Exception stack trace | Error processing request
+ EXCEPTION> 
+com.avaya.sce.runtimecommon.SCERuntimeException: Unable to get session variable: mmenuCommon:bookAddedtoCart
+	at com.avaya.sce.runtime.PhraseVariableElement.getPhrases(PhraseVariableElement.java:324)
+	at com.avaya.sce.runtime.vxml.OutputGenerator.promptMiddle(OutputGenerator.java:1048)
+	at com.avaya.sce.runtime.Prompt.generate(Prompt.java:292)
+	at com.avaya.sce.runtime.Form.handleRequest(Form.java:263)
+	at com.avaya.sce.runtime.AppDocument.processRequest(AppDocument.java:343)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:64)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.Data.handleRequest(Data.java:184)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:64)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.SubflowReturn.handleRequest(SubflowReturn.java:120)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+ | undefined
+14/02/2023 13:17:09:768  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:runtimeData | Framework | runtimeData |  |  | undefined
+14/02/2023 13:17:09:829  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:17:13:413  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:17:14:049  INFO - Node Entry | session id:sess9618776 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:17:14:051  INFO - End | session id:sess9618776 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:17:14:051  INFO - Application Exit | session id:sess9618776 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:19:01:998  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:19:02:227  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:19:02:317  INFO - Start | session id:sess3267645 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:19:02:317  INFO - In Progress | session id:sess3267645 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:19:07:753  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:19:12:012  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:12:088  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:19:28:460  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:28:521  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:19:28:584  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:19:37:701  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:41:380  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:41:784  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:19:41:846  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:19:41:909  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:19:41:971  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:19:50:786  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:50:848  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:19:53:500  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:53:561  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:19:53:623  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:19:53:684  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:19:55:526  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:19:55:590  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:20:10:568  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 13:20:10:633  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:20:14:686  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:20:15:310  INFO - Node Entry | session id:sess3267645 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:20:15:312  INFO - End | session id:sess3267645 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:20:15:313  INFO - Application Exit | session id:sess3267645 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:21:32:352  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:21:32:577  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:21:32:653  INFO - Start | session id:sess4445313 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:21:32:654  INFO - In Progress | session id:sess4445313 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:21:38:114  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:21:42:867  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:21:42:945  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:21:50:518  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^1 | undefined
+14/02/2023 13:21:50:579  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:21:50:641  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:21:56:266  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 13:22:06:342  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 13:22:07:783  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:22:07:845  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:22:07:907  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:22:07:968  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:22:13:751  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:22:13:813  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:22:16:529  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:22:16:590  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:22:16:653  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:22:16:714  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:22:18:572  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:22:18:634  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:22:18:925  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 13:22:18:992 ERROR - In Progress | session id:sess4445313 | ElibraryFlows:ExistUser-BookAddedAnnouncement |  | com.avaya.sce.runtimecommon.SCERuntimeException: Unable to get session variable: mmenuCommon:bookAddedtoCart | Exception stack trace | Error processing request
+ EXCEPTION> 
+com.avaya.sce.runtimecommon.SCERuntimeException: Unable to get session variable: mmenuCommon:bookAddedtoCart
+	at com.avaya.sce.runtime.PhraseVariableElement.getPhrases(PhraseVariableElement.java:324)
+	at com.avaya.sce.runtime.vxml.OutputGenerator.promptMiddle(OutputGenerator.java:1048)
+	at com.avaya.sce.runtime.Prompt.generate(Prompt.java:292)
+	at com.avaya.sce.runtime.Form.handleRequest(Form.java:263)
+	at com.avaya.sce.runtime.AppDocument.processRequest(AppDocument.java:343)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:64)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.Data.handleRequest(Data.java:184)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:64)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.SubflowReturn.handleRequest(SubflowReturn.java:120)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+ | undefined
+14/02/2023 13:22:19:064  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:runtimeData | Framework | runtimeData |  |  | undefined
+14/02/2023 13:22:19:126  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:22:22:696  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:22:23:300  INFO - Node Entry | session id:sess4445313 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:22:23:302  INFO - End | session id:sess4445313 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:22:23:303  INFO - Application Exit | session id:sess4445313 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:23:10:659  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:23:10:854  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:23:10:934  INFO - Start | session id:sess2735598 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:23:10:935  INFO - In Progress | session id:sess2735598 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:23:16:417  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:23:26:118  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:26:196  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:23:30:048  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:30:110  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:23:30:172  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:23:34:025  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:39:738  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:40:125  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:23:40:186  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:23:40:249  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:23:40:311  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:23:46:106  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:46:169  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:23:48:867  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:48:929  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:23:48:990  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:23:49:052  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:23:56:147  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:23:56:210  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:23:56:475  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 13:23:56:539  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 13:23:56:602  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:24:00:189  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:24:00:764  INFO - Node Entry | session id:sess2735598 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:24:00:766  INFO - End | session id:sess2735598 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:24:00:766  INFO - Application Exit | session id:sess2735598 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 13:28:56:586  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:28:56:770  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:28:56:876  INFO - Start | session id:sess6934259 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:28:56:876  INFO - In Progress | session id:sess6934259 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:29:02:323  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:29:14:240  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:29:14:316  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:29:20:193  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:29:20:273  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:29:20:334  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:29:25:608  INFO - Node Entry | session id:sess6934259 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:08:804  INFO - Node Entry | session id:sess837090 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 13:30:08:882  INFO - Node Entry | session id:sess837090 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 13:30:08:884  INFO - Start | session id:sess837090 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 13:30:08:884  INFO - In Progress | session id:sess837090 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 13:30:14:355  INFO - Node Entry | session id:sess837090 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 13:30:18:610  INFO - Node Entry | session id:sess837090 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:18:673  INFO - Node Entry | session id:sess837090 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 13:30:20:880  INFO - Node Entry | session id:sess837090 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:20:943  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 13:30:21:003  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 13:30:24:925  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:28:745  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:29:101  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 13:30:29:162  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 13:30:29:225  INFO - Node Entry | session id:sess837090 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 13:30:29:288  INFO - Node Entry | session id:sess837090 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 13:30:33:018  INFO - Node Entry | session id:sess837090 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:33:079  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 13:30:34:882  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:34:944  INFO - Node Entry | session id:sess837090 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 13:30:35:006  INFO - Node Entry | session id:sess837090 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 13:30:35:068  INFO - Node Entry | session id:sess837090 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 13:30:36:877  INFO - Node Entry | session id:sess837090 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 13:30:36:940  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 13:30:37:185  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 13:30:37:246  INFO - Node Entry | session id:sess837090 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 13:30:37:308  INFO - Node Entry | session id:sess837090 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 13:30:40:904  INFO - Node Entry | session id:sess837090 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 13:30:41:492  INFO - Node Entry | session id:sess837090 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 13:30:41:496  INFO - End | session id:sess837090 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 13:30:41:497  INFO - Application Exit | session id:sess837090 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 14:00:13:571  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 14:00:13:754  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 14:00:13:841  INFO - Start | session id:sess3055871 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 14:00:13:841  INFO - In Progress | session id:sess3055871 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 14:00:19:315  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 14:00:21:947  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:22:025  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 14:00:23:935  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:23:998  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 14:00:24:061  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 14:00:29:419  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:31:900  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:32:458  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 14:00:32:522  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:00:32:584  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:00:32:646  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:00:38:458  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:38:520  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:00:43:306  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:43:368  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:00:43:430  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:00:43:493  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:00:45:817  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:00:45:878  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 14:00:46:155  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 14:00:46:234  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:00:46:297  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:00:46:359  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:01:04:765  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:01:04:827  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:01:13:324  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 3^0.949999988079071^0^0 | undefined
+14/02/2023 14:01:13:384  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:01:13:446  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:01:13:507  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:01:28:332  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 14:01:28:395  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 14:01:32:503  INFO - Node Entry | session id:sess3055871 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 14:03:09:580  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 14:03:09:759  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 14:03:09:842  INFO - Start | session id:sess3384477 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 14:03:09:842  INFO - In Progress | session id:sess3384477 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 14:03:15:289  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 14:03:23:042  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:03:23:119  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 14:03:27:425  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:03:27:486  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 14:03:27:547  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 14:03:31:475  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 14:03:34:268  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 14:03:49:284  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 14:03:49:348  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 14:03:53:190  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 14:03:53:847  INFO - Node Entry | session id:sess3384477 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 14:03:53:849  INFO - End | session id:sess3384477 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 14:03:53:851  INFO - Application Exit | session id:sess3384477 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 14:04:47:260  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 14:04:47:440  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 14:04:47:518  INFO - Start | session id:sess5747182 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 14:04:47:518  INFO - In Progress | session id:sess5747182 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 14:04:53:015  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 14:04:54:738  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:04:54:815  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 14:05:04:538  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^1 | undefined
+14/02/2023 14:05:04:600  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 14:05:04:662  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 14:05:11:533  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 14:05:14:732  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 14:05:16:052  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 14:05:16:114  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:05:16:177  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:05:16:239  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:05:24:100  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:05:24:349  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 14:05:24:412  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-NocartAnnounce | Framework | CartMenuFlow-NocartAnnounce |  |  | undefined
+14/02/2023 14:05:27:025  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection |  |  | undefined
+14/02/2023 14:05:27:087  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:06:09:915  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^1 | undefined
+14/02/2023 14:06:09:976  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:06:10:038  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:06:10:100  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:06:15:646  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:06:15:709  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 14:06:15:973  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 14:06:16:035  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:06:16:095  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:06:16:157  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:06:29:207  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:06:29:270  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:06:34:606  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:06:34:668  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:06:34:730  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:06:34:791  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:06:55:996  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:06:56:058  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 14:06:58:160  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 14:06:58:222  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:06:58:284  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:06:58:346  INFO - Node Entry | session id:sess5747182 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:26:45:122  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 14:26:45:412  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 14:26:45:494  INFO - Start | session id:sess3083460 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 14:26:45:494  INFO - In Progress | session id:sess3083460 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 14:26:50:955  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 14:26:57:848  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:26:57:926  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 14:26:59:586  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:26:59:649  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 14:26:59:711  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 14:27:04:781  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:07:372  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:09:720  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 14:27:09:797  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 14:27:09:874  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 14:27:33:574  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:36:627  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 2222^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:37:848  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 14:27:37:911  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:27:37:972  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:27:38:034  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:27:43:814  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:43:877  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:27:46:532  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:46:594  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:27:46:657  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:27:46:719  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:27:51:131  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:27:51:193  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 14:27:51:456  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 14:27:51:534  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:27:51:596  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:27:51:660  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:28:00:502  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:00:566  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:28:23:627  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:23:688  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:28:23:750  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:28:23:812  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:28:31:043  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:31:105  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 14:28:31:291  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 14:28:31:368  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:28:31:430  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:28:31:493  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:28:34:572  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-returnToSelection | Framework | CartMenuFlow-returnToSelection | CartMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:34:635  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CategoryMenu | Framework | ExistUser-CategoryMenu |  |  | undefined
+14/02/2023 14:28:42:056  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-bookSelectionByCategory | Framework | ExistUser-bookSelectionByCategory | CategoryMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:42:118  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-Begin | Framework | BookSelectionByCategory-Begin |  |  | undefined
+14/02/2023 14:28:42:179  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-CategoryBooksCheck | Framework | BookSelectionByCategory-CategoryBooksCheck |  |  | undefined
+14/02/2023 14:28:42:243  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-BookSelectionMenu | Framework | BookSelectionByCategory-BookSelectionMenu |  |  | undefined
+14/02/2023 14:28:44:046  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:BookSelectionByCategory-ReturnTocart | Framework | BookSelectionByCategory-ReturnTocart | BookSelectionMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:44:108  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-bookAddData | Framework | ExistUser-bookAddData |  |  | undefined
+14/02/2023 14:28:44:372  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-BookAddedAnnouncement | Framework | ExistUser-BookAddedAnnouncement |  |  | undefined
+14/02/2023 14:28:44:433  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:28:44:495  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:28:44:557  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:28:49:263  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:28:49:512  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 14:28:49:574  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-cartDataAnnounce | Framework | CartMenuFlow-cartDataAnnounce |  |  | undefined
+14/02/2023 14:28:49:840  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 14:29:43:335  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 14:29:43:398  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 14:29:43:891  INFO - Node Entry | session id:sess3083460 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 14:29:43:894  INFO - End | session id:sess3083460 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 14:29:43:895  INFO - Application Exit | session id:sess3083460 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 14:50:53:209  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 14:50:53:424  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 14:50:53:519  INFO - Start | session id:sess2658367 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 14:50:53:519  INFO - In Progress | session id:sess2658367 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 14:50:58:999  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 14:51:09:667  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:51:09:744  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 14:51:15:716  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 14:51:15:778  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 14:51:15:840  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 14:51:18:905  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 14:51:21:549  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 14:51:21:968  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 14:51:22:030  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 14:51:22:092  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 14:51:22:154  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 14:51:27:959  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 14:51:28:067  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 14:51:28:129  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 14:51:43:546  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:CartMenuFlow-AgentTransfer | Framework | CartMenuFlow-AgentTransfer | cartOptionsMenu___utterance | 3^0.949999988079071^0^0 | undefined
+14/02/2023 14:51:43:608  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:agentTransfer-Begin | Framework | agentTransfer-Begin |  |  | undefined
+14/02/2023 14:51:43:670  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:agentTransfer-AgentTransferAnnounce | Framework | agentTransfer-AgentTransferAnnounce |  |  | undefined
+14/02/2023 14:51:49:664  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 14:51:49:728  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 14:51:51:145  INFO - Node Entry | session id:sess2658367 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 14:51:51:145  INFO - End | session id:sess2658367 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 14:51:51:145  INFO - Application Exit | session id:sess2658367 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 14:59:56:798  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 14:59:56:890  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 14:59:56:892  INFO - Start | session id:sess1234837 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 14:59:56:892  INFO - In Progress | session id:sess1234837 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 15:00:02:348  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 15:00:19:713  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 15:00:19:775  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 15:00:22:003  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 15:00:22:066  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 15:00:22:127  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 15:00:26:328  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 15:00:28:891  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 15:00:29:042  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 15:00:29:104  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 15:00:29:165  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 15:00:29:227  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 15:00:37:073  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 15:00:37:195  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 15:00:37:257  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 15:00:48:482  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 15:01:10:248  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 15:30:20:503  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 15:30:20:566  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 15:30:20:644  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 15:30:21:606  INFO - Node Entry | session id:sess1234837 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 15:30:21:606  INFO - End | session id:sess1234837 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 15:30:21:606  INFO - Application Exit | session id:sess1234837 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 15:39:19:022  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 15:39:19:220  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 15:39:19:319  INFO - Start | session id:sess8304007 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 15:39:19:320  INFO - In Progress | session id:sess8304007 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 15:39:24:780  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 15:39:34:680  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 15:39:34:758  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 15:39:42:546  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^1 | undefined
+14/02/2023 15:39:42:608  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 15:39:42:670  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 15:39:48:051  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 15:39:51:082  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 15:39:53:504  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 15:39:53:582  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 15:39:53:645  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 15:40:13:149  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 15:40:18:832  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1122^0.949999988079071^0^0 | undefined
+14/02/2023 15:40:20:089  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 15:40:20:152  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 15:40:20:229  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 15:40:24:536  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 15:40:27:073  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 15:40:27:197  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 15:40:27:259  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 15:40:27:321  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 15:40:27:384  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 15:40:31:124  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 15:40:31:262  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 15:40:31:325  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 15:40:50:095  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 15:41:04:857  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 3^0.949999988079071^0^0 | undefined
+14/02/2023 15:41:52:545  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 15:41:52:609  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 15:41:53:194  INFO - Node Entry | session id:sess8304007 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 15:41:53:197  INFO - End | session id:sess8304007 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 15:41:53:197  INFO - Application Exit | session id:sess8304007 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 16:04:39:003  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 16:04:39:197  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 16:04:39:279  INFO - Start | session id:sess2141933 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 16:04:39:280  INFO - In Progress | session id:sess2141933 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 16:04:44:778  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 16:04:54:816  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 16:04:54:894  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 16:05:06:097  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 16:05:06:160  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 16:05:06:221  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 16:05:11:099  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 16:05:14:006  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 16:05:14:408  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 16:05:14:470  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 16:05:14:532  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 16:05:14:593  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 16:05:25:168  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:05:25:323  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 16:05:25:385  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 16:05:46:005  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:05:51:801  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:06:15:155  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 16:06:15:218  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 16:06:18:838  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 16:06:19:522  INFO - Node Entry | session id:sess2141933 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 16:06:19:524  INFO - End | session id:sess2141933 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 16:06:19:525  INFO - Application Exit | session id:sess2141933 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 16:21:06:294  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 16:21:06:569  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 16:21:06:662  INFO - Start | session id:sess7845837 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 16:21:06:663  INFO - In Progress | session id:sess7845837 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 16:21:12:163  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 16:21:14:832  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 16:21:14:910  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 16:21:16:664  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 16:21:16:727  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 16:21:16:788  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 16:21:20:750  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 16:21:24:966  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 16:21:25:335  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 16:21:25:397  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 16:21:25:458  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 16:21:25:521  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 16:21:31:307  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:21:31:414  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 16:21:31:476  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 16:21:43:572  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:21:51:417  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:22:13:681  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartProductCount | Framework | CartMenuFlow-cartProductCount | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:22:19:233  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartModifyCountData | Framework | CartMenuFlow-cartModifyCountData | cartProductCount___utterance | 12^0.949999988079071^0^0 | undefined
+14/02/2023 16:22:19:450  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-cartEditAnnounce | Framework | CartMenuFlow-cartEditAnnounce |  |  | undefined
+14/02/2023 16:22:22:576  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 16:23:03:536  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 16:23:03:599  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 16:23:04:267  INFO - Node Entry | session id:sess7845837 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 16:23:04:268  INFO - End | session id:sess7845837 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 16:23:04:269  INFO - Application Exit | session id:sess7845837 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 16:35:05:783  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 16:35:05:993  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 16:35:06:084  INFO - Start | session id:sess8700292 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 16:35:06:085  INFO - In Progress | session id:sess8700292 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 16:35:11:575  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 16:35:13:270  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:13:348  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 16:35:17:186  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:17:247  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 16:35:17:309  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 16:35:19:967  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:22:314  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:23:395  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 16:35:23:457  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 16:35:23:519  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 16:35:23:582  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 16:35:29:358  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:29:482  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 16:35:29:544  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 16:35:37:385  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:47:230  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:35:57:575  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartProductCount | Framework | CartMenuFlow-cartProductCount | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:36:04:491  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartModifyCountData | Framework | CartMenuFlow-cartModifyCountData | cartProductCount___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 16:36:04:737  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-cartEditAnnounce | Framework | CartMenuFlow-cartEditAnnounce |  |  | undefined
+14/02/2023 16:36:07:830  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 16:36:20:315  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 16:36:20:378  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 16:36:20:951  INFO - Node Entry | session id:sess8700292 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 16:36:20:952  INFO - End | session id:sess8700292 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 16:36:20:952  INFO - Application Exit | session id:sess8700292 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 17:10:54:426  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 17:10:54:599  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 17:10:54:661  INFO - Start | session id:sess2233510 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 17:10:54:661  INFO - In Progress | session id:sess2233510 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 17:11:00:109  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 17:11:14:938  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:11:15:017  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 17:11:42:184  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:11:42:247  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 17:11:42:308  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:11:47:361  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 17:11:51:493  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 17:11:51:820  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:11:51:883  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 17:11:51:947  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 17:11:52:009  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:12:05:639  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^1 | undefined
+14/02/2023 17:12:05:765  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 17:12:05:828  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 17:12:17:692  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:12:25:493  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:12:35:697  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartProductCount | Framework | CartMenuFlow-cartProductCount | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:12:42:713  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartModifyCountData | Framework | CartMenuFlow-cartModifyCountData | cartProductCount___utterance | 5^0.949999988079071^0^0 | undefined
+14/02/2023 17:12:42:867  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-cartEditAnnounce | Framework | CartMenuFlow-cartEditAnnounce |  |  | undefined
+14/02/2023 17:12:45:954  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:13:14:460  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 17:13:14:523  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 17:13:15:147  INFO - Node Entry | session id:sess2233510 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 17:13:15:148  INFO - End | session id:sess2233510 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 17:13:15:148  INFO - Application Exit | session id:sess2233510 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 17:16:55:170  INFO - Node Entry | session id:sess146166 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 17:16:55:326  INFO - Node Entry | session id:sess146166 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 17:16:55:382  INFO - Start | session id:sess146166 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 17:16:55:382  INFO - In Progress | session id:sess146166 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 17:17:00:813  INFO - Node Entry | session id:sess146166 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 17:17:05:547  INFO - Node Entry | session id:sess146166 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:05:625  INFO - Node Entry | session id:sess146166 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 17:17:09:435  INFO - Node Entry | session id:sess146166 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:09:498  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 17:17:09:560  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:17:14:215  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100000^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:17:624  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1111^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:17:923  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:17:17:987  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 17:17:18:049  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 17:17:18:112  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:17:25:920  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:26:029  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 17:17:26:090  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 17:17:37:827  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:43:587  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:46:283  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-cartItemsMenuData | Framework | CartMenuFlow-cartItemsMenuData | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:17:46:346  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-productModifySwap | Framework | CartMenuFlow-productModifySwap |  |  | undefined
+14/02/2023 17:17:46:407  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-removeProduct | Framework | CartMenuFlow-removeProduct |  |  | undefined
+14/02/2023 17:17:46:609  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-removeProductAnnounce | Framework | CartMenuFlow-removeProductAnnounce |  |  | undefined
+14/02/2023 17:17:49:843  INFO - Node Entry | session id:sess146166 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:18:22:077  INFO - Node Entry | session id:sess146166 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 17:18:22:140  INFO - Node Entry | session id:sess146166 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 17:18:22:718  INFO - Node Entry | session id:sess146166 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 17:18:22:719  INFO - End | session id:sess146166 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 17:18:22:719  INFO - Application Exit | session id:sess146166 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 17:21:58:743  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 17:21:58:945  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 17:21:59:011  INFO - Start | session id:sess6929966 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 17:21:59:011  INFO - In Progress | session id:sess6929966 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 17:22:04:461  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 17:22:15:446  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:22:15:524  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 17:22:19:329  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:22:19:392  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 17:22:19:454  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:22:31:909  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^1 | undefined
+14/02/2023 17:22:36:819  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1255^0.949999988079071^0^0 | undefined
+14/02/2023 17:22:37:118  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:22:37:180  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 17:22:37:244  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:22:44:009  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 17:22:47:495  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 2222^0.949999988079071^0^0 | undefined
+14/02/2023 17:22:47:588  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:22:47:651  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 17:22:47:713  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 17:22:47:774  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:22:51:471  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:22:51:580  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 17:22:51:644  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 17:22:57:406  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:23:05:211  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:23:12:907  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-cartItemsMenuData | Framework | CartMenuFlow-cartItemsMenuData | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:23:12:969  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-productModifySwap | Framework | CartMenuFlow-productModifySwap |  |  | undefined
+14/02/2023 17:23:13:033  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-removeProduct | Framework | CartMenuFlow-removeProduct |  |  | undefined
+14/02/2023 17:23:13:172  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-removeProductAnnounce | Framework | CartMenuFlow-removeProductAnnounce |  |  | undefined
+14/02/2023 17:23:16:411  INFO - Node Entry | session id:sess6929966 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:25:08:056  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 17:25:08:209  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 17:25:08:285  INFO - Start | session id:sess5440401 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 17:25:08:285  INFO - In Progress | session id:sess5440401 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 17:25:13:731  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 17:25:24:162  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:25:24:241  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 17:25:31:921  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^1 | undefined
+14/02/2023 17:25:31:984  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 17:25:32:048  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:25:39:144  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 17:25:42:301  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 2222^0.949999988079071^0^0 | undefined
+14/02/2023 17:25:42:627  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:25:42:690  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 17:25:42:752  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 17:25:42:814  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:25:54:156  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:25:54:280  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 17:25:54:341  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 17:25:58:046  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:26:05:858  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:26:24:630  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartItemsMenuData | Framework | CartMenuFlow-cartItemsMenuData | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:26:24:693  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-productModifySwap | Framework | CartMenuFlow-productModifySwap |  |  | undefined
+14/02/2023 17:26:24:756  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartProductCount | Framework | CartMenuFlow-cartProductCount |  |  | undefined
+14/02/2023 17:26:30:239  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartModifyCountData | Framework | CartMenuFlow-cartModifyCountData | cartProductCount___utterance | 25^0.949999988079071^0^0 | undefined
+14/02/2023 17:26:30:471  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartEditAnnounce | Framework | CartMenuFlow-cartEditAnnounce |  |  | undefined
+14/02/2023 17:26:33:568  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:26:44:792  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:26:44:885  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 17:26:44:948  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 17:26:58:189  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:27:01:878  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:27:09:143  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartItemsMenuData | Framework | CartMenuFlow-cartItemsMenuData | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:27:09:205  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-productModifySwap | Framework | CartMenuFlow-productModifySwap |  |  | undefined
+14/02/2023 17:27:09:269  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartProductCount | Framework | CartMenuFlow-cartProductCount |  |  | undefined
+14/02/2023 17:27:14:245  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CartMenuFlow-cartModifyCountData | Framework | CartMenuFlow-cartModifyCountData | cartProductCount___utterance | 25^0.949999988079071^0^0 | undefined
+14/02/2023 17:27:29:279  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:badfetchData | Framework | badfetchData |  |  | undefined
+14/02/2023 17:27:29:343  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/02/2023 17:27:33:214  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  | ^^0^0 | undefined
+14/02/2023 17:27:33:727  INFO - Node Entry | session id:sess5440401 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 17:27:33:728  INFO - End | session id:sess5440401 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 17:27:33:729  INFO - Application Exit | session id:sess5440401 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined
+14/02/2023 17:33:09:981  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:Start | Framework | Start |  |  | 
+14/02/2023 17:33:10:149  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:Welcome | Framework | Welcome |  |  | undefined
+14/02/2023 17:33:10:232  INFO - Start | session id:sess8947958 | ElibraryFlows:Welcome | wecome start | Welcome Announcement start |  |  | undefined
+14/02/2023 17:33:10:233  INFO - In Progress | session id:sess8947958 | ElibraryFlows:Welcome | Welcome | Welcome Announcement Stop |  |  | undefined
+14/02/2023 17:33:15:676  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:langMenu | Framework | langMenu |  |  | undefined
+14/02/2023 17:33:19:891  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:LanguageAnnounce | Framework | LanguageAnnounce | langMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:33:19:967  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:userMenu | Framework | userMenu |  |  | undefined
+14/02/2023 17:33:21:603  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:Exist | Framework | Exist | userMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:33:21:664  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-Begin | Framework | ExistUser-Begin |  |  | undefined
+14/02/2023 17:33:21:727  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:33:28:198  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 17:33:31:781  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 1236^0.949999988079071^0^0 | undefined
+14/02/2023 17:33:32:770  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:33:32:833  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-passwordEventAnnounce | Framework | ExistUser-passwordEventAnnounce |  |  | undefined
+14/02/2023 17:33:32:911  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-userId | Framework | ExistUser-userId |  |  | undefined
+14/02/2023 17:33:37:788  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-password | Framework | ExistUser-password | userId___utterance | 100001^0.949999988079071^0^0 | undefined
+14/02/2023 17:33:41:476  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-passwordVerify | Framework | ExistUser-passwordVerify | password___utterance | 2222^0.949999988079071^0^0 | undefined
+14/02/2023 17:33:41:585  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-passCheck | Framework | ExistUser-passCheck |  |  | undefined
+14/02/2023 17:33:41:647  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ExistUser-CartFlow | Framework | ExistUser-CartFlow |  |  | undefined
+14/02/2023 17:33:41:709  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-Begin | Framework | CartMenuFlow-Begin |  |  | undefined
+14/02/2023 17:33:41:771  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:33:47:494  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartDataCheck | Framework | CartMenuFlow-cartDataCheck | CartMenu___utterance | 1^0.949999988079071^0^1 | undefined
+14/02/2023 17:33:47:601  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartSwap | Framework | CartMenuFlow-cartSwap |  |  | undefined
+14/02/2023 17:33:47:663  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartOptionsMenu | Framework | CartMenuFlow-cartOptionsMenu |  |  | undefined
+14/02/2023 17:33:55:480  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartEditMenu | Framework | CartMenuFlow-cartEditMenu | cartOptionsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:34:03:289  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartItemsMenu | Framework | CartMenuFlow-cartItemsMenu | cartEditMenu___utterance | 2^0.949999988079071^0^0 | undefined
+14/02/2023 17:34:13:437  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartItemsMenuData | Framework | CartMenuFlow-cartItemsMenuData | cartItemsMenu___utterance | 1^0.949999988079071^0^0 | undefined
+14/02/2023 17:34:13:500  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-productModifySwap | Framework | CartMenuFlow-productModifySwap |  |  | undefined
+14/02/2023 17:34:13:563  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartProductCount | Framework | CartMenuFlow-cartProductCount |  |  | undefined
+14/02/2023 17:34:18:856  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartModifyCountData | Framework | CartMenuFlow-cartModifyCountData | cartProductCount___utterance | 12^0.949999988079071^0^0 | undefined
+14/02/2023 17:34:19:092  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-cartEditAnnounce | Framework | CartMenuFlow-cartEditAnnounce |  |  | undefined
+14/02/2023 17:34:22:196  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:CartMenuFlow-CartMenu | Framework | CartMenuFlow-CartMenu |  |  | undefined
+14/02/2023 17:34:38:480  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:hangupData | Framework | hangupData |  |  | undefined
+14/02/2023 17:34:38:544  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:ivrInfoData | Framework | ivrInfoData |  |  | undefined
+14/02/2023 17:34:39:086  INFO - Node Entry | session id:sess8947958 | ElibraryFlows:Exit | Framework | Exit |  |  | undefined
+14/02/2023 17:34:39:087  INFO - End | session id:sess8947958 | ElibraryFlows:Exit | CallEnd | Call End here |  |  | undefined
+14/02/2023 17:34:39:087  INFO - Application Exit | session id:sess8947958 | ElibraryFlows:Exit | Framework | Application Exiting |  |  | undefined

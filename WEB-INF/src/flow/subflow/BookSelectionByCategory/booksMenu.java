@@ -165,7 +165,7 @@ public class booksMenu extends com.avaya.sce.runtime.Menu {
 			String categoryName = mySession.getVariableField(IProjectVariables.MENU_COMMON,
 					IProjectVariables.MENU_COMMON_FIELD_CATEGORY_NAME).getStringValue();
 			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, "http://localhost:8082/product/getbooks/"+categoryName.replaceAll(" ", "%20"), mySession);
-			List<JSONObject> apiGet = integration.apiGet("http://localhost:8082/product/getbooks/"+categoryName.replaceAll(" ", "%20"));
+			List<JSONObject> apiGet = integration.apiGet("http://localhost:8082/product/getbooks/"+categoryName.replaceAll(" ", "%20"),mySession);
 			TraceInfo.trace(ITraceInfo.TRACE_LEVEL_INFO, apiGet.toString(), mySession);
 			for (int i = 0; i < apiGet.size(); i++) {
 				booksList.add(apiGet.get(i).get("bookName").toString());
